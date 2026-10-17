@@ -33,12 +33,15 @@ webmaster_verifications:
   google:
   bing:
 
+# GoatCounter (https://snanduri.goatcounter.com): cookie-less visit counting.
+# Counts load only in production builds, so local previews are not counted.
 analytics:
   goatcounter:
-    id:
+    id: snanduri
 
+# Shows "N views" on each post (needs "Allow adding visitor counts" enabled in GoatCounter)
 pageviews:
-  provider:
+  provider: goatcounter
 
 # Empty = follow the reader's system setting, with a light/dark toggle in the sidebar
 theme_mode:

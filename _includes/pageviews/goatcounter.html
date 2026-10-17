@@ -1,0 +1,29 @@
+<!--
+  Replaces jekyll-theme-chirpy 7.6.0 _includes/pageviews/goatcounter.html.
+  Chirpy shows "1" when GoatCounter can't be read; this hides the count instead,
+  and tries the path both with and without its trailing slash.
+-->
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const pv = document.getElementById('pageviews');
+    if (pv === null) return;
+
+    const wrapper = pv.parentElement;
+    const base = 'https://{{ site.analytics.goatcounter.id }}.goatcounter.com/counter/';
+    const path = location.pathname;
+    const candidates = [path, path.replace(/\/$/, '')].filter((p, i, all) => p && all.indexOf(p) === i);
+
+    const read = (p) =>
+      fetch(base + encodeURIComponent(p) + '.json').then((r) => (r.ok ? r.json() : Promise.reject(r.status)));
+
+    candidates
+      .reduce((chain, p) => chain.catch(() => read(p)), Promise.reject())
+      .then((data) => {
+        const count = Number(String(data.count).replace(/\D/g, ''));
+        pv.innerText = new Intl.NumberFormat().format(count);
+      })
+      .catch(() => {
+        wrapper.hidden = true;
+      });
+  });
+</script>

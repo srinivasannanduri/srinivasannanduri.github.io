@@ -1,2 +1,22 @@
 <!-- Site fonts: Archivo for headings, IBM Plex Sans for text, IBM Plex Mono for code and labels -->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500..800&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+
+{% if jekyll.environment == 'production' and site.analytics.goatcounter.id %}
+<!-- Site-wide visit total in the footer, from GoatCounter's public counter. Stays hidden if it can't be read. -->
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const footer = document.querySelector('footer p');
+    if (!footer) return;
+    fetch('https://{{ site.analytics.goatcounter.id }}.goatcounter.com/counter/TOTAL.json')
+      .then((r) => (r.ok ? r.json() : Promise.reject(r.status)))
+      .then((data) => {
+        const count = Number(String(data.count).replace(/\D/g, ''));
+        const span = document.createElement('span');
+        span.className = 'site-visits';
+        span.textContent = new Intl.NumberFormat().format(count) + (count === 1 ? ' visit' : ' visits');
+        footer.append(' · ', span);
+      })
+      .catch(() => {});
+  });
+</script>
+{% endif %}
