@@ -1,0 +1,6092 @@
+{
+  "profile": "https://www.goodreads.com/user/show/36011711-srinivasan-nanduri",
+  "currently_reading": [
+    {
+      "id": "238227532",
+      "title": "Designing Data-Intensive Applications",
+      "author": "Martin Kleppmann",
+      "rating": null,
+      "read_at": null,
+      "added_at": "2026-10-06",
+      "url": "https://www.goodreads.com/book/show/238227532"
+    },
+    {
+      "id": "218272975",
+      "title": "Coding Interview Patterns",
+      "author": "Alex Xu",
+      "rating": null,
+      "read_at": null,
+      "added_at": "2026-10-06",
+      "url": "https://www.goodreads.com/book/show/218272975"
+    },
+    {
+      "id": "203061454",
+      "title": "A Common-Sense Guide to Data Structures and Algorithms in Python, Volume 1",
+      "author": "Jay Wengrow",
+      "rating": null,
+      "read_at": null,
+      "added_at": "2026-10-03",
+      "url": "https://www.goodreads.com/book/show/203061454"
+    },
+    {
+      "id": "62313346",
+      "title": "Excellent Advice for Living",
+      "author": "Kevin Kelly",
+      "rating": null,
+      "read_at": null,
+      "added_at": "2026-09-29",
+      "url": "https://www.goodreads.com/book/show/62313346"
+    },
+    {
+      "id": "254342732",
+      "title": "Speak Lead Inspire",
+      "author": "Ravi G Motwani",
+      "rating": null,
+      "read_at": null,
+      "added_at": "2026-09-29",
+      "url": "https://www.goodreads.com/book/show/254342732"
+    },
+    {
+      "id": "199699997",
+      "title": "The Engineering Executive's Primer",
+      "author": "Will Larson",
+      "rating": null,
+      "read_at": null,
+      "added_at": "2026-09-19",
+      "url": "https://www.goodreads.com/book/show/199699997"
+    },
+    {
+      "id": "254748898",
+      "title": "The Thinking Machine",
+      "author": "Stephen Witt",
+      "rating": null,
+      "read_at": null,
+      "added_at": "2026-08-01",
+      "url": "https://www.goodreads.com/book/show/254748898"
+    },
+    {
+      "id": "62675290",
+      "title": "BHAGAVAD GITA",
+      "author": "Swami Mukundananda",
+      "rating": null,
+      "read_at": null,
+      "added_at": "2025-12-31",
+      "url": "https://www.goodreads.com/book/show/62675290"
+    }
+  ],
+  "read": [
+    {
+      "id": "55130383",
+      "title": "6 Secrets Smart Students Don’t tell you",
+      "author": "Chandan Deshmukh",
+      "rating": 3,
+      "read_at": "2026-10-04",
+      "added_at": "2026-10-04",
+      "url": "https://www.goodreads.com/book/show/55130383"
+    },
+    {
+      "id": "204133541",
+      "title": "Think Python",
+      "author": "Allen Downey",
+      "rating": 3,
+      "read_at": "2026-10-03",
+      "added_at": "2026-10-03",
+      "url": "https://www.goodreads.com/book/show/204133541"
+    },
+    {
+      "id": "205901112",
+      "title": "HBR Daily Leader",
+      "author": "Harvard Business Review",
+      "rating": 3,
+      "read_at": "2026-10-01",
+      "added_at": "2026-10-01",
+      "url": "https://www.goodreads.com/book/show/205901112"
+    },
+    {
+      "id": "61795027",
+      "title": "Think Like a CTO",
+      "author": "Alan Williamson",
+      "rating": 4,
+      "read_at": "2026-09-20",
+      "added_at": "2026-09-20",
+      "url": "https://www.goodreads.com/book/show/61795027"
+    },
+    {
+      "id": "36517037",
+      "title": "Software Design X-Rays",
+      "author": "Adam Tornhill",
+      "rating": 4,
+      "read_at": "2026-09-20",
+      "added_at": "2026-09-20",
+      "url": "https://www.goodreads.com/book/show/36517037"
+    },
+    {
+      "id": "33206",
+      "title": "The Minto Pyramid Principle",
+      "author": "Barbara Minto",
+      "rating": 4,
+      "read_at": "2026-09-20",
+      "added_at": "2026-09-20",
+      "url": "https://www.goodreads.com/book/show/33206"
+    },
+    {
+      "id": "201775519",
+      "title": "Boundaries = Freedom",
+      "author": "Joseph Nguyen",
+      "rating": 4,
+      "read_at": "2026-09-19",
+      "added_at": "2026-09-19",
+      "url": "https://www.goodreads.com/book/show/201775519"
+    },
+    {
+      "id": "63122650",
+      "title": "beyond thoughts",
+      "author": "Joseph Nguyen",
+      "rating": 4,
+      "read_at": "2026-09-19",
+      "added_at": "2026-09-19",
+      "url": "https://www.goodreads.com/book/show/63122650"
+    },
+    {
+      "id": "63831795",
+      "title": "Don't Believe Everything You Think",
+      "author": "Joseph Nguyen",
+      "rating": 4,
+      "read_at": "2026-09-19",
+      "added_at": "2026-09-19",
+      "url": "https://www.goodreads.com/book/show/63831795"
+    },
+    {
+      "id": "253953583",
+      "title": "Becoming Hanuman",
+      "author": "Anand Bhardwaj",
+      "rating": 5,
+      "read_at": "2026-09-19",
+      "added_at": "2026-09-19",
+      "url": "https://www.goodreads.com/book/show/253953583"
+    },
+    {
+      "id": "16130489",
+      "title": "Chicken Soup for the Soul",
+      "author": "Jack Canfield",
+      "rating": 3,
+      "read_at": "2026-09-18",
+      "added_at": "2026-09-18",
+      "url": "https://www.goodreads.com/book/show/16130489"
+    },
+    {
+      "id": "255779600",
+      "title": "The Invisible Machinery",
+      "author": "Mr Ranga Bashyam G",
+      "rating": null,
+      "read_at": "2026-09-11",
+      "added_at": "2026-09-11",
+      "url": "https://www.goodreads.com/book/show/255779600"
+    },
+    {
+      "id": "18770267",
+      "title": "Make It Stick",
+      "author": "Peter C. Brown",
+      "rating": 4,
+      "read_at": "2026-09-10",
+      "added_at": "2026-09-10",
+      "url": "https://www.goodreads.com/book/show/18770267"
+    },
+    {
+      "id": "36325705",
+      "title": "The Communication Book",
+      "author": "Roman Tschäppeler Mikael Krogerus",
+      "rating": 3,
+      "read_at": "2026-09-10",
+      "added_at": "2026-09-10",
+      "url": "https://www.goodreads.com/book/show/36325705"
+    },
+    {
+      "id": "33239198",
+      "title": "So Good They Can't Ignore You",
+      "author": "Cal Newport",
+      "rating": 4,
+      "read_at": "2026-09-10",
+      "added_at": "2026-09-10",
+      "url": "https://www.goodreads.com/book/show/33239198"
+    },
+    {
+      "id": "231111224",
+      "title": "The World is as You Are",
+      "author": "Nada Amari",
+      "rating": 5,
+      "read_at": "2026-09-10",
+      "added_at": "2026-09-10",
+      "url": "https://www.goodreads.com/book/show/231111224"
+    },
+    {
+      "id": "237913916",
+      "title": "Product Driven",
+      "author": "Matt Watson",
+      "rating": 4,
+      "read_at": "2026-08-28",
+      "added_at": "2026-08-28",
+      "url": "https://www.goodreads.com/book/show/237913916"
+    },
+    {
+      "id": "237902729",
+      "title": "Beyond the Syllabus",
+      "author": "Ankur Warikoo",
+      "rating": 4,
+      "read_at": "2026-08-28",
+      "added_at": "2026-08-28",
+      "url": "https://www.goodreads.com/book/show/237902729"
+    },
+    {
+      "id": "25030239",
+      "title": "Don't Sprint The Marathon",
+      "author": "V Raghunathan",
+      "rating": 4,
+      "read_at": "2026-08-21",
+      "added_at": "2026-08-21",
+      "url": "https://www.goodreads.com/book/show/25030239"
+    },
+    {
+      "id": "25254449",
+      "title": "What Got You Here Won't Get You There",
+      "author": "Marshall Goldsmith",
+      "rating": 4,
+      "read_at": "2026-08-09",
+      "added_at": "2026-08-09",
+      "url": "https://www.goodreads.com/book/show/25254449"
+    },
+    {
+      "id": "43621841",
+      "title": "The Little Book of Stoicism",
+      "author": "Jonas Salzgeber",
+      "rating": 5,
+      "read_at": "2026-08-08",
+      "added_at": "2026-08-08",
+      "url": "https://www.goodreads.com/book/show/43621841"
+    },
+    {
+      "id": "205435961",
+      "title": "The Great Mental Models, Volume 1",
+      "author": "Shane Parrish",
+      "rating": 5,
+      "read_at": "2026-08-08",
+      "added_at": "2026-08-08",
+      "url": "https://www.goodreads.com/book/show/205435961"
+    },
+    {
+      "id": "209575985",
+      "title": "Make Epic Money",
+      "author": "Ankur Warikoo",
+      "rating": 3,
+      "read_at": "2026-08-08",
+      "added_at": "2026-08-08",
+      "url": "https://www.goodreads.com/book/show/209575985"
+    },
+    {
+      "id": "248995541",
+      "title": "Reliability Magic - Part 1 & Part 2 Story Edition & SRE Handbook Edition",
+      "author": "Lakshmi Seshan",
+      "rating": 3,
+      "read_at": "2026-08-08",
+      "added_at": "2026-08-08",
+      "url": "https://www.goodreads.com/book/show/248995541"
+    },
+    {
+      "id": "30646587",
+      "title": "The Simple Path to Wealth",
+      "author": "J.L. Collins",
+      "rating": 3,
+      "read_at": "2026-08-02",
+      "added_at": "2026-08-02",
+      "url": "https://www.goodreads.com/book/show/30646587"
+    },
+    {
+      "id": "252867323",
+      "title": "Let Money Chase You!",
+      "author": "Indrazith Shantharaj",
+      "rating": 4,
+      "read_at": "2026-07-19",
+      "added_at": "2026-07-19",
+      "url": "https://www.goodreads.com/book/show/252867323"
+    },
+    {
+      "id": "208936225",
+      "title": "Before Machine Learning Volume 1 - Linear Algebra for A.I",
+      "author": "Jorge Brasil",
+      "rating": null,
+      "read_at": "2026-06-17",
+      "added_at": "2026-07-19",
+      "url": "https://www.goodreads.com/book/show/208936225"
+    },
+    {
+      "id": "216193554",
+      "title": "LLM Engineer's Handbook",
+      "author": "Paul Iusztin",
+      "rating": 4,
+      "read_at": "2026-05-28",
+      "added_at": "2026-05-28",
+      "url": "https://www.goodreads.com/book/show/216193554"
+    },
+    {
+      "id": "239164185",
+      "title": "Norm and ‘Squatch Make a New Friend",
+      "author": "Josh Starmer",
+      "rating": 4,
+      "read_at": "2026-04-12",
+      "added_at": "2026-04-12",
+      "url": "https://www.goodreads.com/book/show/239164185"
+    },
+    {
+      "id": "39996759",
+      "title": "A Philosophy of Software Design",
+      "author": "John Ousterhout",
+      "rating": 5,
+      "read_at": "2026-04-10",
+      "added_at": "2026-04-10",
+      "url": "https://www.goodreads.com/book/show/39996759"
+    },
+    {
+      "id": "153275379",
+      "title": "Memory",
+      "author": "William Walker Atkinson",
+      "rating": 2,
+      "read_at": "2026-04-09",
+      "added_at": "2026-04-09",
+      "url": "https://www.goodreads.com/book/show/153275379"
+    },
+    {
+      "id": "2909149",
+      "title": "Practical Mental Influence",
+      "author": "William Walker Atkinson",
+      "rating": 1,
+      "read_at": "2026-04-09",
+      "added_at": "2026-04-09",
+      "url": "https://www.goodreads.com/book/show/2909149"
+    },
+    {
+      "id": "243585851",
+      "title": "Visualizing Generative AI",
+      "author": "Priyanka Vergadia",
+      "rating": 5,
+      "read_at": "2026-03-22",
+      "added_at": "2026-03-22",
+      "url": "https://www.goodreads.com/book/show/243585851"
+    },
+    {
+      "id": "27968891",
+      "title": "Site Reliability Engineering",
+      "author": "Betsy Beyer",
+      "rating": 5,
+      "read_at": "2026-03-13",
+      "added_at": "2026-03-13",
+      "url": "https://www.goodreads.com/book/show/27968891"
+    },
+    {
+      "id": "45303387",
+      "title": "An Elegant Puzzle",
+      "author": "Will Larson",
+      "rating": 5,
+      "read_at": "2026-03-04",
+      "added_at": "2026-03-04",
+      "url": "https://www.goodreads.com/book/show/45303387"
+    },
+    {
+      "id": "45767533",
+      "title": "Resilient Management",
+      "author": "Lara Hogan",
+      "rating": 5,
+      "read_at": "2026-02-28",
+      "added_at": "2026-02-28",
+      "url": "https://www.goodreads.com/book/show/45767533"
+    },
+    {
+      "id": "218521619",
+      "title": "The Future of No Work",
+      "author": "Filip Dřímalka",
+      "rating": 3,
+      "read_at": "2026-02-28",
+      "added_at": "2026-02-28",
+      "url": "https://www.goodreads.com/book/show/218521619"
+    },
+    {
+      "id": "56481725",
+      "title": "Staff Engineer",
+      "author": "Will Larson",
+      "rating": 5,
+      "read_at": "2026-02-07",
+      "added_at": "2026-02-07",
+      "url": "https://www.goodreads.com/book/show/56481725"
+    },
+    {
+      "id": "214640731",
+      "title": "Think Artificial Intelligence",
+      "author": "Jerry Cuomo",
+      "rating": 5,
+      "read_at": "2026-01-25",
+      "added_at": "2026-01-25",
+      "url": "https://www.goodreads.com/book/show/214640731"
+    },
+    {
+      "id": "40611510",
+      "title": "The Last Lecture",
+      "author": "Randy Pausch",
+      "rating": 5,
+      "read_at": "2026-01-14",
+      "added_at": "2026-01-14",
+      "url": "https://www.goodreads.com/book/show/40611510"
+    },
+    {
+      "id": "20958539",
+      "title": "Unlimited Memory",
+      "author": "Kevin Horsley",
+      "rating": 4,
+      "read_at": "2026-01-14",
+      "added_at": "2026-01-14",
+      "url": "https://www.goodreads.com/book/show/20958539"
+    },
+    {
+      "id": "68744925",
+      "title": "Amazing Secrets of the Bhagavad Gita",
+      "author": "Ed Viswanathan",
+      "rating": 4,
+      "read_at": "2026-01-14",
+      "added_at": "2026-01-14",
+      "url": "https://www.goodreads.com/book/show/68744925"
+    },
+    {
+      "id": "39101777",
+      "title": "Surrounded by Idiots",
+      "author": "Thomas Erikson",
+      "rating": 4,
+      "read_at": "2026-01-07",
+      "added_at": "2026-01-07",
+      "url": "https://www.goodreads.com/book/show/39101777"
+    },
+    {
+      "id": "62304741",
+      "title": "The Comfort Zone",
+      "author": "Kristen Butler",
+      "rating": 4,
+      "read_at": "2026-01-07",
+      "added_at": "2026-01-06",
+      "url": "https://www.goodreads.com/book/show/62304741"
+    },
+    {
+      "id": "13586942",
+      "title": "HBR Guide to Managing Up and Across (HBR Guide Series)",
+      "author": "Harvard Business Review",
+      "rating": 4,
+      "read_at": "2026-01-07",
+      "added_at": "2026-01-06",
+      "url": "https://www.goodreads.com/book/show/13586942"
+    },
+    {
+      "id": "215619446",
+      "title": "Kubernetes Observability in Action",
+      "author": "Gerardo Lopez Falcon",
+      "rating": 4,
+      "read_at": "2026-01-07",
+      "added_at": "2026-01-06",
+      "url": "https://www.goodreads.com/book/show/215619446"
+    },
+    {
+      "id": "58755640",
+      "title": "Crucial Conversations",
+      "author": "Kerry Patterson",
+      "rating": 4,
+      "read_at": "2026-01-07",
+      "added_at": "2026-01-06",
+      "url": "https://www.goodreads.com/book/show/58755640"
+    },
+    {
+      "id": "18685328",
+      "title": "The Five Dysfunctions of a Team",
+      "author": "Patrick Lencioni",
+      "rating": 4,
+      "read_at": "2026-01-07",
+      "added_at": "2026-01-06",
+      "url": "https://www.goodreads.com/book/show/18685328"
+    },
+    {
+      "id": "75429421",
+      "title": "Build, Don't Talk",
+      "author": "Raj Shamani",
+      "rating": 4,
+      "read_at": "2026-01-07",
+      "added_at": "2026-01-06",
+      "url": "https://www.goodreads.com/book/show/75429421"
+    },
+    {
+      "id": "13629",
+      "title": "The Mythical Man-Month",
+      "author": "Frederick P. Brooks Jr.",
+      "rating": 4,
+      "read_at": "2026-01-07",
+      "added_at": "2026-01-06",
+      "url": "https://www.goodreads.com/book/show/13629"
+    },
+    {
+      "id": "45027848",
+      "title": "Mental Models",
+      "author": "Peter Hollins",
+      "rating": 3,
+      "read_at": "2026-01-07",
+      "added_at": "2026-01-06",
+      "url": "https://www.goodreads.com/book/show/45027848"
+    },
+    {
+      "id": "235604776",
+      "title": "Winning with AI",
+      "author": "Jaspreet Bindra",
+      "rating": 3,
+      "read_at": "2026-01-06",
+      "added_at": "2026-01-06",
+      "url": "https://www.goodreads.com/book/show/235604776"
+    },
+    {
+      "id": "18652140",
+      "title": "Distributed Systems For Fun and Profit",
+      "author": "Mikito Takada",
+      "rating": 5,
+      "read_at": "2026-01-05",
+      "added_at": "2026-01-05",
+      "url": "https://www.goodreads.com/book/show/18652140"
+    },
+    {
+      "id": "37814004",
+      "title": "Leadership and Self-Deception",
+      "author": "Arbinger Institute",
+      "rating": 4,
+      "read_at": "2026-01-04",
+      "added_at": "2026-01-04",
+      "url": "https://www.goodreads.com/book/show/37814004"
+    },
+    {
+      "id": "14891980",
+      "title": "The 5 Elements of Effective Thinking",
+      "author": "Edward B. Burger",
+      "rating": 5,
+      "read_at": "2026-01-04",
+      "added_at": "2026-01-04",
+      "url": "https://www.goodreads.com/book/show/14891980"
+    },
+    {
+      "id": "3828902",
+      "title": "Thinking In Systems",
+      "author": "Donella H. Meadows",
+      "rating": 5,
+      "read_at": "2026-01-02",
+      "added_at": "2026-01-02",
+      "url": "https://www.goodreads.com/book/show/3828902"
+    },
+    {
+      "id": "5732978",
+      "title": "The Data Center as a Computer",
+      "author": "Luiz André Barroso",
+      "rating": 4,
+      "read_at": "2026-01-02",
+      "added_at": "2026-01-02",
+      "url": "https://www.goodreads.com/book/show/5732978"
+    },
+    {
+      "id": "123247910",
+      "title": "Learning eBPF",
+      "author": "Liz Rice",
+      "rating": 5,
+      "read_at": "2025-12-10",
+      "added_at": "2025-12-10",
+      "url": "https://www.goodreads.com/book/show/123247910"
+    },
+    {
+      "id": "209570532",
+      "title": "Learning OpenTelemetry",
+      "author": "Ted Young",
+      "rating": 2,
+      "read_at": "2025-10-19",
+      "added_at": "2026-03-21",
+      "url": "https://www.goodreads.com/book/show/209570532"
+    },
+    {
+      "id": "60152012",
+      "title": "Designing Microservices Platforms with NATS",
+      "author": "Chanaka Fernando",
+      "rating": 1,
+      "read_at": "2025-10-15",
+      "added_at": "2025-10-15",
+      "url": "https://www.goodreads.com/book/show/60152012"
+    },
+    {
+      "id": "233944039",
+      "title": "Learning eBPF",
+      "author": "Michael Kehoe",
+      "rating": 3,
+      "read_at": "2025-09-17",
+      "added_at": "2025-09-17",
+      "url": "https://www.goodreads.com/book/show/233944039"
+    },
+    {
+      "id": "37902327",
+      "title": "Measure What Matters",
+      "author": "John Doerr",
+      "rating": 5,
+      "read_at": "2025-07-28",
+      "added_at": "2025-07-28",
+      "url": "https://www.goodreads.com/book/show/37902327"
+    },
+    {
+      "id": "223300627",
+      "title": "Generative AI in a Nutshell",
+      "author": "Henrik Kniberg",
+      "rating": 4,
+      "read_at": "2025-07-28",
+      "added_at": "2025-07-28",
+      "url": "https://www.goodreads.com/book/show/223300627"
+    },
+    {
+      "id": "199017130",
+      "title": "The Diary of a CEO",
+      "author": "Steven Bartlett",
+      "rating": 5,
+      "read_at": "2025-07-28",
+      "added_at": "2025-07-28",
+      "url": "https://www.goodreads.com/book/show/199017130"
+    },
+    {
+      "id": "30736658",
+      "title": "Never Split the Difference",
+      "author": "Chris Voss",
+      "rating": 5,
+      "read_at": "2025-07-28",
+      "added_at": "2025-07-28",
+      "url": "https://www.goodreads.com/book/show/30736658"
+    },
+    {
+      "id": "216351768",
+      "title": "The Let Them Theory",
+      "author": "Mel Robbins",
+      "rating": 4,
+      "read_at": "2025-07-28",
+      "added_at": "2025-07-28",
+      "url": "https://www.goodreads.com/book/show/216351768"
+    },
+    {
+      "id": "139470397",
+      "title": "The Geek Way",
+      "author": "Andrew McAfee",
+      "rating": 5,
+      "read_at": "2025-07-27",
+      "added_at": "2025-07-27",
+      "url": "https://www.goodreads.com/book/show/139470397"
+    },
+    {
+      "id": "55347785",
+      "title": "Think Big",
+      "author": "Grace Lordan",
+      "rating": 4,
+      "read_at": "2025-07-27",
+      "added_at": "2025-07-27",
+      "url": "https://www.goodreads.com/book/show/55347785"
+    },
+    {
+      "id": "125156411",
+      "title": "Executive Presence 2.0",
+      "author": "Sylvia Ann Hewlett",
+      "rating": 5,
+      "read_at": "2025-07-27",
+      "added_at": "2025-07-27",
+      "url": "https://www.goodreads.com/book/show/125156411"
+    },
+    {
+      "id": "20706737",
+      "title": "Good Leaders Ask Great Questions",
+      "author": "John C. Maxwell",
+      "rating": 5,
+      "read_at": "2025-07-27",
+      "added_at": "2025-07-27",
+      "url": "https://www.goodreads.com/book/show/20706737"
+    },
+    {
+      "id": "2001132",
+      "title": "The Opposable Mind",
+      "author": "Roger L. Martin",
+      "rating": 4,
+      "read_at": "2025-07-27",
+      "added_at": "2025-07-27",
+      "url": "https://www.goodreads.com/book/show/2001132"
+    },
+    {
+      "id": "209308959",
+      "title": "Mastering the Data Paradox",
+      "author": "Nitin Seth",
+      "rating": 5,
+      "read_at": "2025-07-27",
+      "added_at": "2025-07-27",
+      "url": "https://www.goodreads.com/book/show/209308959"
+    },
+    {
+      "id": "33024376",
+      "title": "Born A Crime",
+      "author": "Trevor Noah",
+      "rating": 4,
+      "read_at": "2025-07-27",
+      "added_at": "2025-07-27",
+      "url": "https://www.goodreads.com/book/show/33024376"
+    },
+    {
+      "id": "1595177",
+      "title": "The Adventures of Johnny Bunko",
+      "author": "Daniel H. Pink",
+      "rating": 3,
+      "read_at": "2025-07-27",
+      "added_at": "2025-07-27",
+      "url": "https://www.goodreads.com/book/show/1595177"
+    },
+    {
+      "id": "40127520",
+      "title": "Drive",
+      "author": "Daniel H. Pink",
+      "rating": 5,
+      "read_at": "2025-07-27",
+      "added_at": "2025-07-27",
+      "url": "https://www.goodreads.com/book/show/40127520"
+    },
+    {
+      "id": "99315",
+      "title": "A Whole New Mind",
+      "author": "Daniel H. Pink",
+      "rating": 4,
+      "read_at": "2025-07-27",
+      "added_at": "2025-07-27",
+      "url": "https://www.goodreads.com/book/show/99315"
+    },
+    {
+      "id": "75349012",
+      "title": "Creating Software with Modern Diagramming Techniques",
+      "author": "Ashley Peacock",
+      "rating": 4,
+      "read_at": "2025-07-01",
+      "added_at": "2025-07-01",
+      "url": "https://www.goodreads.com/book/show/75349012"
+    },
+    {
+      "id": "87731866",
+      "title": "Hands-on AIOps",
+      "author": "Navin Sabharwal",
+      "rating": 2,
+      "read_at": "2025-06-21",
+      "added_at": "2025-06-21",
+      "url": "https://www.goodreads.com/book/show/87731866"
+    },
+    {
+      "id": "25326237",
+      "title": "Mahabharata [Paperback] [Jan 01, 2010] C.Rajagopalachari",
+      "author": "C. Rajagopalachari",
+      "rating": 4,
+      "read_at": "2025-06-07",
+      "added_at": "2025-06-07",
+      "url": "https://www.goodreads.com/book/show/25326237"
+    },
+    {
+      "id": "46043108",
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "rating": null,
+      "read_at": "2025-04-20",
+      "added_at": "2025-04-20",
+      "url": "https://www.goodreads.com/book/show/46043108"
+    },
+    {
+      "id": "60965426",
+      "title": "The Creative Act",
+      "author": "Rick Rubin",
+      "rating": 4,
+      "read_at": "2025-04-03",
+      "added_at": "2025-04-03",
+      "url": "https://www.goodreads.com/book/show/60965426"
+    },
+    {
+      "id": "25269295",
+      "title": "DREAM WITH YOUR EYES OPEN",
+      "author": "Ronnie Screwvala",
+      "rating": 5,
+      "read_at": "2025-04-03",
+      "added_at": "2025-04-03",
+      "url": "https://www.goodreads.com/book/show/25269295"
+    },
+    {
+      "id": "59679042",
+      "title": "Mindful Zen Habits",
+      "author": "Mark Reklau",
+      "rating": null,
+      "read_at": null,
+      "added_at": "2025-04-03",
+      "url": "https://www.goodreads.com/book/show/59679042"
+    },
+    {
+      "id": "199426471",
+      "title": "Critical Thinking, Logic & Problem Solving",
+      "author": "Neuronswaves",
+      "rating": 4,
+      "read_at": "2025-04-03",
+      "added_at": "2025-04-03",
+      "url": "https://www.goodreads.com/book/show/199426471"
+    },
+    {
+      "id": "221899283",
+      "title": "Win Your Next Hour",
+      "author": "Danny Lehr",
+      "rating": 5,
+      "read_at": "2025-03-22",
+      "added_at": "2025-03-22",
+      "url": "https://www.goodreads.com/book/show/221899283"
+    },
+    {
+      "id": "57691652",
+      "title": "High Performance",
+      "author": "Jake Humphrey",
+      "rating": 5,
+      "read_at": "2025-03-20",
+      "added_at": "2025-03-20",
+      "url": "https://www.goodreads.com/book/show/57691652"
+    },
+    {
+      "id": "42762037",
+      "title": "Zen and the Art of Happiness",
+      "author": "Chris Prentiss",
+      "rating": 4,
+      "read_at": "2025-03-19",
+      "added_at": "2025-03-19",
+      "url": "https://www.goodreads.com/book/show/42762037"
+    },
+    {
+      "id": "61170043",
+      "title": "Mental Models At Work",
+      "author": "Thinknetic",
+      "rating": 2,
+      "read_at": "2025-03-19",
+      "added_at": "2025-03-19",
+      "url": "https://www.goodreads.com/book/show/61170043"
+    },
+    {
+      "id": "123950023",
+      "title": "Building Consistent Characters with MidJourney and ChatGPT",
+      "author": "Nathan Hunter",
+      "rating": 3,
+      "read_at": "2025-03-16",
+      "added_at": "2025-03-16",
+      "url": "https://www.goodreads.com/book/show/123950023"
+    },
+    {
+      "id": "31195135",
+      "title": "I am The Mind",
+      "author": "Deep Trivedi",
+      "rating": 3,
+      "read_at": "2025-03-16",
+      "added_at": "2025-03-16",
+      "url": "https://www.goodreads.com/book/show/31195135"
+    },
+    {
+      "id": "59100527",
+      "title": "MINDFUL ZEN HABITS",
+      "author": "Manuel Villa",
+      "rating": 3,
+      "read_at": "2025-03-10",
+      "added_at": "2025-03-10",
+      "url": "https://www.goodreads.com/book/show/59100527"
+    },
+    {
+      "id": "55537584",
+      "title": "The 3 Alarms",
+      "author": "Eric Partaker",
+      "rating": 4,
+      "read_at": "2025-03-03",
+      "added_at": "2025-03-03",
+      "url": "https://www.goodreads.com/book/show/55537584"
+    },
+    {
+      "id": "36452903",
+      "title": "The Science of Self-Discipline",
+      "author": "Peter Hollins",
+      "rating": 5,
+      "read_at": "2025-03-03",
+      "added_at": "2025-03-03",
+      "url": "https://www.goodreads.com/book/show/36452903"
+    },
+    {
+      "id": "1548543",
+      "title": "Touching the Eternal - India Retreat (DVD)",
+      "author": "Eckhart Tolle",
+      "rating": 5,
+      "read_at": "2025-02-24",
+      "added_at": "2025-02-24",
+      "url": "https://www.goodreads.com/book/show/1548543"
+    },
+    {
+      "id": "38598410",
+      "title": "The Courage To Be Disliked",
+      "author": "Ichiro Kishimi",
+      "rating": 4,
+      "read_at": "2025-02-22",
+      "added_at": "2025-02-22",
+      "url": "https://www.goodreads.com/book/show/38598410"
+    },
+    {
+      "id": "37633536",
+      "title": "Human + Machine",
+      "author": "Paul R. Daugherty",
+      "rating": 3,
+      "read_at": "2025-02-22",
+      "added_at": "2025-02-22",
+      "url": "https://www.goodreads.com/book/show/37633536"
+    },
+    {
+      "id": "29776935",
+      "title": "Together Is Better",
+      "author": "Simon Sinek",
+      "rating": 5,
+      "read_at": "2025-02-22",
+      "added_at": "2025-02-22",
+      "url": "https://www.goodreads.com/book/show/29776935"
+    },
+    {
+      "id": "196221503",
+      "title": "How to Fail at Almost Everything and Still Win Big",
+      "author": "Scott Adams",
+      "rating": 5,
+      "read_at": "2025-02-21",
+      "added_at": "2025-02-21",
+      "url": "https://www.goodreads.com/book/show/196221503"
+    },
+    {
+      "id": "56556007",
+      "title": "Time-Blocking",
+      "author": "Luke Seavers",
+      "rating": 4,
+      "read_at": "2025-02-21",
+      "added_at": "2025-02-21",
+      "url": "https://www.goodreads.com/book/show/56556007"
+    },
+    {
+      "id": "18283039",
+      "title": "You Can be an Optimist",
+      "author": "Lucy MacDonald",
+      "rating": 3,
+      "read_at": "2025-02-19",
+      "added_at": "2025-02-19",
+      "url": "https://www.goodreads.com/book/show/18283039"
+    },
+    {
+      "id": "112974860",
+      "title": "How to Know a Person",
+      "author": "David Brooks",
+      "rating": 4,
+      "read_at": "2025-02-19",
+      "added_at": "2025-02-18",
+      "url": "https://www.goodreads.com/book/show/112974860"
+    },
+    {
+      "id": "196158",
+      "title": "Courage Under Fire",
+      "author": "James B. Stockdale",
+      "rating": 4,
+      "read_at": "2025-02-19",
+      "added_at": "2025-02-18",
+      "url": "https://www.goodreads.com/book/show/196158"
+    },
+    {
+      "id": "721564",
+      "title": "Being Logical",
+      "author": "D.Q. McInerny",
+      "rating": 4,
+      "read_at": "2025-02-18",
+      "added_at": "2025-02-18",
+      "url": "https://www.goodreads.com/book/show/721564"
+    },
+    {
+      "id": "41057388",
+      "title": "The Strength In Our Scars",
+      "author": "Bianca Sparacino",
+      "rating": 3,
+      "read_at": "2025-02-02",
+      "added_at": "2025-02-01",
+      "url": "https://www.goodreads.com/book/show/41057388"
+    },
+    {
+      "id": "60900852",
+      "title": "The Self-taught Programmer",
+      "author": "Cory Althoff",
+      "rating": 3,
+      "read_at": "2025-01-11",
+      "added_at": "2025-01-11",
+      "url": "https://www.goodreads.com/book/show/60900852"
+    },
+    {
+      "id": "57393737",
+      "title": "A Gentle Reminder",
+      "author": "Bianca Sparacino",
+      "rating": 4,
+      "read_at": "2025-01-11",
+      "added_at": "2025-01-11",
+      "url": "https://www.goodreads.com/book/show/57393737"
+    },
+    {
+      "id": "13259270",
+      "title": "Free Will",
+      "author": "Sam Harris",
+      "rating": 3,
+      "read_at": "2025-01-11",
+      "added_at": "2025-01-11",
+      "url": "https://www.goodreads.com/book/show/13259270"
+    },
+    {
+      "id": "42206880",
+      "title": "Side Hustle",
+      "author": "Chris Guillebeau",
+      "rating": 3,
+      "read_at": "2025-01-10",
+      "added_at": "2025-01-11",
+      "url": "https://www.goodreads.com/book/show/42206880"
+    },
+    {
+      "id": "25613432",
+      "title": "Waking Up",
+      "author": "Sam Harris",
+      "rating": 2,
+      "read_at": "2025-01-10",
+      "added_at": "2025-01-10",
+      "url": "https://www.goodreads.com/book/show/25613432"
+    },
+    {
+      "id": "63362043",
+      "title": "The 16 Undeniable Laws of Communication",
+      "author": "John C. Maxwell",
+      "rating": 5,
+      "read_at": "2025-01-01",
+      "added_at": "2025-01-01",
+      "url": "https://www.goodreads.com/book/show/63362043"
+    },
+    {
+      "id": "23493360",
+      "title": "The Entrepreneur Roller Coaster",
+      "author": "Darren Hardy",
+      "rating": 5,
+      "read_at": "2025-01-01",
+      "added_at": "2024-12-31",
+      "url": "https://www.goodreads.com/book/show/23493360"
+    },
+    {
+      "id": "158161255",
+      "title": "Timeboxing",
+      "author": "Marc Zao-Sanders",
+      "rating": 3,
+      "read_at": "2025-01-01",
+      "added_at": "2024-12-31",
+      "url": "https://www.goodreads.com/book/show/158161255"
+    },
+    {
+      "id": "174328281",
+      "title": "The Two But Rule",
+      "author": "John Wolpert",
+      "rating": 4,
+      "read_at": "2025-01-01",
+      "added_at": "2024-12-31",
+      "url": "https://www.goodreads.com/book/show/174328281"
+    },
+    {
+      "id": "182484331",
+      "title": "Unstoppable Us, Vol. 2",
+      "author": "Yuval Noah Harari",
+      "rating": 5,
+      "read_at": "2025-01-01",
+      "added_at": "2024-12-31",
+      "url": "https://www.goodreads.com/book/show/182484331"
+    },
+    {
+      "id": "60690713",
+      "title": "Unstoppable Us, Volume 1",
+      "author": "Yuval Noah Harari",
+      "rating": 5,
+      "read_at": "2025-01-01",
+      "added_at": "2024-12-31",
+      "url": "https://www.goodreads.com/book/show/60690713"
+    },
+    {
+      "id": "36203303",
+      "title": "Money",
+      "author": "Yuval Noah Harari",
+      "rating": 3,
+      "read_at": "2025-01-01",
+      "added_at": "2024-12-31",
+      "url": "https://www.goodreads.com/book/show/36203303"
+    },
+    {
+      "id": "13177468",
+      "title": "30 Days of Getting Results",
+      "author": "J.D. Meier",
+      "rating": 4,
+      "read_at": "2025-01-01",
+      "added_at": "2024-12-31",
+      "url": "https://www.goodreads.com/book/show/13177468"
+    },
+    {
+      "id": "207010088",
+      "title": "Meditations for Mortals",
+      "author": "Oliver Burkeman",
+      "rating": 4,
+      "read_at": "2024-09-29",
+      "added_at": "2024-09-29",
+      "url": "https://www.goodreads.com/book/show/207010088"
+    },
+    {
+      "id": "34773701",
+      "title": "Authentic Leadership (HBR Emotional Intelligence Series)",
+      "author": "Harvard Business Review",
+      "rating": 3,
+      "read_at": "2024-09-29",
+      "added_at": "2024-09-29",
+      "url": "https://www.goodreads.com/book/show/34773701"
+    },
+    {
+      "id": "39401826",
+      "title": "Leadership Presence (HBR Emotional Intelligence Series)",
+      "author": "Harvard Business Review",
+      "rating": 3,
+      "read_at": "2024-09-28",
+      "added_at": "2024-09-28",
+      "url": "https://www.goodreads.com/book/show/39401826"
+    },
+    {
+      "id": "169154310",
+      "title": "SRE ( Site Reliability Engineering ) Quick Learning Book",
+      "author": "GG top",
+      "rating": 3,
+      "read_at": "2024-09-28",
+      "added_at": "2024-09-28",
+      "url": "https://www.goodreads.com/book/show/169154310"
+    },
+    {
+      "id": "50374022",
+      "title": "Artificial Intelligence",
+      "author": "Melanie Mitchell",
+      "rating": 4,
+      "read_at": "2024-09-26",
+      "added_at": "2024-09-26",
+      "url": "https://www.goodreads.com/book/show/50374022"
+    },
+    {
+      "id": "122750832",
+      "title": "Ideas to Grow Your Mind",
+      "author": "Liam Finnian",
+      "rating": 4,
+      "read_at": "2024-09-26",
+      "added_at": "2024-09-26",
+      "url": "https://www.goodreads.com/book/show/122750832"
+    },
+    {
+      "id": "165938242",
+      "title": "The Stoic Path to Wealth",
+      "author": "Darius Foroux",
+      "rating": 4,
+      "read_at": "2024-09-26",
+      "added_at": "2024-09-26",
+      "url": "https://www.goodreads.com/book/show/165938242"
+    },
+    {
+      "id": "61195507",
+      "title": "EVERYDAY GITA",
+      "author": "Sunita Pant Bansal",
+      "rating": 4,
+      "read_at": "2024-09-26",
+      "added_at": "2024-09-26",
+      "url": "https://www.goodreads.com/book/show/61195507"
+    },
+    {
+      "id": "62880974",
+      "title": "Statistics for Absolute Beginners (Second Edition) (Learn Statistics & Probability Books for Beginners)",
+      "author": "Oliver Theobald",
+      "rating": 2,
+      "read_at": "2024-09-26",
+      "added_at": "2024-09-26",
+      "url": "https://www.goodreads.com/book/show/62880974"
+    },
+    {
+      "id": "42972281",
+      "title": "The Visual MBA",
+      "author": "Jason Barron",
+      "rating": 3,
+      "read_at": "2024-09-26",
+      "added_at": "2024-09-26",
+      "url": "https://www.goodreads.com/book/show/42972281"
+    },
+    {
+      "id": "49785708",
+      "title": "Four Thousand Weeks",
+      "author": "Oliver Burkeman",
+      "rating": 4,
+      "read_at": "2024-09-26",
+      "added_at": "2024-09-26",
+      "url": "https://www.goodreads.com/book/show/49785708"
+    },
+    {
+      "id": "213957612",
+      "title": "The Power of Words",
+      "author": "Mariano Sigman",
+      "rating": 3,
+      "read_at": "2024-09-23",
+      "added_at": "2025-05-19",
+      "url": "https://www.goodreads.com/book/show/213957612"
+    },
+    {
+      "id": "37595719",
+      "title": "The Miracle Morning Companion Planner",
+      "author": "Hal Elrod",
+      "rating": 4,
+      "read_at": "2024-09-17",
+      "added_at": "2024-09-17",
+      "url": "https://www.goodreads.com/book/show/37595719"
+    },
+    {
+      "id": "193540873",
+      "title": "AI for Absolute Beginners",
+      "author": "Oliver Theobald",
+      "rating": 3,
+      "read_at": "2024-07-19",
+      "added_at": "2024-07-19",
+      "url": "https://www.goodreads.com/book/show/193540873"
+    },
+    {
+      "id": "55141296",
+      "title": "Black Sheep",
+      "author": "Brant Menswar",
+      "rating": 5,
+      "read_at": "2024-07-15",
+      "added_at": "2024-07-15",
+      "url": "https://www.goodreads.com/book/show/55141296"
+    },
+    {
+      "id": "51990886",
+      "title": "Gita wisdom through quotes",
+      "author": "Chaitanya Charan Das",
+      "rating": 4,
+      "read_at": "2024-07-15",
+      "added_at": "2024-07-15",
+      "url": "https://www.goodreads.com/book/show/51990886"
+    },
+    {
+      "id": "25555839",
+      "title": "A Man Called Ove",
+      "author": "Fredrik Backman",
+      "rating": 4,
+      "read_at": "2024-07-15",
+      "added_at": "2024-07-15",
+      "url": "https://www.goodreads.com/book/show/25555839"
+    },
+    {
+      "id": "40182805",
+      "title": "Distributed Systems Observability",
+      "author": "Cindy Sridharan",
+      "rating": 4,
+      "read_at": "2024-07-14",
+      "added_at": "2024-07-14",
+      "url": "https://www.goodreads.com/book/show/40182805"
+    },
+    {
+      "id": "38900866",
+      "title": "It Doesn't Have to Be Crazy at Work",
+      "author": "Jason Fried",
+      "rating": 4,
+      "read_at": "2024-07-12",
+      "added_at": "2024-07-12",
+      "url": "https://www.goodreads.com/book/show/38900866"
+    },
+    {
+      "id": "197773418",
+      "title": "Slow Productivity",
+      "author": "Cal Newport",
+      "rating": 4,
+      "read_at": "2024-07-12",
+      "added_at": "2024-07-12",
+      "url": "https://www.goodreads.com/book/show/197773418"
+    },
+    {
+      "id": "6732019",
+      "title": "Rework",
+      "author": "Jason Fried",
+      "rating": 5,
+      "read_at": "2024-07-12",
+      "added_at": "2024-07-12",
+      "url": "https://www.goodreads.com/book/show/6732019"
+    },
+    {
+      "id": "13588356",
+      "title": "Daring Greatly",
+      "author": "Brené Brown",
+      "rating": 4,
+      "read_at": "2024-07-12",
+      "added_at": "2024-07-12",
+      "url": "https://www.goodreads.com/book/show/13588356"
+    },
+    {
+      "id": "125478713",
+      "title": "How to Make Things Faster",
+      "author": "Cary Millsap",
+      "rating": 3,
+      "read_at": "2024-06-02",
+      "added_at": "2024-06-02",
+      "url": "https://www.goodreads.com/book/show/125478713"
+    },
+    {
+      "id": "59856832",
+      "title": "101 Essays That Will Change The Way You Think",
+      "author": "Brianna Wiest",
+      "rating": 3,
+      "read_at": "2024-05-29",
+      "added_at": "2024-05-29",
+      "url": "https://www.goodreads.com/book/show/59856832"
+    },
+    {
+      "id": "56705650",
+      "title": "Brand New Start",
+      "author": "Mainak Dhar",
+      "rating": 4,
+      "read_at": "2024-05-29",
+      "added_at": "2024-05-29",
+      "url": "https://www.goodreads.com/book/show/56705650"
+    },
+    {
+      "id": "944652",
+      "title": "Poor Charlie's Almanack",
+      "author": "Charles T. Munger",
+      "rating": 4,
+      "read_at": "2024-05-27",
+      "added_at": "2024-05-27",
+      "url": "https://www.goodreads.com/book/show/944652"
+    },
+    {
+      "id": "46219371",
+      "title": "Time Management in 20 Minutes a Day",
+      "author": "Holly Reisem Hanna",
+      "rating": 2,
+      "read_at": "2024-05-25",
+      "added_at": "2024-05-25",
+      "url": "https://www.goodreads.com/book/show/46219371"
+    },
+    {
+      "id": "211193852",
+      "title": "Linkerd",
+      "author": "Jason Morgan",
+      "rating": 4,
+      "read_at": "2024-05-20",
+      "added_at": "2024-05-20",
+      "url": "https://www.goodreads.com/book/show/211193852"
+    },
+    {
+      "id": "59799194",
+      "title": "Leadership in 100 Words",
+      "author": "Mainak Dhar",
+      "rating": 4,
+      "read_at": "2024-05-13",
+      "added_at": "2024-05-13",
+      "url": "https://www.goodreads.com/book/show/59799194"
+    },
+    {
+      "id": "5986375",
+      "title": "This Is Water",
+      "author": "David Foster Wallace",
+      "rating": 4,
+      "read_at": "2024-05-13",
+      "added_at": "2024-05-13",
+      "url": "https://www.goodreads.com/book/show/5986375"
+    },
+    {
+      "id": "206184207",
+      "title": "11 Rules For Life",
+      "author": "Chetan Bhagat",
+      "rating": 3,
+      "read_at": "2024-05-12",
+      "added_at": "2024-05-12",
+      "url": "https://www.goodreads.com/book/show/206184207"
+    },
+    {
+      "id": "125447586",
+      "title": "Prometheus",
+      "author": "Julien Pivotto",
+      "rating": 4,
+      "read_at": "2024-05-05",
+      "added_at": "2024-05-05",
+      "url": "https://www.goodreads.com/book/show/125447586"
+    },
+    {
+      "id": "200380914",
+      "title": "Why Don't Students Like School? (2nd Edition)",
+      "author": "Daniel T. Willingham",
+      "rating": 4,
+      "read_at": "2024-04-22",
+      "added_at": "2024-08-22",
+      "url": "https://www.goodreads.com/book/show/200380914"
+    },
+    {
+      "id": "12082644",
+      "title": "A Brief History of Thought",
+      "author": "Luc Ferry",
+      "rating": 3,
+      "read_at": "2024-04-22",
+      "added_at": "2024-04-22",
+      "url": "https://www.goodreads.com/book/show/12082644"
+    },
+    {
+      "id": "198266448",
+      "title": "Rise of the Reader",
+      "author": "Nick Hutchison",
+      "rating": 4,
+      "read_at": "2024-04-22",
+      "added_at": "2024-04-21",
+      "url": "https://www.goodreads.com/book/show/198266448"
+    },
+    {
+      "id": "33810154",
+      "title": "The Happiness Equation",
+      "author": "Neil Pasricha",
+      "rating": 4,
+      "read_at": "2024-02-14",
+      "added_at": "2024-02-14",
+      "url": "https://www.goodreads.com/book/show/33810154"
+    },
+    {
+      "id": "60666582",
+      "title": "Manifest",
+      "author": "Roxie Nafousi",
+      "rating": 4,
+      "read_at": "2024-02-14",
+      "added_at": "2024-02-14",
+      "url": "https://www.goodreads.com/book/show/60666582"
+    },
+    {
+      "id": "14572",
+      "title": "Peace Is Every Step",
+      "author": "Thich Nhat Hanh",
+      "rating": 4,
+      "read_at": "2024-02-07",
+      "added_at": "2024-02-07",
+      "url": "https://www.goodreads.com/book/show/14572"
+    },
+    {
+      "id": "75665850",
+      "title": "Clear Thinking",
+      "author": "Shane Parrish",
+      "rating": 5,
+      "read_at": "2024-02-03",
+      "added_at": "2024-02-03",
+      "url": "https://www.goodreads.com/book/show/75665850"
+    },
+    {
+      "id": "45882799",
+      "title": "Skill With People",
+      "author": "Les Giblin",
+      "rating": 5,
+      "read_at": "2024-01-25",
+      "added_at": "2024-01-25",
+      "url": "https://www.goodreads.com/book/show/45882799"
+    },
+    {
+      "id": "49829875",
+      "title": "Beginners",
+      "author": "Tom Vanderbilt",
+      "rating": 1,
+      "read_at": "2024-01-24",
+      "added_at": "2024-01-24",
+      "url": "https://www.goodreads.com/book/show/49829875"
+    },
+    {
+      "id": "50871484",
+      "title": "The Strangest Secret",
+      "author": "Earl Nightingale",
+      "rating": 5,
+      "read_at": "2024-01-18",
+      "added_at": "2024-01-17",
+      "url": "https://www.goodreads.com/book/show/50871484"
+    },
+    {
+      "id": "65215684",
+      "title": "Feel-Good Productivity",
+      "author": "Ali Abdaal",
+      "rating": 3,
+      "read_at": "2024-01-16",
+      "added_at": "2024-02-07",
+      "url": "https://www.goodreads.com/book/show/65215684"
+    },
+    {
+      "id": "203180173",
+      "title": "The Art of Laziness",
+      "author": "Library Mindset",
+      "rating": 3,
+      "read_at": "2024-01-16",
+      "added_at": "2024-01-16",
+      "url": "https://www.goodreads.com/book/show/203180173"
+    },
+    {
+      "id": "63922942",
+      "title": "The Not So Ordinary Life",
+      "author": "F.J. Lam",
+      "rating": 3,
+      "read_at": "2024-01-05",
+      "added_at": "2024-01-05",
+      "url": "https://www.goodreads.com/book/show/63922942"
+    },
+    {
+      "id": "60581868",
+      "title": "How to Take Smart Notes",
+      "author": "Sönke Ahrens",
+      "rating": 5,
+      "read_at": "2024-01-04",
+      "added_at": "2024-01-04",
+      "url": "https://www.goodreads.com/book/show/60581868"
+    },
+    {
+      "id": "62003447",
+      "title": "How to Take Smart Notes in Obsidian",
+      "author": "Joshua Duffney",
+      "rating": 3,
+      "read_at": "2024-01-01",
+      "added_at": "2024-01-01",
+      "url": "https://www.goodreads.com/book/show/62003447"
+    },
+    {
+      "id": "195471378",
+      "title": "AI Made Simple",
+      "author": "Rajeev Kapur",
+      "rating": 3,
+      "read_at": "2024-01-01",
+      "added_at": "2024-01-01",
+      "url": "https://www.goodreads.com/book/show/195471378"
+    },
+    {
+      "id": "59582331",
+      "title": "Chase Greatness",
+      "author": "Rajeev Kapur",
+      "rating": 4,
+      "read_at": "2023-12-20",
+      "added_at": "2023-12-20",
+      "url": "https://www.goodreads.com/book/show/59582331"
+    },
+    {
+      "id": "634583",
+      "title": "Wings of Fire",
+      "author": "A.P.J. Abdul Kalam",
+      "rating": 5,
+      "read_at": "2023-12-20",
+      "added_at": "2023-12-20",
+      "url": "https://www.goodreads.com/book/show/634583"
+    },
+    {
+      "id": "40720034",
+      "title": "The Art of War (Sun Tzu)",
+      "author": "Sun Tzu",
+      "rating": 3,
+      "read_at": "2023-12-20",
+      "added_at": "2023-12-20",
+      "url": "https://www.goodreads.com/book/show/40720034"
+    },
+    {
+      "id": "16279838",
+      "title": "The Desire Map",
+      "author": "Danielle LaPorte",
+      "rating": 4,
+      "read_at": "2023-12-16",
+      "added_at": "2023-12-16",
+      "url": "https://www.goodreads.com/book/show/16279838"
+    },
+    {
+      "id": "183050913",
+      "title": "Do the Work",
+      "author": "Steven Pressfield",
+      "rating": 4,
+      "read_at": "2023-12-16",
+      "added_at": "2023-12-16",
+      "url": "https://www.goodreads.com/book/show/183050913"
+    },
+    {
+      "id": "14062004",
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "rating": 3,
+      "read_at": "2023-12-16",
+      "added_at": "2023-12-16",
+      "url": "https://www.goodreads.com/book/show/14062004"
+    },
+    {
+      "id": "13123757",
+      "title": "Essence of the Bhagavad Gita",
+      "author": "Eknath Easwaran",
+      "rating": 4,
+      "read_at": "2023-12-11",
+      "added_at": "2023-12-11",
+      "url": "https://www.goodreads.com/book/show/13123757"
+    },
+    {
+      "id": "57246945",
+      "title": "You Are Here (For Now)",
+      "author": "Adam J. Kurtz",
+      "rating": 3,
+      "read_at": "2023-12-09",
+      "added_at": "2023-12-09",
+      "url": "https://www.goodreads.com/book/show/57246945"
+    },
+    {
+      "id": "61295272",
+      "title": "Observability pipelines",
+      "author": "Bryan Turriff",
+      "rating": 5,
+      "read_at": "2023-12-03",
+      "added_at": "2023-12-03",
+      "url": "https://www.goodreads.com/book/show/61295272"
+    },
+    {
+      "id": "59802037",
+      "title": "What We Owe the Future",
+      "author": "William MacAskill",
+      "rating": 3,
+      "read_at": "2023-11-29",
+      "added_at": "2023-11-29",
+      "url": "https://www.goodreads.com/book/show/59802037"
+    },
+    {
+      "id": "179618415",
+      "title": "The 48 Laws of Power",
+      "author": "Robert Greene",
+      "rating": 4,
+      "read_at": "2023-11-28",
+      "added_at": "2023-11-29",
+      "url": "https://www.goodreads.com/book/show/179618415"
+    },
+    {
+      "id": "25377743",
+      "title": "happiness is...500 things to be happy about [Paperback] [Jan 01, 2014] RALPH LAZAR,LISA SWERLING and Lisa Swerling, Ralph Lazar",
+      "author": "Ralph Lazar & Lisa Swerling",
+      "rating": null,
+      "read_at": "2023-11-27",
+      "added_at": "2023-11-27",
+      "url": "https://www.goodreads.com/book/show/25377743"
+    },
+    {
+      "id": "17605261",
+      "title": "Cultivating an Unshakable Character",
+      "author": "Jim Rohn",
+      "rating": 5,
+      "read_at": "2023-11-09",
+      "added_at": "2023-11-09",
+      "url": "https://www.goodreads.com/book/show/17605261"
+    },
+    {
+      "id": "59039072",
+      "title": "Observability Engineering",
+      "author": "Charity Majors",
+      "rating": null,
+      "read_at": "2023-11-09",
+      "added_at": "2023-11-09",
+      "url": "https://www.goodreads.com/book/show/59039072"
+    },
+    {
+      "id": "59426297",
+      "title": "The Overthinking Cure",
+      "author": "Nick Trenton",
+      "rating": 3,
+      "read_at": "2023-10-30",
+      "added_at": "2023-10-30",
+      "url": "https://www.goodreads.com/book/show/59426297"
+    },
+    {
+      "id": "57347754",
+      "title": "P.S. You're a Genius",
+      "author": "Kelly Trach",
+      "rating": 4,
+      "read_at": "2023-10-16",
+      "added_at": "2023-10-16",
+      "url": "https://www.goodreads.com/book/show/57347754"
+    },
+    {
+      "id": "54938047",
+      "title": "Mind Management, Not Time Management",
+      "author": "David Kadavy",
+      "rating": 4,
+      "read_at": "2023-10-16",
+      "added_at": "2023-10-16",
+      "url": "https://www.goodreads.com/book/show/54938047"
+    },
+    {
+      "id": "60653459",
+      "title": "Istio in Action",
+      "author": "Christian E. Posta",
+      "rating": 5,
+      "read_at": "2023-09-26",
+      "added_at": "2023-09-26",
+      "url": "https://www.goodreads.com/book/show/60653459"
+    },
+    {
+      "id": "61271862",
+      "title": "I'm Just Saying",
+      "author": "Milan Kordestani",
+      "rating": 5,
+      "read_at": "2023-09-22",
+      "added_at": "2023-09-22",
+      "url": "https://www.goodreads.com/book/show/61271862"
+    },
+    {
+      "id": "123240552",
+      "title": "AI for You",
+      "author": "Shalini Kapoor",
+      "rating": null,
+      "read_at": "2023-09-21",
+      "added_at": "2023-09-21",
+      "url": "https://www.goodreads.com/book/show/123240552"
+    },
+    {
+      "id": "14912777",
+      "title": "Turning Pro",
+      "author": "Steven Pressfield",
+      "rating": 4,
+      "read_at": "2023-09-16",
+      "added_at": "2023-09-16",
+      "url": "https://www.goodreads.com/book/show/14912777"
+    },
+    {
+      "id": "18624273",
+      "title": "The War of Art",
+      "author": "Steven Pressfield",
+      "rating": 4,
+      "read_at": "2023-09-14",
+      "added_at": "2023-09-14",
+      "url": "https://www.goodreads.com/book/show/18624273"
+    },
+    {
+      "id": "1139864",
+      "title": "Chimpanzee Politics",
+      "author": "Frans de Waal",
+      "rating": null,
+      "read_at": "2023-09-05",
+      "added_at": "2023-09-05",
+      "url": "https://www.goodreads.com/book/show/1139864"
+    },
+    {
+      "id": "639864",
+      "title": "Autobiography of a Yogi",
+      "author": "Paramahansa Yogananda",
+      "rating": null,
+      "read_at": "2023-09-05",
+      "added_at": "2023-09-05",
+      "url": "https://www.goodreads.com/book/show/639864"
+    },
+    {
+      "id": "37796129",
+      "title": "The Practicing Mind",
+      "author": "Thomas M. Sterner",
+      "rating": 3,
+      "read_at": "2023-09-02",
+      "added_at": "2023-09-02",
+      "url": "https://www.goodreads.com/book/show/37796129"
+    },
+    {
+      "id": "18079767",
+      "title": "Solving the Procrastination Puzzle",
+      "author": "Timothy A. Pychyl",
+      "rating": 3,
+      "read_at": "2023-08-27",
+      "added_at": "2023-08-27",
+      "url": "https://www.goodreads.com/book/show/18079767"
+    },
+    {
+      "id": "115629",
+      "title": "Change Your Thinking, Change Your Life",
+      "author": "Brian Tracy",
+      "rating": 5,
+      "read_at": "2023-08-25",
+      "added_at": "2023-08-25",
+      "url": "https://www.goodreads.com/book/show/115629"
+    },
+    {
+      "id": "43535451",
+      "title": "Feck Perfuction",
+      "author": "James Victore",
+      "rating": 3,
+      "read_at": "2023-08-24",
+      "added_at": "2023-08-24",
+      "url": "https://www.goodreads.com/book/show/43535451"
+    },
+    {
+      "id": "60865677",
+      "title": "Getting GitOps",
+      "author": "Wanja Pernath",
+      "rating": null,
+      "read_at": "2023-08-20",
+      "added_at": "2023-08-20",
+      "url": "https://www.goodreads.com/book/show/60865677"
+    },
+    {
+      "id": "53901132",
+      "title": "GitOps and Kubernetes",
+      "author": "Billy Yuen",
+      "rating": 4,
+      "read_at": "2023-08-19",
+      "added_at": "2023-08-19",
+      "url": "https://www.goodreads.com/book/show/53901132"
+    },
+    {
+      "id": "32791240",
+      "title": "Quick Reads 2017 Feel Fear Do It Anyway",
+      "author": "Susan Jeffers",
+      "rating": 4,
+      "read_at": "2023-08-19",
+      "added_at": "2023-08-19",
+      "url": "https://www.goodreads.com/book/show/32791240"
+    },
+    {
+      "id": "58348053",
+      "title": "Gita in 18 days",
+      "author": "Vrushali Date",
+      "rating": 4,
+      "read_at": "2023-08-05",
+      "added_at": "2023-08-05",
+      "url": "https://www.goodreads.com/book/show/58348053"
+    },
+    {
+      "id": "62821670",
+      "title": "Living Spirituality",
+      "author": "Meetu Bisht",
+      "rating": 5,
+      "read_at": "2023-08-04",
+      "added_at": "2023-08-04",
+      "url": "https://www.goodreads.com/book/show/62821670"
+    },
+    {
+      "id": "53576305",
+      "title": "You're Too Good to Feel This Bad",
+      "author": "Nate Dallas",
+      "rating": 5,
+      "read_at": "2023-08-03",
+      "added_at": "2023-08-03",
+      "url": "https://www.goodreads.com/book/show/53576305"
+    },
+    {
+      "id": "25898541",
+      "title": "Do You Talk Funny?",
+      "author": "David Nihill",
+      "rating": 3,
+      "read_at": "2023-07-17",
+      "added_at": "2023-07-17",
+      "url": "https://www.goodreads.com/book/show/25898541"
+    },
+    {
+      "id": "78294395",
+      "title": "Automate Your Busywork",
+      "author": "Aytekin Tank",
+      "rating": 5,
+      "read_at": "2023-07-17",
+      "added_at": "2023-07-17",
+      "url": "https://www.goodreads.com/book/show/78294395"
+    },
+    {
+      "id": "60128112",
+      "title": "Level Up",
+      "author": "HAMZA ZARGUI",
+      "rating": 5,
+      "read_at": "2023-07-17",
+      "added_at": "2023-07-17",
+      "url": "https://www.goodreads.com/book/show/60128112"
+    },
+    {
+      "id": "57630575",
+      "title": "What It Is",
+      "author": "Lynda Barry",
+      "rating": null,
+      "read_at": "2023-06-29",
+      "added_at": "2023-06-29",
+      "url": "https://www.goodreads.com/book/show/57630575"
+    },
+    {
+      "id": "61992094",
+      "title": "The Daily Dad",
+      "author": "Ryan Holiday",
+      "rating": 4,
+      "read_at": "2023-06-25",
+      "added_at": "2023-06-25",
+      "url": "https://www.goodreads.com/book/show/61992094"
+    },
+    {
+      "id": "98875167",
+      "title": "Argo CD in Practice",
+      "author": "Liviu Costea",
+      "rating": null,
+      "read_at": "2023-06-23",
+      "added_at": "2023-06-23",
+      "url": "https://www.goodreads.com/book/show/98875167"
+    },
+    {
+      "id": "36458712",
+      "title": "Making Work Visible",
+      "author": "Dominica Degrandis",
+      "rating": 4,
+      "read_at": "2023-06-23",
+      "added_at": "2023-06-23",
+      "url": "https://www.goodreads.com/book/show/36458712"
+    },
+    {
+      "id": "58586934",
+      "title": "The 12 Week Year",
+      "author": "Brian P. Moran",
+      "rating": 5,
+      "read_at": "2023-06-19",
+      "added_at": "2023-08-21",
+      "url": "https://www.goodreads.com/book/show/58586934"
+    },
+    {
+      "id": "44027000",
+      "title": "Artificial Intelligence",
+      "author": "Harvard Business Review",
+      "rating": 4,
+      "read_at": "2023-06-19",
+      "added_at": "2023-06-19",
+      "url": "https://www.goodreads.com/book/show/44027000"
+    },
+    {
+      "id": "68449976",
+      "title": "Good Power",
+      "author": "Ginni Rometty",
+      "rating": 5,
+      "read_at": "2023-06-16",
+      "added_at": "2023-06-16",
+      "url": "https://www.goodreads.com/book/show/68449976"
+    },
+    {
+      "id": "27917028",
+      "title": "The Philosophy Of Hinduism",
+      "author": "Sarvepalli Radhakrishnan",
+      "rating": 2,
+      "read_at": "2023-06-12",
+      "added_at": "2023-06-11",
+      "url": "https://www.goodreads.com/book/show/27917028"
+    },
+    {
+      "id": "29496432",
+      "title": "Find Your Why",
+      "author": "Simon Sinek",
+      "rating": 3,
+      "read_at": "2023-06-06",
+      "added_at": "2023-06-06",
+      "url": "https://www.goodreads.com/book/show/29496432"
+    },
+    {
+      "id": "65152654",
+      "title": "GitOps Cookbook",
+      "author": "Natale Vinto",
+      "rating": 4,
+      "read_at": "2023-06-04",
+      "added_at": "2023-06-06",
+      "url": "https://www.goodreads.com/book/show/65152654"
+    },
+    {
+      "id": "7276602",
+      "title": "How to Read a Person Like a Book",
+      "author": "Gerard I. Nierenberg",
+      "rating": 2,
+      "read_at": "2023-06-03",
+      "added_at": "2023-06-03",
+      "url": "https://www.goodreads.com/book/show/7276602"
+    },
+    {
+      "id": "71937013",
+      "title": "If Nothing Changes, Nothing Changes",
+      "author": "Nick Donofrio",
+      "rating": 5,
+      "read_at": "2023-06-01",
+      "added_at": "2023-06-01",
+      "url": "https://www.goodreads.com/book/show/71937013"
+    },
+    {
+      "id": "28075490",
+      "title": "How Not To Die",
+      "author": "Michael Greger",
+      "rating": 4,
+      "read_at": "2023-05-30",
+      "added_at": "2023-05-30",
+      "url": "https://www.goodreads.com/book/show/28075490"
+    },
+    {
+      "id": "8138900",
+      "title": "Manifest Your Destiny",
+      "author": "Wayne W. Dyer",
+      "rating": 4,
+      "read_at": "2023-05-26",
+      "added_at": "2023-05-26",
+      "url": "https://www.goodreads.com/book/show/8138900"
+    },
+    {
+      "id": "48816586",
+      "title": "Software Engineering at Google",
+      "author": "Titus Winters",
+      "rating": 5,
+      "read_at": "2023-05-19",
+      "added_at": "2023-05-19",
+      "url": "https://www.goodreads.com/book/show/48816586"
+    },
+    {
+      "id": "1184484",
+      "title": "Wise and Otherwise",
+      "author": "Sudha Murty",
+      "rating": 4,
+      "read_at": "2023-05-18",
+      "added_at": "2023-05-18",
+      "url": "https://www.goodreads.com/book/show/1184484"
+    },
+    {
+      "id": "58188742",
+      "title": "How to Live",
+      "author": "Derek Sivers",
+      "rating": 5,
+      "read_at": "2023-05-16",
+      "added_at": "2023-05-16",
+      "url": "https://www.goodreads.com/book/show/58188742"
+    },
+    {
+      "id": "464198",
+      "title": "You2",
+      "author": "Price Pritchett",
+      "rating": 4,
+      "read_at": "2023-05-12",
+      "added_at": "2026-10-04",
+      "url": "https://www.goodreads.com/book/show/464198"
+    },
+    {
+      "id": "34313743",
+      "title": "Chanakya",
+      "author": "Yagya Sharma",
+      "rating": 4,
+      "read_at": "2023-05-11",
+      "added_at": "2023-12-31",
+      "url": "https://www.goodreads.com/book/show/34313743"
+    },
+    {
+      "id": "60836746",
+      "title": "10 Qualities of Influential People",
+      "author": "Brian Tracy",
+      "rating": 4,
+      "read_at": "2023-05-11",
+      "added_at": "2023-05-11",
+      "url": "https://www.goodreads.com/book/show/60836746"
+    },
+    {
+      "id": "370976",
+      "title": "The Bhagavad Gita for Daily Living",
+      "author": "Eknath Easwaran",
+      "rating": 3,
+      "read_at": "2023-05-06",
+      "added_at": "2023-05-06",
+      "url": "https://www.goodreads.com/book/show/370976"
+    },
+    {
+      "id": "48994777",
+      "title": "The Bhagavad Gita for Daily Living, Volume 3",
+      "author": "Eknath Easwaran",
+      "rating": 3,
+      "read_at": "2023-05-06",
+      "added_at": "2023-05-06",
+      "url": "https://www.goodreads.com/book/show/48994777"
+    },
+    {
+      "id": "34908381",
+      "title": "The Gita",
+      "author": "Anant Pai",
+      "rating": 4,
+      "read_at": "2023-05-05",
+      "added_at": "2023-05-05",
+      "url": "https://www.goodreads.com/book/show/34908381"
+    },
+    {
+      "id": "50569452",
+      "title": "A Programmer's Guide to Computer Science Vol. 2",
+      "author": "William M. Springer II",
+      "rating": 2,
+      "read_at": "2023-05-04",
+      "added_at": "2023-05-04",
+      "url": "https://www.goodreads.com/book/show/50569452"
+    },
+    {
+      "id": "75571429",
+      "title": "Good Books Gone Bad",
+      "author": "Shubham K. Singh",
+      "rating": 4,
+      "read_at": "2023-05-01",
+      "added_at": "2023-05-01",
+      "url": "https://www.goodreads.com/book/show/75571429"
+    },
+    {
+      "id": "52523856",
+      "title": "Hell Yeah or No",
+      "author": "Derek Sivers",
+      "rating": 5,
+      "read_at": "2023-04-28",
+      "added_at": "2023-04-28",
+      "url": "https://www.goodreads.com/book/show/52523856"
+    },
+    {
+      "id": "51185374",
+      "title": "A Programmer's Guide to Computer Science",
+      "author": "William M. Springer II",
+      "rating": 2,
+      "read_at": "2023-04-15",
+      "added_at": "2023-04-15",
+      "url": "https://www.goodreads.com/book/show/51185374"
+    },
+    {
+      "id": "57653203",
+      "title": "The Twelve Monotasks",
+      "author": "Thatcher Wine",
+      "rating": 3,
+      "read_at": "2023-04-15",
+      "added_at": "2023-04-15",
+      "url": "https://www.goodreads.com/book/show/57653203"
+    },
+    {
+      "id": "10138100",
+      "title": "Dance First, Think Later",
+      "author": "Kathryn Petras",
+      "rating": 3,
+      "read_at": "2023-04-10",
+      "added_at": "2023-04-10",
+      "url": "https://www.goodreads.com/book/show/10138100"
+    },
+    {
+      "id": "53239311",
+      "title": "The Happiest Man on Earth",
+      "author": "Eddie Jaku",
+      "rating": 5,
+      "read_at": "2023-04-10",
+      "added_at": "2023-04-10",
+      "url": "https://www.goodreads.com/book/show/53239311"
+    },
+    {
+      "id": "62634115",
+      "title": "8 Rules of Love",
+      "author": "Jay Shetty",
+      "rating": 4,
+      "read_at": "2023-04-09",
+      "added_at": "2023-04-09",
+      "url": "https://www.goodreads.com/book/show/62634115"
+    },
+    {
+      "id": "59806374",
+      "title": "The Book of Life",
+      "author": "J. Krishnamurti",
+      "rating": 5,
+      "read_at": "2023-04-06",
+      "added_at": "2023-04-06",
+      "url": "https://www.goodreads.com/book/show/59806374"
+    },
+    {
+      "id": "22015649",
+      "title": "Can't We Talk about Something More Pleasant?",
+      "author": "Roz Chast",
+      "rating": 4,
+      "read_at": "2023-03-27",
+      "added_at": "2023-03-27",
+      "url": "https://www.goodreads.com/book/show/22015649"
+    },
+    {
+      "id": "45297853",
+      "title": "Stillness is the Key",
+      "author": "Ryan Holiday",
+      "rating": 5,
+      "read_at": "2023-03-27",
+      "added_at": "2023-03-27",
+      "url": "https://www.goodreads.com/book/show/45297853"
+    },
+    {
+      "id": "25329850",
+      "title": "Thing Explainer",
+      "author": "Randall Munroe",
+      "rating": 3,
+      "read_at": "2023-03-24",
+      "added_at": "2023-03-24",
+      "url": "https://www.goodreads.com/book/show/25329850"
+    },
+    {
+      "id": "21265570",
+      "title": "The Obstacle is the Way",
+      "author": "Ryan Holiday",
+      "rating": 5,
+      "read_at": "2023-03-22",
+      "added_at": "2023-03-22",
+      "url": "https://www.goodreads.com/book/show/21265570"
+    },
+    {
+      "id": "34822818",
+      "title": "Ignited Minds",
+      "author": "A.P.J. Abdul Kalam",
+      "rating": 4,
+      "read_at": "2023-03-20",
+      "added_at": "2023-03-20",
+      "url": "https://www.goodreads.com/book/show/34822818"
+    },
+    {
+      "id": "60151185",
+      "title": "The Pathless Path",
+      "author": "Paul Millerd",
+      "rating": 3,
+      "read_at": "2023-03-16",
+      "added_at": "2023-03-16",
+      "url": "https://www.goodreads.com/book/show/60151185"
+    },
+    {
+      "id": "123197614",
+      "title": "True You",
+      "author": "Tess Brigham",
+      "rating": 3,
+      "read_at": "2023-03-14",
+      "added_at": "2023-03-14",
+      "url": "https://www.goodreads.com/book/show/123197614"
+    },
+    {
+      "id": "23346490",
+      "title": "Zero To One",
+      "author": "Peter Thiel",
+      "rating": 5,
+      "read_at": "2023-03-10",
+      "added_at": "2024-07-23",
+      "url": "https://www.goodreads.com/book/show/23346490"
+    },
+    {
+      "id": "60899705",
+      "title": "Understanding Distributed Systems",
+      "author": "Roberto Vitillo",
+      "rating": 4,
+      "read_at": "2023-02-15",
+      "added_at": "2023-02-15",
+      "url": "https://www.goodreads.com/book/show/60899705"
+    },
+    {
+      "id": "25744928",
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "rating": 4,
+      "read_at": "2023-02-07",
+      "added_at": "2023-02-07",
+      "url": "https://www.goodreads.com/book/show/25744928"
+    },
+    {
+      "id": "6900",
+      "title": "Tuesdays with Morrie",
+      "author": "Mitch Albom",
+      "rating": null,
+      "read_at": "2023-02-07",
+      "added_at": "2023-02-07",
+      "url": "https://www.goodreads.com/book/show/6900"
+    },
+    {
+      "id": "56749417",
+      "title": "The Smartest Person in the Room",
+      "author": "Christian Espinosa",
+      "rating": 5,
+      "read_at": "2023-02-07",
+      "added_at": "2023-02-07",
+      "url": "https://www.goodreads.com/book/show/56749417"
+    },
+    {
+      "id": "49438413",
+      "title": "The 1% Club",
+      "author": "Rohini Mundra",
+      "rating": 2,
+      "read_at": "2023-02-07",
+      "added_at": "2023-02-07",
+      "url": "https://www.goodreads.com/book/show/49438413"
+    },
+    {
+      "id": "55987598",
+      "title": "Jugalbandi",
+      "author": "Vinay Sitapati",
+      "rating": 4,
+      "read_at": "2023-01-21",
+      "added_at": "2023-01-21",
+      "url": "https://www.goodreads.com/book/show/55987598"
+    },
+    {
+      "id": "59989919",
+      "title": "Building a Second Brain",
+      "author": "Tiago Forte",
+      "rating": 5,
+      "read_at": "2023-01-18",
+      "added_at": "2023-01-18",
+      "url": "https://www.goodreads.com/book/show/59989919"
+    },
+    {
+      "id": "51923145",
+      "title": "How to Become a People Magnet; 62 Life-Changing Tips to Attract Everyone You Meet",
+      "author": "Marc Reklau",
+      "rating": 5,
+      "read_at": "2023-01-17",
+      "added_at": "2024-01-08",
+      "url": "https://www.goodreads.com/book/show/51923145"
+    },
+    {
+      "id": "57331582",
+      "title": "6 Sundays a Week Life",
+      "author": "Dev Gadhvi",
+      "rating": 2,
+      "read_at": "2023-01-17",
+      "added_at": "2023-01-17",
+      "url": "https://www.goodreads.com/book/show/57331582"
+    },
+    {
+      "id": "42940520",
+      "title": "80% MindSet 20% Skills",
+      "author": "Dev Gadhvi",
+      "rating": 2,
+      "read_at": "2023-01-17",
+      "added_at": "2023-01-17",
+      "url": "https://www.goodreads.com/book/show/42940520"
+    },
+    {
+      "id": "54433481",
+      "title": "Learn, Improve, Master",
+      "author": "Nick Velasquez",
+      "rating": 4,
+      "read_at": "2023-01-17",
+      "added_at": "2023-01-17",
+      "url": "https://www.goodreads.com/book/show/54433481"
+    },
+    {
+      "id": "62634993",
+      "title": "The Consistency Formula",
+      "author": "Suzi Sung",
+      "rating": 3,
+      "read_at": "2023-01-16",
+      "added_at": "2023-01-16",
+      "url": "https://www.goodreads.com/book/show/62634993"
+    },
+    {
+      "id": "27246148",
+      "title": "Be Obsessed or Be Average",
+      "author": "Grant Cardone",
+      "rating": 5,
+      "read_at": "2023-01-12",
+      "added_at": "2023-01-12",
+      "url": "https://www.goodreads.com/book/show/27246148"
+    },
+    {
+      "id": "10339170",
+      "title": "The 10X Rule",
+      "author": "Grant Cardone",
+      "rating": 3,
+      "read_at": "2023-01-06",
+      "added_at": "2023-01-06",
+      "url": "https://www.goodreads.com/book/show/10339170"
+    },
+    {
+      "id": "39071691",
+      "title": "The Bullet Journal Method",
+      "author": "Ryder Carroll",
+      "rating": 4,
+      "read_at": "2023-01-02",
+      "added_at": "2023-01-01",
+      "url": "https://www.goodreads.com/book/show/39071691"
+    },
+    {
+      "id": "34382949",
+      "title": "Mahabharata",
+      "author": "B.R. Bhagwat",
+      "rating": 4,
+      "read_at": "2023-01-01",
+      "added_at": "2023-05-07",
+      "url": "https://www.goodreads.com/book/show/34382949"
+    },
+    {
+      "id": "30008981",
+      "title": "Atmamun",
+      "author": "Kapil Gupta",
+      "rating": 5,
+      "read_at": "2022-12-20",
+      "added_at": "2022-12-20",
+      "url": "https://www.goodreads.com/book/show/30008981"
+    },
+    {
+      "id": "40184559",
+      "title": "How to Be Better at Almost Everything",
+      "author": "Pat Flynn",
+      "rating": 3,
+      "read_at": "2022-12-19",
+      "added_at": "2022-12-19",
+      "url": "https://www.goodreads.com/book/show/40184559"
+    },
+    {
+      "id": "62886324",
+      "title": "The Freedom Manifesto",
+      "author": "Karan Bajaj",
+      "rating": 4,
+      "read_at": "2022-12-19",
+      "added_at": "2022-12-19",
+      "url": "https://www.goodreads.com/book/show/62886324"
+    },
+    {
+      "id": "48994776",
+      "title": "The Bhagavad Gita for Daily Living, Volume 2",
+      "author": "Eknath Easwaran",
+      "rating": 4,
+      "read_at": "2022-12-10",
+      "added_at": "2022-12-10",
+      "url": "https://www.goodreads.com/book/show/48994776"
+    },
+    {
+      "id": "35747076",
+      "title": "Accelerate",
+      "author": "Nicole Forsgren",
+      "rating": 1,
+      "read_at": "2022-12-09",
+      "added_at": "2022-12-09",
+      "url": "https://www.goodreads.com/book/show/35747076"
+    },
+    {
+      "id": "36800891",
+      "title": "Head First Go",
+      "author": "Jay McGavren",
+      "rating": 4,
+      "read_at": "2022-12-05",
+      "added_at": "2022-12-05",
+      "url": "https://www.goodreads.com/book/show/36800891"
+    },
+    {
+      "id": "37786022",
+      "title": "Storyworthy",
+      "author": "Matthew Dicks",
+      "rating": 4,
+      "read_at": "2022-12-04",
+      "added_at": "2022-12-04",
+      "url": "https://www.goodreads.com/book/show/37786022"
+    },
+    {
+      "id": "55495780",
+      "title": "The 'One' Invisible Code",
+      "author": "Sharat Sharma",
+      "rating": 4,
+      "read_at": "2022-12-04",
+      "added_at": "2022-12-04",
+      "url": "https://www.goodreads.com/book/show/55495780"
+    },
+    {
+      "id": "17309645",
+      "title": "FREEDOM FROM THE KNOWN",
+      "author": "J. Krishnamurti",
+      "rating": 5,
+      "read_at": "2022-12-04",
+      "added_at": "2022-12-04",
+      "url": "https://www.goodreads.com/book/show/17309645"
+    },
+    {
+      "id": "29769489",
+      "title": "Solve For Happy",
+      "author": "Mo Gawdat",
+      "rating": 3,
+      "read_at": "2022-12-02",
+      "added_at": "2022-12-02",
+      "url": "https://www.goodreads.com/book/show/29769489"
+    },
+    {
+      "id": "15790222",
+      "title": "Most and More",
+      "author": "T.T. Rangarajan",
+      "rating": 4,
+      "read_at": "2022-12-01",
+      "added_at": "2022-12-01",
+      "url": "https://www.goodreads.com/book/show/15790222"
+    },
+    {
+      "id": "58470905",
+      "title": "Discipline Equals Freedom",
+      "author": "Jocko Willink",
+      "rating": 4,
+      "read_at": "2022-11-12",
+      "added_at": "2023-04-20",
+      "url": "https://www.goodreads.com/book/show/58470905"
+    },
+    {
+      "id": "59046778",
+      "title": "Just Keep Buying",
+      "author": "Nick Maggiulli",
+      "rating": 3,
+      "read_at": "2022-11-10",
+      "added_at": "2022-11-10",
+      "url": "https://www.goodreads.com/book/show/59046778"
+    },
+    {
+      "id": "34449724",
+      "title": "Clarity is Power",
+      "author": "Mahatria Ra",
+      "rating": 3,
+      "read_at": "2022-11-08",
+      "added_at": "2022-11-08",
+      "url": "https://www.goodreads.com/book/show/34449724"
+    },
+    {
+      "id": "51136198",
+      "title": "Leadership Strategy and Tactics",
+      "author": "Jocko Willink",
+      "rating": 5,
+      "read_at": "2022-11-07",
+      "added_at": "2022-11-07",
+      "url": "https://www.goodreads.com/book/show/51136198"
+    },
+    {
+      "id": "3450744",
+      "title": "Nudge",
+      "author": "Richard H. Thaler",
+      "rating": 3,
+      "read_at": "2022-11-07",
+      "added_at": "2022-11-07",
+      "url": "https://www.goodreads.com/book/show/3450744"
+    },
+    {
+      "id": "55359713",
+      "title": "The Almanack of Naval Ravikant",
+      "author": "Eric Jorgenson",
+      "rating": 4,
+      "read_at": "2022-11-01",
+      "added_at": "2022-11-01",
+      "url": "https://www.goodreads.com/book/show/55359713"
+    },
+    {
+      "id": "57541514",
+      "title": "The Roaring Lambs",
+      "author": "Sreedhar Bevara",
+      "rating": 4,
+      "read_at": "2022-10-29",
+      "added_at": "2022-10-29",
+      "url": "https://www.goodreads.com/book/show/57541514"
+    },
+    {
+      "id": "55238787",
+      "title": "People Skills for Analytical Thinkers",
+      "author": "Gilbert Eijkelenboom",
+      "rating": 3,
+      "read_at": "2022-10-23",
+      "added_at": "2022-10-23",
+      "url": "https://www.goodreads.com/book/show/55238787"
+    },
+    {
+      "id": "40527392",
+      "title": "Management",
+      "author": "Brian Tracy",
+      "rating": 5,
+      "read_at": "2022-10-23",
+      "added_at": "2022-10-23",
+      "url": "https://www.goodreads.com/book/show/40527392"
+    },
+    {
+      "id": "50712338",
+      "title": "Mastering Service Mesh",
+      "author": "Anjali Khatri",
+      "rating": null,
+      "read_at": "2022-10-22",
+      "added_at": "2022-10-22",
+      "url": "https://www.goodreads.com/book/show/50712338"
+    },
+    {
+      "id": "25234783",
+      "title": "Unposted Letter",
+      "author": "Mahatria Ra",
+      "rating": 5,
+      "read_at": "2022-10-19",
+      "added_at": "2022-10-19",
+      "url": "https://www.goodreads.com/book/show/25234783"
+    },
+    {
+      "id": "34204326",
+      "title": "Emotional Agility",
+      "author": "Susan David",
+      "rating": 4,
+      "read_at": "2022-10-16",
+      "added_at": "2022-10-16",
+      "url": "https://www.goodreads.com/book/show/34204326"
+    },
+    {
+      "id": "11225698",
+      "title": "The 5 Levels of Leadership",
+      "author": "John C. Maxwell",
+      "rating": 4,
+      "read_at": "2022-10-11",
+      "added_at": "2022-10-11",
+      "url": "https://www.goodreads.com/book/show/11225698"
+    },
+    {
+      "id": "45439533",
+      "title": "Essential Meditations with Eckhart Tolle",
+      "author": "Eckhart Tolle",
+      "rating": 4,
+      "read_at": "2022-09-23",
+      "added_at": "2022-09-23",
+      "url": "https://www.goodreads.com/book/show/45439533"
+    },
+    {
+      "id": "17255186",
+      "title": "The Phoenix Project",
+      "author": "Gene Kim",
+      "rating": 4,
+      "read_at": "2022-09-06",
+      "added_at": "2022-09-06",
+      "url": "https://www.goodreads.com/book/show/17255186"
+    },
+    {
+      "id": "30370821",
+      "title": "Ego is the Enemy",
+      "author": "Ryan Holiday",
+      "rating": 4,
+      "read_at": "2022-09-06",
+      "added_at": "2022-09-06",
+      "url": "https://www.goodreads.com/book/show/30370821"
+    },
+    {
+      "id": "57116358",
+      "title": "Vedas & Upanishads",
+      "author": "Pranay",
+      "rating": 4,
+      "read_at": "2022-09-05",
+      "added_at": "2022-09-05",
+      "url": "https://www.goodreads.com/book/show/57116358"
+    },
+    {
+      "id": "39704795",
+      "title": "Developing the Leader Within You 2.0",
+      "author": "John C. Maxwell",
+      "rating": 5,
+      "read_at": "2022-09-01",
+      "added_at": "2022-09-01",
+      "url": "https://www.goodreads.com/book/show/39704795"
+    },
+    {
+      "id": "6012533",
+      "title": "How Successful People Think",
+      "author": "John C. Maxwell",
+      "rating": 5,
+      "read_at": "2022-09-01",
+      "added_at": "2022-09-01",
+      "url": "https://www.goodreads.com/book/show/6012533"
+    },
+    {
+      "id": "30197119",
+      "title": "Liminal Thinking",
+      "author": "Dave Gray",
+      "rating": 4,
+      "read_at": "2022-09-01",
+      "added_at": "2022-09-01",
+      "url": "https://www.goodreads.com/book/show/30197119"
+    },
+    {
+      "id": "32205737",
+      "title": "Dealing with Meetings You Can't Stand",
+      "author": "Rick Brinkman",
+      "rating": 4,
+      "read_at": "2022-09-01",
+      "added_at": "2022-09-01",
+      "url": "https://www.goodreads.com/book/show/32205737"
+    },
+    {
+      "id": "57116338",
+      "title": "KRISHNA",
+      "author": "Pranay",
+      "rating": 4,
+      "read_at": "2022-08-19",
+      "added_at": "2022-08-19",
+      "url": "https://www.goodreads.com/book/show/57116338"
+    },
+    {
+      "id": "57635476",
+      "title": "Who Not How",
+      "author": "Dan Sullivan",
+      "rating": 5,
+      "read_at": "2022-08-12",
+      "added_at": "2022-09-15",
+      "url": "https://www.goodreads.com/book/show/57635476"
+    },
+    {
+      "id": "2335148",
+      "title": "Making Things Happen",
+      "author": "Scott Berkun",
+      "rating": 5,
+      "read_at": "2022-08-07",
+      "added_at": "2022-08-07",
+      "url": "https://www.goodreads.com/book/show/2335148"
+    },
+    {
+      "id": "58163414",
+      "title": "Gita & Vedic Wisdom, Greatest Spiritual Wisdom",
+      "author": "Pranay",
+      "rating": 4,
+      "read_at": "2022-08-07",
+      "added_at": "2022-08-07",
+      "url": "https://www.goodreads.com/book/show/58163414"
+    },
+    {
+      "id": "41721428",
+      "title": "Can't Hurt Me",
+      "author": "David Goggins",
+      "rating": 4,
+      "read_at": "2022-07-31",
+      "added_at": "2022-07-31",
+      "url": "https://www.goodreads.com/book/show/41721428"
+    },
+    {
+      "id": "19199084",
+      "title": "How to Talk to Anybody, Anytime, Anywhere",
+      "author": "Chris Widener",
+      "rating": 2,
+      "read_at": "2022-07-24",
+      "added_at": "2022-07-31",
+      "url": "https://www.goodreads.com/book/show/19199084"
+    },
+    {
+      "id": "49176",
+      "title": "Games People Play",
+      "author": "Eric Berne",
+      "rating": 3,
+      "read_at": "2022-07-12",
+      "added_at": "2022-07-12",
+      "url": "https://www.goodreads.com/book/show/49176"
+    },
+    {
+      "id": "58563697",
+      "title": "The Gap and The Gain",
+      "author": "Dan Sullivan",
+      "rating": 5,
+      "read_at": "2022-07-08",
+      "added_at": "2022-07-08",
+      "url": "https://www.goodreads.com/book/show/58563697"
+    },
+    {
+      "id": "113934",
+      "title": "The Goal",
+      "author": "Eliyahu M. Goldratt",
+      "rating": 4,
+      "read_at": "2022-06-30",
+      "added_at": "2022-06-30",
+      "url": "https://www.goodreads.com/book/show/113934"
+    },
+    {
+      "id": "59383944",
+      "title": "Amp It Up",
+      "author": "Frank Slootman",
+      "rating": 5,
+      "read_at": "2022-05-30",
+      "added_at": "2022-05-30",
+      "url": "https://www.goodreads.com/book/show/59383944"
+    },
+    {
+      "id": "31645392",
+      "title": "Declutter Your Mind",
+      "author": "S.J. Scott",
+      "rating": 4,
+      "read_at": "2022-03-10",
+      "added_at": "2022-03-10",
+      "url": "https://www.goodreads.com/book/show/31645392"
+    },
+    {
+      "id": "49828197",
+      "title": "The Software Architect Elevator",
+      "author": "Gregor Hohpe",
+      "rating": 5,
+      "read_at": "2022-03-08",
+      "added_at": "2022-03-08",
+      "url": "https://www.goodreads.com/book/show/49828197"
+    },
+    {
+      "id": "45185727",
+      "title": "Things No One Else Can Teach Us",
+      "author": "Humble the Poet",
+      "rating": 4,
+      "read_at": "2022-02-26",
+      "added_at": "2022-02-26",
+      "url": "https://www.goodreads.com/book/show/45185727"
+    },
+    {
+      "id": "13550641",
+      "title": "SSH Mastery",
+      "author": "Michael W. Lucas",
+      "rating": 4,
+      "read_at": "2022-02-24",
+      "added_at": "2022-02-24",
+      "url": "https://www.goodreads.com/book/show/13550641"
+    },
+    {
+      "id": "48994774",
+      "title": "The Bhagavad Gita for Daily Living, Volume 1",
+      "author": "Eknath Easwaran",
+      "rating": 4,
+      "read_at": "2022-02-18",
+      "added_at": "2022-02-18",
+      "url": "https://www.goodreads.com/book/show/48994774"
+    },
+    {
+      "id": "25733573",
+      "title": "Reasons to Stay Alive",
+      "author": "Matt Haig",
+      "rating": 5,
+      "read_at": "2022-02-13",
+      "added_at": "2022-02-13",
+      "url": "https://www.goodreads.com/book/show/25733573"
+    },
+    {
+      "id": "25983574",
+      "title": "Smart Choices",
+      "author": "John S. Hammond",
+      "rating": 3,
+      "read_at": "2022-02-09",
+      "added_at": "2022-02-09",
+      "url": "https://www.goodreads.com/book/show/25983574"
+    },
+    {
+      "id": "24493732",
+      "title": "Solutions and Other Problems",
+      "author": "Allie Brosh",
+      "rating": 4,
+      "read_at": "2022-02-01",
+      "added_at": "2022-02-01",
+      "url": "https://www.goodreads.com/book/show/24493732"
+    },
+    {
+      "id": "52747169",
+      "title": "Don't Overthink It",
+      "author": "Anne Bogel",
+      "rating": 4,
+      "read_at": "2022-01-28",
+      "added_at": "2022-01-28",
+      "url": "https://www.goodreads.com/book/show/52747169"
+    },
+    {
+      "id": "33143560",
+      "title": "The Terraform Book",
+      "author": "James Turnbull",
+      "rating": 5,
+      "read_at": "2022-01-28",
+      "added_at": "2022-01-28",
+      "url": "https://www.goodreads.com/book/show/33143560"
+    },
+    {
+      "id": "57658270",
+      "title": "Critical Thinking In A Nutshell",
+      "author": "Thinknetic",
+      "rating": 3,
+      "read_at": "2022-01-23",
+      "added_at": "2022-01-23",
+      "url": "https://www.goodreads.com/book/show/57658270"
+    },
+    {
+      "id": "22442434",
+      "title": "Manage Your Energy, Not Your Time (Harvard Business Review)",
+      "author": "Tony Schwartz",
+      "rating": 4,
+      "read_at": "2022-01-22",
+      "added_at": "2026-01-15",
+      "url": "https://www.goodreads.com/book/show/22442434"
+    },
+    {
+      "id": "35616672",
+      "title": "my Hanuman Chalisa",
+      "author": "Devdutt Pattanaik",
+      "rating": 5,
+      "read_at": "2022-01-18",
+      "added_at": "2023-08-01",
+      "url": "https://www.goodreads.com/book/show/35616672"
+    },
+    {
+      "id": "42286227",
+      "title": "The Science of Self Talk",
+      "author": "Ian Tuhovsky",
+      "rating": 3,
+      "read_at": "2022-01-14",
+      "added_at": "2022-01-14",
+      "url": "https://www.goodreads.com/book/show/42286227"
+    },
+    {
+      "id": "58552317",
+      "title": "Every Day Meditation",
+      "author": "Brigham Cantrell",
+      "rating": 2,
+      "read_at": "2022-01-12",
+      "added_at": "2022-01-12",
+      "url": "https://www.goodreads.com/book/show/58552317"
+    },
+    {
+      "id": "57715822",
+      "title": "Learning Terraform",
+      "author": "Rajagopalan R",
+      "rating": 3,
+      "read_at": "2022-01-09",
+      "added_at": "2022-01-09",
+      "url": "https://www.goodreads.com/book/show/57715822"
+    },
+    {
+      "id": "53094749",
+      "title": "Agile Conversations",
+      "author": "Douglas Squirrel",
+      "rating": 4,
+      "read_at": "2022-01-08",
+      "added_at": "2022-01-08",
+      "url": "https://www.goodreads.com/book/show/53094749"
+    },
+    {
+      "id": "21945897",
+      "title": "Command Line Kung Fu",
+      "author": "Jason Cannon",
+      "rating": 4,
+      "read_at": "2022-01-04",
+      "added_at": "2022-01-04",
+      "url": "https://www.goodreads.com/book/show/21945897"
+    },
+    {
+      "id": "27318490",
+      "title": "My Gita",
+      "author": "Devdutt Pattanaik",
+      "rating": 3,
+      "read_at": "2022-01-02",
+      "added_at": "2022-01-02",
+      "url": "https://www.goodreads.com/book/show/27318490"
+    },
+    {
+      "id": "46163331",
+      "title": "Think on Your Feet",
+      "author": "Oleniczak Brown",
+      "rating": 4,
+      "read_at": "2022-01-02",
+      "added_at": "2022-01-02",
+      "url": "https://www.goodreads.com/book/show/46163331"
+    },
+    {
+      "id": "10825053",
+      "title": "Life Is Short And So Is This Book",
+      "author": "Peter Atkins",
+      "rating": 4,
+      "read_at": "2022-01-01",
+      "added_at": "2022-01-01",
+      "url": "https://www.goodreads.com/book/show/10825053"
+    },
+    {
+      "id": "59795331",
+      "title": "Do Epic Shit",
+      "author": "Ankur Warikoo",
+      "rating": 4,
+      "read_at": "2022-01-01",
+      "added_at": "2022-01-01",
+      "url": "https://www.goodreads.com/book/show/59795331"
+    },
+    {
+      "id": "22042483",
+      "title": "Bash Command Line Pro Tips",
+      "author": "Jason Cannon",
+      "rating": 4,
+      "read_at": "2021-12-28",
+      "added_at": "2021-12-28",
+      "url": "https://www.goodreads.com/book/show/22042483"
+    },
+    {
+      "id": "23265431",
+      "title": "Python Programming for Beginners",
+      "author": "Jason Cannon",
+      "rating": 4,
+      "read_at": "2021-12-28",
+      "added_at": "2021-12-28",
+      "url": "https://www.goodreads.com/book/show/23265431"
+    },
+    {
+      "id": "55657225",
+      "title": "DevOps",
+      "author": "Robert Kernman",
+      "rating": 3,
+      "read_at": "2021-12-28",
+      "added_at": "2021-12-28",
+      "url": "https://www.goodreads.com/book/show/55657225"
+    },
+    {
+      "id": "26632044",
+      "title": "Shell Scripting",
+      "author": "Jason Cannon",
+      "rating": 4,
+      "read_at": "2021-12-27",
+      "added_at": "2021-12-27",
+      "url": "https://www.goodreads.com/book/show/26632044"
+    },
+    {
+      "id": "25294502",
+      "title": "Linux",
+      "author": "Jason Cannon",
+      "rating": 4,
+      "read_at": "2021-12-26",
+      "added_at": "2021-12-26",
+      "url": "https://www.goodreads.com/book/show/25294502"
+    },
+    {
+      "id": "35941498",
+      "title": "Your Best Year Ever",
+      "author": "Michael Hyatt",
+      "rating": 4,
+      "read_at": "2021-12-26",
+      "added_at": "2021-12-26",
+      "url": "https://www.goodreads.com/book/show/35941498"
+    },
+    {
+      "id": "58631328",
+      "title": "Self coaching",
+      "author": "Manoj Chenthamarakshan",
+      "rating": 3,
+      "read_at": "2021-12-17",
+      "added_at": "2021-12-17",
+      "url": "https://www.goodreads.com/book/show/58631328"
+    },
+    {
+      "id": "25151340",
+      "title": "Ansible",
+      "author": "Lorin Hochstein",
+      "rating": 4,
+      "read_at": "2021-12-17",
+      "added_at": "2021-12-17",
+      "url": "https://www.goodreads.com/book/show/25151340"
+    },
+    {
+      "id": "42589303",
+      "title": "Terraform",
+      "author": "Yevgeniy Brikman",
+      "rating": 4,
+      "read_at": "2021-12-16",
+      "added_at": "2021-12-16",
+      "url": "https://www.goodreads.com/book/show/42589303"
+    },
+    {
+      "id": "308542",
+      "title": "Deep Sleep Every Night",
+      "author": "Glenn Harrold",
+      "rating": 4,
+      "read_at": "2021-12-15",
+      "added_at": "2021-12-15",
+      "url": "https://www.goodreads.com/book/show/308542"
+    },
+    {
+      "id": "59505596",
+      "title": "comfortable slaves",
+      "author": "Manoj Chenthamarakshan",
+      "rating": 4,
+      "read_at": "2021-12-15",
+      "added_at": "2021-12-15",
+      "url": "https://www.goodreads.com/book/show/59505596"
+    },
+    {
+      "id": "21879487",
+      "title": "It Always Seems Impossible Until It's Done",
+      "author": "Kathryn Petras",
+      "rating": 4,
+      "read_at": "2021-12-13",
+      "added_at": "2021-12-13",
+      "url": "https://www.goodreads.com/book/show/21879487"
+    },
+    {
+      "id": "42942218",
+      "title": "Habits",
+      "author": "Manoj Chenthamarakshan",
+      "rating": 4,
+      "read_at": "2021-12-10",
+      "added_at": "2021-12-10",
+      "url": "https://www.goodreads.com/book/show/42942218"
+    },
+    {
+      "id": "34416720",
+      "title": "A Seat at the Table",
+      "author": "Mark Schwartz",
+      "rating": 4,
+      "read_at": "2021-12-08",
+      "added_at": "2021-12-08",
+      "url": "https://www.goodreads.com/book/show/34416720"
+    },
+    {
+      "id": "22091621",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "rating": 3,
+      "read_at": "2021-12-08",
+      "added_at": "2021-12-08",
+      "url": "https://www.goodreads.com/book/show/22091621"
+    },
+    {
+      "id": "50083106",
+      "title": "The Art of Leadership",
+      "author": "Michael Lopp",
+      "rating": 4,
+      "read_at": "2021-12-02",
+      "added_at": "2021-12-02",
+      "url": "https://www.goodreads.com/book/show/50083106"
+    },
+    {
+      "id": "7388631",
+      "title": "This Is Getting Old",
+      "author": "Susan Moon",
+      "rating": 1,
+      "read_at": "2021-11-29",
+      "added_at": "2021-11-29",
+      "url": "https://www.goodreads.com/book/show/7388631"
+    },
+    {
+      "id": "20447117",
+      "title": "Linux for Beginners",
+      "author": "Jason Cannon",
+      "rating": 4,
+      "read_at": "2021-11-29",
+      "added_at": "2021-11-29",
+      "url": "https://www.goodreads.com/book/show/20447117"
+    },
+    {
+      "id": "55364115",
+      "title": "A Promised Land",
+      "author": "Barack Obama",
+      "rating": 5,
+      "read_at": "2021-11-28",
+      "added_at": "2021-11-28",
+      "url": "https://www.goodreads.com/book/show/55364115"
+    },
+    {
+      "id": "57836035",
+      "title": "Ansible Automation Platform",
+      "author": "Peter Smith",
+      "rating": null,
+      "read_at": "2021-11-27",
+      "added_at": "2021-11-27",
+      "url": "https://www.goodreads.com/book/show/57836035"
+    },
+    {
+      "id": "43998043",
+      "title": "Istio",
+      "author": "Lee calcote",
+      "rating": 3,
+      "read_at": "2021-11-27",
+      "added_at": "2021-11-27",
+      "url": "https://www.goodreads.com/book/show/43998043"
+    },
+    {
+      "id": "44101576",
+      "title": "Be Calm",
+      "author": "Jill P. Weber",
+      "rating": 4,
+      "read_at": "2021-11-21",
+      "added_at": "2021-11-21",
+      "url": "https://www.goodreads.com/book/show/44101576"
+    },
+    {
+      "id": "59657824",
+      "title": "Building CI/CD Systems Using Tekton",
+      "author": "Joel Lord",
+      "rating": 3,
+      "read_at": "2021-11-20",
+      "added_at": "2021-11-20",
+      "url": "https://www.goodreads.com/book/show/59657824"
+    },
+    {
+      "id": "55182024",
+      "title": "Learning Helm",
+      "author": "Matt Butcher",
+      "rating": 4,
+      "read_at": "2021-11-19",
+      "added_at": "2021-11-19",
+      "url": "https://www.goodreads.com/book/show/55182024"
+    },
+    {
+      "id": "59657588",
+      "title": "Leveraging Tekton for Cloud Native CI/CD",
+      "author": "Brent Laster",
+      "rating": 4,
+      "read_at": "2021-11-18",
+      "added_at": "2021-11-19",
+      "url": "https://www.goodreads.com/book/show/59657588"
+    },
+    {
+      "id": "58946477",
+      "title": "Always Wear Pants",
+      "author": "Kevin Rizer",
+      "rating": 5,
+      "read_at": "2021-11-16",
+      "added_at": "2021-11-16",
+      "url": "https://www.goodreads.com/book/show/58946477"
+    },
+    {
+      "id": "24585398",
+      "title": "Tiny Buddha's 365 Tiny Love Challenges",
+      "author": "Lori Deschene",
+      "rating": 3,
+      "read_at": "2021-11-13",
+      "added_at": "2021-11-13",
+      "url": "https://www.goodreads.com/book/show/24585398"
+    },
+    {
+      "id": "59631074",
+      "title": "21 STOCK FOR 2021",
+      "author": "FINANCIAL HUBB",
+      "rating": 4,
+      "read_at": "2021-11-09",
+      "added_at": "2021-11-15",
+      "url": "https://www.goodreads.com/book/show/59631074"
+    },
+    {
+      "id": "45710560",
+      "title": "Abdul’s Journey from Zero to Hero in the Share Market",
+      "author": "Mahesh Chandra Kaushik",
+      "rating": 3,
+      "read_at": "2021-11-09",
+      "added_at": "2021-11-09",
+      "url": "https://www.goodreads.com/book/show/45710560"
+    },
+    {
+      "id": "48932802",
+      "title": "IBM Design Thinking field Guide",
+      "author": "IBM",
+      "rating": 5,
+      "read_at": "2021-11-09",
+      "added_at": "2021-11-09",
+      "url": "https://www.goodreads.com/book/show/48932802"
+    },
+    {
+      "id": "55933450",
+      "title": "GO Programming in easy steps",
+      "author": "Mike McGrath",
+      "rating": 5,
+      "read_at": "2021-11-09",
+      "added_at": "2021-11-09",
+      "url": "https://www.goodreads.com/book/show/55933450"
+    },
+    {
+      "id": "59576292",
+      "title": "DEVOPS ENGINEER",
+      "author": "Pradeep Kumar Mishra",
+      "rating": 1,
+      "read_at": "2021-11-09",
+      "added_at": "2021-11-09",
+      "url": "https://www.goodreads.com/book/show/59576292"
+    },
+    {
+      "id": "114737",
+      "title": "It's Not How Good You Are, It's How Good You Want To Be",
+      "author": "Paul Arden",
+      "rating": 4,
+      "read_at": "2021-11-06",
+      "added_at": "2021-11-06",
+      "url": "https://www.goodreads.com/book/show/114737"
+    },
+    {
+      "id": "45043066",
+      "title": "How Chandu Earned and Chinki Lost",
+      "author": "Mahesh Chandra Kaushik",
+      "rating": 3,
+      "read_at": "2021-11-04",
+      "added_at": "2021-12-02",
+      "url": "https://www.goodreads.com/book/show/45043066"
+    },
+    {
+      "id": "44006789",
+      "title": "The Practicing Stoic",
+      "author": "Ward Farnsworth",
+      "rating": 5,
+      "read_at": "2021-11-04",
+      "added_at": "2021-11-04",
+      "url": "https://www.goodreads.com/book/show/44006789"
+    },
+    {
+      "id": "54166873",
+      "title": "Istio Explained",
+      "author": "Lin Sun",
+      "rating": 3,
+      "read_at": "2021-11-03",
+      "added_at": "2021-11-03",
+      "url": "https://www.goodreads.com/book/show/54166873"
+    },
+    {
+      "id": "45695383",
+      "title": "How to Make Profit in Share Market",
+      "author": "Mahesh Chandra Kaushik",
+      "rating": 3,
+      "read_at": "2021-11-02",
+      "added_at": "2021-11-02",
+      "url": "https://www.goodreads.com/book/show/45695383"
+    },
+    {
+      "id": "7108725",
+      "title": "Start with Why",
+      "author": "Simon Sinek",
+      "rating": 4,
+      "read_at": "2021-11-02",
+      "added_at": "2021-11-02",
+      "url": "https://www.goodreads.com/book/show/7108725"
+    },
+    {
+      "id": "55056088",
+      "title": "Please Like Me (But Keep Away)",
+      "author": "Mindy Kaling",
+      "rating": 1,
+      "read_at": "2021-10-31",
+      "added_at": "2021-10-31",
+      "url": "https://www.goodreads.com/book/show/55056088"
+    },
+    {
+      "id": "55054875",
+      "title": "Kind of Hindu",
+      "author": "Mindy Kaling",
+      "rating": 4,
+      "read_at": "2021-10-29",
+      "added_at": "2021-10-29",
+      "url": "https://www.goodreads.com/book/show/55054875"
+    },
+    {
+      "id": "54194549",
+      "title": "How to Create Wealth in Stock Market",
+      "author": "Hardeep Malik",
+      "rating": 5,
+      "read_at": "2021-10-28",
+      "added_at": "2021-10-28",
+      "url": "https://www.goodreads.com/book/show/54194549"
+    },
+    {
+      "id": "34885438",
+      "title": "Unfuck Your Brain",
+      "author": "Faith G. Harper",
+      "rating": 3,
+      "read_at": "2021-10-25",
+      "added_at": "2021-10-25",
+      "url": "https://www.goodreads.com/book/show/34885438"
+    },
+    {
+      "id": "42462049",
+      "title": "Basics of Indian Mutual Funds & SIP",
+      "author": "ANGSHUMAN ADHIKARI",
+      "rating": 3,
+      "read_at": "2021-10-25",
+      "added_at": "2021-10-25",
+      "url": "https://www.goodreads.com/book/show/42462049"
+    },
+    {
+      "id": "40042790",
+      "title": "Basics of Indian Stock Market",
+      "author": "ANGSHUMAN ADHIKARI",
+      "rating": 4,
+      "read_at": "2021-10-25",
+      "added_at": "2021-10-25",
+      "url": "https://www.goodreads.com/book/show/40042790"
+    },
+    {
+      "id": "25369999",
+      "title": "Indian Share Market for Beginners Indian Stock Market Basics Version 2015",
+      "author": "Vipin Kats",
+      "rating": 5,
+      "read_at": "2021-10-24",
+      "added_at": "2021-10-24",
+      "url": "https://www.goodreads.com/book/show/25369999"
+    },
+    {
+      "id": "39077",
+      "title": "The 21 Success Secrets of Self-Made Millionaires",
+      "author": "Brian Tracy",
+      "rating": 5,
+      "read_at": "2021-10-23",
+      "added_at": "2021-10-23",
+      "url": "https://www.goodreads.com/book/show/39077"
+    },
+    {
+      "id": "45996732",
+      "title": "A Beginner's Guide to the Stock Market",
+      "author": "Matthew R. Kratter",
+      "rating": 4,
+      "read_at": "2021-10-23",
+      "added_at": "2021-10-23",
+      "url": "https://www.goodreads.com/book/show/45996732"
+    },
+    {
+      "id": "17864237",
+      "title": "Tiny Buddha's Guide to Loving Yourself",
+      "author": "Lori Deschene",
+      "rating": 3,
+      "read_at": "2021-10-20",
+      "added_at": "2021-10-20",
+      "url": "https://www.goodreads.com/book/show/17864237"
+    },
+    {
+      "id": "58188368",
+      "title": "Learn Like a Pro",
+      "author": "Barbara Oakley",
+      "rating": 4,
+      "read_at": "2021-10-20",
+      "added_at": "2021-10-20",
+      "url": "https://www.goodreads.com/book/show/58188368"
+    },
+    {
+      "id": "20361610",
+      "title": "21 Great Ways To Become An Outstanding Manager",
+      "author": "Brian Tracy",
+      "rating": 5,
+      "read_at": "2021-10-16",
+      "added_at": "2021-10-20",
+      "url": "https://www.goodreads.com/book/show/20361610"
+    },
+    {
+      "id": "57149613",
+      "title": "The Only Bitcoin Investing Book You’ll Ever Need",
+      "author": "Freeman Publications",
+      "rating": 4,
+      "read_at": "2021-10-16",
+      "added_at": "2021-10-16",
+      "url": "https://www.goodreads.com/book/show/57149613"
+    },
+    {
+      "id": "58487101",
+      "title": "Mastering Crypto 2021",
+      "author": "Chris Lowe",
+      "rating": 4,
+      "read_at": "2021-10-16",
+      "added_at": "2021-10-16",
+      "url": "https://www.goodreads.com/book/show/58487101"
+    },
+    {
+      "id": "37905680",
+      "title": "Cryptocurrencies simply explained - by Co-Founder Dr. Julian Hosp",
+      "author": "Julian Hosp",
+      "rating": 3,
+      "read_at": "2021-10-15",
+      "added_at": "2021-10-15",
+      "url": "https://www.goodreads.com/book/show/37905680"
+    },
+    {
+      "id": "6950010",
+      "title": "The Cow in the Parking Lot",
+      "author": "Leonard Scheff",
+      "rating": 4,
+      "read_at": "2021-10-14",
+      "added_at": "2021-10-14",
+      "url": "https://www.goodreads.com/book/show/6950010"
+    },
+    {
+      "id": "40361132",
+      "title": "Introducing Istio Service Mesh for Microservices",
+      "author": "Christian Posta",
+      "rating": 4,
+      "read_at": "2021-10-13",
+      "added_at": "2021-10-13",
+      "url": "https://www.goodreads.com/book/show/40361132"
+    },
+    {
+      "id": "54450789",
+      "title": "You 3.0",
+      "author": "Anand Tamboli",
+      "rating": 4,
+      "read_at": "2021-10-12",
+      "added_at": "2021-10-12",
+      "url": "https://www.goodreads.com/book/show/54450789"
+    },
+    {
+      "id": "21413975",
+      "title": "Act Like a Leader, Think Like a Leader",
+      "author": "Herminia Ibarra",
+      "rating": 4,
+      "read_at": "2021-10-11",
+      "added_at": "2021-10-11",
+      "url": "https://www.goodreads.com/book/show/21413975"
+    },
+    {
+      "id": "59251703",
+      "title": "14-Step Goal Setting Guide",
+      "author": "Brian Tracy",
+      "rating": 5,
+      "read_at": "2021-10-09",
+      "added_at": "2023-09-02",
+      "url": "https://www.goodreads.com/book/show/59251703"
+    },
+    {
+      "id": "12366064",
+      "title": "Tiny Buddha",
+      "author": "Lori Deschene",
+      "rating": 4,
+      "read_at": "2021-10-09",
+      "added_at": "2021-10-09",
+      "url": "https://www.goodreads.com/book/show/12366064"
+    },
+    {
+      "id": "113935",
+      "title": "Goals!",
+      "author": "Brian Tracy",
+      "rating": 5,
+      "read_at": "2021-10-09",
+      "added_at": "2021-10-09",
+      "url": "https://www.goodreads.com/book/show/113935"
+    },
+    {
+      "id": "25164145",
+      "title": "Discovering Your Talents",
+      "author": "Brian Tracy",
+      "rating": 4,
+      "read_at": "2021-10-08",
+      "added_at": "2021-10-08",
+      "url": "https://www.goodreads.com/book/show/25164145"
+    },
+    {
+      "id": "57685465",
+      "title": "Deep Thinking",
+      "author": "Garry Kasparov",
+      "rating": 2,
+      "read_at": "2021-10-08",
+      "added_at": "2021-10-08",
+      "url": "https://www.goodreads.com/book/show/57685465"
+    },
+    {
+      "id": "56769154",
+      "title": "Birds and Beasts",
+      "author": "Sonali Bendre Behl",
+      "rating": 4,
+      "read_at": "2021-10-06",
+      "added_at": "2021-10-06",
+      "url": "https://www.goodreads.com/book/show/56769154"
+    },
+    {
+      "id": "18742462",
+      "title": "The Bhagavadgita",
+      "author": "Krishna-Dwaipayana Vyasa",
+      "rating": null,
+      "read_at": "2021-10-05",
+      "added_at": "2021-10-05",
+      "url": "https://www.goodreads.com/book/show/18742462"
+    },
+    {
+      "id": "82065",
+      "title": "Notes from a Friend",
+      "author": "Anthony Robbins",
+      "rating": 5,
+      "read_at": "2021-10-04",
+      "added_at": "2021-10-04",
+      "url": "https://www.goodreads.com/book/show/82065"
+    },
+    {
+      "id": "42951479",
+      "title": "Coding For Beginners In Easy Steps",
+      "author": "Mike McGrath",
+      "rating": 4,
+      "read_at": "2021-10-03",
+      "added_at": "2021-10-03",
+      "url": "https://www.goodreads.com/book/show/42951479"
+    },
+    {
+      "id": "31444357",
+      "title": "Python Succinctly",
+      "author": "Jason Cannon",
+      "rating": 3,
+      "read_at": "2021-10-02",
+      "added_at": "2021-10-02",
+      "url": "https://www.goodreads.com/book/show/31444357"
+    },
+    {
+      "id": "5617966",
+      "title": "A Guide to the Good Life",
+      "author": "William B. Irvine",
+      "rating": 4,
+      "read_at": "2021-10-01",
+      "added_at": "2021-10-01",
+      "url": "https://www.goodreads.com/book/show/5617966"
+    },
+    {
+      "id": "32478579",
+      "title": "Eat That Frog!",
+      "author": "Brian Tracy",
+      "rating": 4,
+      "read_at": "2021-09-26",
+      "added_at": "2021-09-26",
+      "url": "https://www.goodreads.com/book/show/32478579"
+    },
+    {
+      "id": "27436585",
+      "title": "Anything You Want",
+      "author": "Derek Sivers",
+      "rating": 5,
+      "read_at": "2021-09-25",
+      "added_at": "2021-09-25",
+      "url": "https://www.goodreads.com/book/show/27436585"
+    },
+    {
+      "id": "43317655",
+      "title": "The Science of Money",
+      "author": "Brian Tracy",
+      "rating": 4,
+      "read_at": "2021-09-24",
+      "added_at": "2021-09-24",
+      "url": "https://www.goodreads.com/book/show/43317655"
+    },
+    {
+      "id": "57517002",
+      "title": "Computer Science Unleashed",
+      "author": "Wladston Ferreira Filho",
+      "rating": 5,
+      "read_at": "2021-09-18",
+      "added_at": "2021-09-18",
+      "url": "https://www.goodreads.com/book/show/57517002"
+    },
+    {
+      "id": "40612439",
+      "title": "Sales Management [Jan 01, 2018] Tracy, Brian",
+      "author": "Brian Tracy",
+      "rating": 5,
+      "read_at": "2021-09-16",
+      "added_at": "2021-09-16",
+      "url": "https://www.goodreads.com/book/show/40612439"
+    },
+    {
+      "id": "40545783",
+      "title": "Oneness With All Life",
+      "author": "Eckhart Tolle",
+      "rating": 5,
+      "read_at": "2021-09-16",
+      "added_at": "2021-09-16",
+      "url": "https://www.goodreads.com/book/show/40545783"
+    },
+    {
+      "id": "57190872",
+      "title": "Life Mode On",
+      "author": "Joanne Orlando",
+      "rating": 4,
+      "read_at": "2021-09-16",
+      "added_at": "2021-09-15",
+      "url": "https://www.goodreads.com/book/show/57190872"
+    },
+    {
+      "id": "35495194",
+      "title": "Computer Science Distilled",
+      "author": "Wladston Ferreira Filho",
+      "rating": 5,
+      "read_at": "2021-09-13",
+      "added_at": "2021-09-13",
+      "url": "https://www.goodreads.com/book/show/35495194"
+    },
+    {
+      "id": "43836984",
+      "title": "The Hidden Power of Gayatri Mantra",
+      "author": "Om Swami",
+      "rating": 4,
+      "read_at": "2021-09-12",
+      "added_at": "2021-09-12",
+      "url": "https://www.goodreads.com/book/show/43836984"
+    },
+    {
+      "id": "19818173",
+      "title": "Stillness Speaks",
+      "author": "Eckhart Tolle",
+      "rating": 5,
+      "read_at": "2021-09-11",
+      "added_at": "2021-09-11",
+      "url": "https://www.goodreads.com/book/show/19818173"
+    },
+    {
+      "id": "41881472",
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "rating": 5,
+      "read_at": "2021-09-11",
+      "added_at": "2021-09-11",
+      "url": "https://www.goodreads.com/book/show/41881472"
+    },
+    {
+      "id": "35447086",
+      "title": "The Art of Talking to Yourself",
+      "author": "Vironika Tugaleva",
+      "rating": 3,
+      "read_at": "2021-09-10",
+      "added_at": "2021-09-10",
+      "url": "https://www.goodreads.com/book/show/35447086"
+    },
+    {
+      "id": "6256415",
+      "title": "A New Earth",
+      "author": "Eckhart Tolle",
+      "rating": 5,
+      "read_at": "2021-09-09",
+      "added_at": "2021-09-09",
+      "url": "https://www.goodreads.com/book/show/6256415"
+    },
+    {
+      "id": "19280591",
+      "title": "The Love Mindset",
+      "author": "Vironika Tugaleva",
+      "rating": 3,
+      "read_at": "2021-08-31",
+      "added_at": "2021-08-30",
+      "url": "https://www.goodreads.com/book/show/19280591"
+    },
+    {
+      "id": "85100",
+      "title": "Chess for Kids",
+      "author": "Michael Basman",
+      "rating": 4,
+      "read_at": "2021-08-30",
+      "added_at": "2021-08-30",
+      "url": "https://www.goodreads.com/book/show/85100"
+    },
+    {
+      "id": "10310239",
+      "title": "The Heart And The Bottle",
+      "author": "Oliver Jeffers",
+      "rating": 4,
+      "read_at": "2021-08-30",
+      "added_at": "2021-08-30",
+      "url": "https://www.goodreads.com/book/show/10310239"
+    },
+    {
+      "id": "12242716",
+      "title": "Up and Down",
+      "author": "Oliver Jeffers",
+      "rating": 4,
+      "read_at": "2021-08-30",
+      "added_at": "2021-08-30",
+      "url": "https://www.goodreads.com/book/show/12242716"
+    },
+    {
+      "id": "29505192",
+      "title": "The Day the Crayons Came Home",
+      "author": "Drew Daywalt",
+      "rating": 5,
+      "read_at": "2021-08-30",
+      "added_at": "2021-08-30",
+      "url": "https://www.goodreads.com/book/show/29505192"
+    },
+    {
+      "id": "28939835",
+      "title": "The Day The Crayons Quit",
+      "author": "Drew Daywalt",
+      "rating": 5,
+      "read_at": "2021-08-30",
+      "added_at": "2021-08-30",
+      "url": "https://www.goodreads.com/book/show/28939835"
+    },
+    {
+      "id": "58876002",
+      "title": "Animal Stories for Children",
+      "author": "Ruskin Bond",
+      "rating": 4,
+      "read_at": "2021-08-28",
+      "added_at": "2021-08-28",
+      "url": "https://www.goodreads.com/book/show/58876002"
+    },
+    {
+      "id": "58875983",
+      "title": "Magical Stories for Children",
+      "author": "Ruskin Bond",
+      "rating": 4,
+      "read_at": "2021-08-28",
+      "added_at": "2021-08-28",
+      "url": "https://www.goodreads.com/book/show/58875983"
+    },
+    {
+      "id": "3764629",
+      "title": "The Way Back Home",
+      "author": "Oliver Jeffers",
+      "rating": 4,
+      "read_at": "2021-08-28",
+      "added_at": "2021-08-28",
+      "url": "https://www.goodreads.com/book/show/3764629"
+    },
+    {
+      "id": "1022505",
+      "title": "The Incredible Book Eating Boy",
+      "author": "Oliver Jeffers",
+      "rating": 4,
+      "read_at": "2021-08-28",
+      "added_at": "2021-08-28",
+      "url": "https://www.goodreads.com/book/show/1022505"
+    },
+    {
+      "id": "6483317",
+      "title": "The Great Paper Caper",
+      "author": "Oliver Jeffers",
+      "rating": 5,
+      "read_at": "2021-08-28",
+      "added_at": "2021-08-28",
+      "url": "https://www.goodreads.com/book/show/6483317"
+    },
+    {
+      "id": "19649075",
+      "title": "This Moose Belongs to Me",
+      "author": "Oliver Jeffers",
+      "rating": 4,
+      "read_at": "2021-08-28",
+      "added_at": "2021-08-28",
+      "url": "https://www.goodreads.com/book/show/19649075"
+    },
+    {
+      "id": "13649671",
+      "title": "Stuck",
+      "author": "Oliver Jeffers",
+      "rating": 5,
+      "read_at": "2021-08-28",
+      "added_at": "2021-08-28",
+      "url": "https://www.goodreads.com/book/show/13649671"
+    },
+    {
+      "id": "58870805",
+      "title": "Adventure Stories for Children",
+      "author": "Ruskin Bond",
+      "rating": 4,
+      "read_at": "2021-08-28",
+      "added_at": "2021-08-27",
+      "url": "https://www.goodreads.com/book/show/58870805"
+    },
+    {
+      "id": "20062213",
+      "title": "Practicing The Power Of Now",
+      "author": "Eckhart Tolle",
+      "rating": 5,
+      "read_at": "2021-08-27",
+      "added_at": "2021-08-27",
+      "url": "https://www.goodreads.com/book/show/20062213"
+    },
+    {
+      "id": "58771820",
+      "title": "How the Earth got it’s Beauty",
+      "author": "Sudha Murty",
+      "rating": 5,
+      "read_at": "2021-08-27",
+      "added_at": "2021-08-27",
+      "url": "https://www.goodreads.com/book/show/58771820"
+    },
+    {
+      "id": "26036700",
+      "title": "The Way of Peace",
+      "author": "James Allen",
+      "rating": 5,
+      "read_at": "2021-08-27",
+      "added_at": "2021-08-27",
+      "url": "https://www.goodreads.com/book/show/26036700"
+    },
+    {
+      "id": "43320399",
+      "title": "Cloud Computing Essentials",
+      "author": "Anup Kumar",
+      "rating": 2,
+      "read_at": "2021-08-25",
+      "added_at": "2021-08-25",
+      "url": "https://www.goodreads.com/book/show/43320399"
+    },
+    {
+      "id": "55116262",
+      "title": "How the Onion Got Its Layers (Puffin Chapter Books)",
+      "author": "Sudha Murty",
+      "rating": 4,
+      "read_at": "2021-08-25",
+      "added_at": "2021-08-25",
+      "url": "https://www.goodreads.com/book/show/55116262"
+    },
+    {
+      "id": "58805682",
+      "title": "How the Sea Became Salty (Puffin Chapter Books)",
+      "author": "Sudha Murty",
+      "rating": 4,
+      "read_at": "2021-08-25",
+      "added_at": "2021-08-25",
+      "url": "https://www.goodreads.com/book/show/58805682"
+    },
+    {
+      "id": "30343967",
+      "title": "A Little Book of Friendship",
+      "author": "Ruskin Bond",
+      "rating": 3,
+      "read_at": "2021-08-25",
+      "added_at": "2021-08-24",
+      "url": "https://www.goodreads.com/book/show/30343967"
+    },
+    {
+      "id": "34014959",
+      "title": "Master Your Mind, Master Your Life",
+      "author": "Magnus Steele",
+      "rating": 4,
+      "read_at": "2021-08-24",
+      "added_at": "2021-08-24",
+      "url": "https://www.goodreads.com/book/show/34014959"
+    },
+    {
+      "id": "45711933",
+      "title": "Love for Imperfect Things",
+      "author": "Haemin Sunim",
+      "rating": 5,
+      "read_at": "2021-08-24",
+      "added_at": "2021-08-24",
+      "url": "https://www.goodreads.com/book/show/45711933"
+    },
+    {
+      "id": "42765480",
+      "title": "Kubernetes in the Enterprise",
+      "author": "Michael Elder",
+      "rating": null,
+      "read_at": "2021-08-23",
+      "added_at": "2021-08-23",
+      "url": "https://www.goodreads.com/book/show/42765480"
+    },
+    {
+      "id": "40242155",
+      "title": "The Four Horsemen",
+      "author": "Christopher Hitchens",
+      "rating": null,
+      "read_at": "2021-08-23",
+      "added_at": "2021-08-23",
+      "url": "https://www.goodreads.com/book/show/40242155"
+    },
+    {
+      "id": "31305479",
+      "title": "The Shape of Ideas",
+      "author": "Grant Snider",
+      "rating": 5,
+      "read_at": "2021-08-22",
+      "added_at": "2021-08-22",
+      "url": "https://www.goodreads.com/book/show/31305479"
+    },
+    {
+      "id": "39099108",
+      "title": "When Breath Becomes Air",
+      "author": "Paul Kalanithi",
+      "rating": 4,
+      "read_at": "2021-08-21",
+      "added_at": "2021-08-22",
+      "url": "https://www.goodreads.com/book/show/39099108"
+    },
+    {
+      "id": "48502082",
+      "title": "Become an Awesome Software Architect",
+      "author": "Anatoly Volkhover",
+      "rating": 3,
+      "read_at": "2021-08-21",
+      "added_at": "2021-08-21",
+      "url": "https://www.goodreads.com/book/show/48502082"
+    },
+    {
+      "id": "50984757",
+      "title": "The Buddha and the Badass",
+      "author": "Vishen Lakhiani",
+      "rating": 4,
+      "read_at": "2021-08-20",
+      "added_at": "2021-08-20",
+      "url": "https://www.goodreads.com/book/show/50984757"
+    },
+    {
+      "id": "26114571",
+      "title": "The Code of the Extraordinary Mind",
+      "author": "Vishen Lakhiani",
+      "rating": 4,
+      "read_at": "2021-08-19",
+      "added_at": "2021-08-20",
+      "url": "https://www.goodreads.com/book/show/26114571"
+    },
+    {
+      "id": "33529957",
+      "title": "The Things You Can See Only When You Slow Down",
+      "author": "Haemin Sunim",
+      "rating": 5,
+      "read_at": "2021-08-19",
+      "added_at": "2021-08-19",
+      "url": "https://www.goodreads.com/book/show/33529957"
+    },
+    {
+      "id": "58153479",
+      "title": "Hybrid Cloud Apps with OpenShift and Kubernetes",
+      "author": "Michael Elder",
+      "rating": 5,
+      "read_at": "2021-08-18",
+      "added_at": "2021-08-18",
+      "url": "https://www.goodreads.com/book/show/58153479"
+    },
+    {
+      "id": "42743139",
+      "title": "Business Strategy [Jan 01, 2018] Tracy, Brian",
+      "author": "Brian Tracy",
+      "rating": 5,
+      "read_at": "2021-08-15",
+      "added_at": "2021-08-15",
+      "url": "https://www.goodreads.com/book/show/42743139"
+    },
+    {
+      "id": "19306411",
+      "title": "Timeless Wisdom",
+      "author": "Eknath Easwaran",
+      "rating": 3,
+      "read_at": "2021-08-15",
+      "added_at": "2021-08-15",
+      "url": "https://www.goodreads.com/book/show/19306411"
+    },
+    {
+      "id": "57181518",
+      "title": "OpenShift for Developers",
+      "author": "Joshua Wood",
+      "rating": 4,
+      "read_at": "2021-08-14",
+      "added_at": "2021-08-14",
+      "url": "https://www.goodreads.com/book/show/57181518"
+    },
+    {
+      "id": "40242956",
+      "title": "Learning Amazon Web Services (AWS)",
+      "author": "Mark Wilkins",
+      "rating": 4,
+      "read_at": "2021-08-14",
+      "added_at": "2021-08-14",
+      "url": "https://www.goodreads.com/book/show/40242956"
+    },
+    {
+      "id": "39288400",
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "rating": 4,
+      "read_at": "2021-08-14",
+      "added_at": "2021-08-14",
+      "url": "https://www.goodreads.com/book/show/39288400"
+    },
+    {
+      "id": "55256322",
+      "title": "Get High",
+      "author": "Sangeeta Shankaran Sumesh",
+      "rating": 5,
+      "read_at": "2021-08-14",
+      "added_at": "2021-08-14",
+      "url": "https://www.goodreads.com/book/show/55256322"
+    },
+    {
+      "id": "40121378",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "rating": 4,
+      "read_at": "2021-08-13",
+      "added_at": "2021-08-13",
+      "url": "https://www.goodreads.com/book/show/40121378"
+    },
+    {
+      "id": "57887691",
+      "title": "Saying YES to LIFE In Spite of EVERYTHING!",
+      "author": "Amy Guduza",
+      "rating": 1,
+      "read_at": "2021-08-12",
+      "added_at": "2021-08-12",
+      "url": "https://www.goodreads.com/book/show/57887691"
+    },
+    {
+      "id": "35277867",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "rating": 5,
+      "read_at": "2021-08-10",
+      "added_at": "2024-12-31",
+      "url": "https://www.goodreads.com/book/show/35277867"
+    },
+    {
+      "id": "39543747",
+      "title": "Deploying to Openshift",
+      "author": "Graham Dumpleton",
+      "rating": null,
+      "read_at": "2021-08-02",
+      "added_at": "2021-08-02",
+      "url": "https://www.goodreads.com/book/show/39543747"
+    },
+    {
+      "id": "35743587",
+      "title": "DevOps with OpenShift",
+      "author": "Stefano Picozzi",
+      "rating": null,
+      "read_at": "2021-08-02",
+      "added_at": "2021-08-02",
+      "url": "https://www.goodreads.com/book/show/35743587"
+    },
+    {
+      "id": "6708",
+      "title": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "rating": 5,
+      "read_at": "2021-07-31",
+      "added_at": "2021-07-31",
+      "url": "https://www.goodreads.com/book/show/6708"
+    },
+    {
+      "id": "32069974",
+      "title": "OpenShift for Developers",
+      "author": "Grant Shipley",
+      "rating": 4,
+      "read_at": "2021-07-31",
+      "added_at": "2021-07-31",
+      "url": "https://www.goodreads.com/book/show/32069974"
+    },
+    {
+      "id": "54144636",
+      "title": "Exploring Actor in You",
+      "author": "Pankaj Gupta",
+      "rating": 2,
+      "read_at": "2021-07-29",
+      "added_at": "2021-07-29",
+      "url": "https://www.goodreads.com/book/show/54144636"
+    },
+    {
+      "id": "21928073",
+      "title": "Getting Started with Openshift",
+      "author": "Steve Pousty",
+      "rating": null,
+      "read_at": "2021-07-22",
+      "added_at": "2021-07-22",
+      "url": "https://www.goodreads.com/book/show/21928073"
+    },
+    {
+      "id": "29093292",
+      "title": "The Daily Stoic",
+      "author": "Ryan Holiday",
+      "rating": 5,
+      "read_at": "2021-07-20",
+      "added_at": "2025-02-21",
+      "url": "https://www.goodreads.com/book/show/29093292"
+    },
+    {
+      "id": "25991058",
+      "title": "The Time Chunking Method",
+      "author": "Damon Zahariades",
+      "rating": 3,
+      "read_at": "2021-07-20",
+      "added_at": "2021-07-20",
+      "url": "https://www.goodreads.com/book/show/25991058"
+    },
+    {
+      "id": "41061747",
+      "title": "Life's Amazing Secrets",
+      "author": "Gaur Gopal Das",
+      "rating": 3,
+      "read_at": "2021-07-18",
+      "added_at": "2021-07-19",
+      "url": "https://www.goodreads.com/book/show/41061747"
+    },
+    {
+      "id": "21044452",
+      "title": "The Secret Daily Teachings",
+      "author": "Rhonda Byrne",
+      "rating": 5,
+      "read_at": "2021-07-18",
+      "added_at": "2021-07-18",
+      "url": "https://www.goodreads.com/book/show/21044452"
+    },
+    {
+      "id": "67374",
+      "title": "A Year with Rumi",
+      "author": "Jalal ad-Din Muhammad ar-Rumi",
+      "rating": 2,
+      "read_at": "2021-07-18",
+      "added_at": "2021-07-18",
+      "url": "https://www.goodreads.com/book/show/67374"
+    },
+    {
+      "id": "34536546",
+      "title": "Principles",
+      "author": "Ray Dalio",
+      "rating": 4,
+      "read_at": "2021-07-17",
+      "added_at": "2021-07-19",
+      "url": "https://www.goodreads.com/book/show/34536546"
+    },
+    {
+      "id": "58622886",
+      "title": "Diary of a Rich Kid",
+      "author": "Malcolm Mejin",
+      "rating": 2,
+      "read_at": "2021-07-15",
+      "added_at": "2026-10-04",
+      "url": "https://www.goodreads.com/book/show/58622886"
+    },
+    {
+      "id": "58559500",
+      "title": "Define your success",
+      "author": "Pankaj Gupta",
+      "rating": 2,
+      "read_at": "2021-07-15",
+      "added_at": "2021-12-14",
+      "url": "https://www.goodreads.com/book/show/58559500"
+    },
+    {
+      "id": "58547542",
+      "title": "Catapult Your PRODUCTIVITY",
+      "author": "Damon Zahariades",
+      "rating": 4,
+      "read_at": "2021-07-13",
+      "added_at": "2021-07-13",
+      "url": "https://www.goodreads.com/book/show/58547542"
+    },
+    {
+      "id": "34013922",
+      "title": "Kubernetes in Action",
+      "author": "Marko Luksa",
+      "rating": 5,
+      "read_at": "2021-07-13",
+      "added_at": "2021-07-13",
+      "url": "https://www.goodreads.com/book/show/34013922"
+    },
+    {
+      "id": "43708884",
+      "title": "The Boy, the Mole, the Fox and the Horse",
+      "author": "Charlie Mackesy",
+      "rating": 5,
+      "read_at": "2021-07-07",
+      "added_at": "2021-07-07",
+      "url": "https://www.goodreads.com/book/show/43708884"
+    },
+    {
+      "id": "24961564",
+      "title": "200 Powerful Positive Affirmations Volume II and 6 Super Chargers to Put Them To Work",
+      "author": "Andy Grant",
+      "rating": 4,
+      "read_at": "2021-07-07",
+      "added_at": "2021-07-07",
+      "url": "https://www.goodreads.com/book/show/24961564"
+    },
+    {
+      "id": "51296180",
+      "title": "Diary of a Rich Kid",
+      "author": "Malcolm Mejin",
+      "rating": 3,
+      "read_at": "2021-07-07",
+      "added_at": "2021-07-07",
+      "url": "https://www.goodreads.com/book/show/51296180"
+    },
+    {
+      "id": "6594954",
+      "title": "Your Life Is Your Message",
+      "author": "Eknath Easwaran",
+      "rating": 5,
+      "read_at": "2021-07-04",
+      "added_at": "2021-07-04",
+      "url": "https://www.goodreads.com/book/show/6594954"
+    },
+    {
+      "id": "29777195",
+      "title": "Teach Your Child How To Think",
+      "author": "Edward de Bono",
+      "rating": 4,
+      "read_at": "2021-07-03",
+      "added_at": "2021-07-05",
+      "url": "https://www.goodreads.com/book/show/29777195"
+    },
+    {
+      "id": "3228917",
+      "title": "Outliers",
+      "author": "Malcolm Gladwell",
+      "rating": 4,
+      "read_at": "2021-07-03",
+      "added_at": "2021-07-05",
+      "url": "https://www.goodreads.com/book/show/3228917"
+    },
+    {
+      "id": "50870743",
+      "title": "Alice in the Wonderland - Story Book",
+      "author": "Pegasus",
+      "rating": null,
+      "read_at": "2021-06-30",
+      "added_at": "2021-06-30",
+      "url": "https://www.goodreads.com/book/show/50870743"
+    },
+    {
+      "id": "29373391",
+      "title": "The Science of Getting Rich",
+      "author": "Wallace D. Wattles",
+      "rating": 4,
+      "read_at": "2021-06-30",
+      "added_at": "2021-06-30",
+      "url": "https://www.goodreads.com/book/show/29373391"
+    },
+    {
+      "id": "9937046",
+      "title": "Patience",
+      "author": "Eknath Easwaran",
+      "rating": 5,
+      "read_at": "2021-06-29",
+      "added_at": "2021-06-29",
+      "url": "https://www.goodreads.com/book/show/9937046"
+    },
+    {
+      "id": "55960301",
+      "title": "VIVEKANANDA",
+      "author": "Pranay",
+      "rating": 5,
+      "read_at": "2021-06-28",
+      "added_at": "2021-06-28",
+      "url": "https://www.goodreads.com/book/show/55960301"
+    },
+    {
+      "id": "55960151",
+      "title": "BUDDHA",
+      "author": "Pranay",
+      "rating": 5,
+      "read_at": "2021-06-28",
+      "added_at": "2021-06-28",
+      "url": "https://www.goodreads.com/book/show/55960151"
+    },
+    {
+      "id": "57865749",
+      "title": "Kubernetes",
+      "author": "Brendan Burns",
+      "rating": 4,
+      "read_at": "2021-06-27",
+      "added_at": "2021-10-11",
+      "url": "https://www.goodreads.com/book/show/57865749"
+    },
+    {
+      "id": "52412710",
+      "title": "Infrastructure as Code",
+      "author": "Austin Young",
+      "rating": null,
+      "read_at": "2021-06-27",
+      "added_at": "2021-06-27",
+      "url": "https://www.goodreads.com/book/show/52412710"
+    },
+    {
+      "id": "55960231",
+      "title": "HINDUISM",
+      "author": "Pranay",
+      "rating": 5,
+      "read_at": "2021-06-27",
+      "added_at": "2021-06-27",
+      "url": "https://www.goodreads.com/book/show/55960231"
+    },
+    {
+      "id": "44011608",
+      "title": "IP Subnetting for Beginners",
+      "author": "Ramon Nastase",
+      "rating": 5,
+      "read_at": "2021-06-27",
+      "added_at": "2021-06-27",
+      "url": "https://www.goodreads.com/book/show/44011608"
+    },
+    {
+      "id": "43367090",
+      "title": "Computer Networking for Beginners",
+      "author": "Ramon Nastase",
+      "rating": 5,
+      "read_at": "2021-06-27",
+      "added_at": "2021-06-27",
+      "url": "https://www.goodreads.com/book/show/43367090"
+    },
+    {
+      "id": "18290401",
+      "title": "Show Your Work!",
+      "author": "Austin Kleon",
+      "rating": 5,
+      "read_at": "2021-06-26",
+      "added_at": "2021-06-28",
+      "url": "https://www.goodreads.com/book/show/18290401"
+    },
+    {
+      "id": "55960182",
+      "title": "GITA",
+      "author": "Pranay",
+      "rating": 5,
+      "read_at": "2021-06-26",
+      "added_at": "2021-06-26",
+      "url": "https://www.goodreads.com/book/show/55960182"
+    },
+    {
+      "id": "55960318",
+      "title": "VEDANTA",
+      "author": "Pranay",
+      "rating": 5,
+      "read_at": "2021-06-26",
+      "added_at": "2021-06-26",
+      "url": "https://www.goodreads.com/book/show/55960318"
+    },
+    {
+      "id": "40591677",
+      "title": "Keep Going",
+      "author": "Austin Kleon",
+      "rating": 4,
+      "read_at": "2021-06-25",
+      "added_at": "2021-06-25",
+      "url": "https://www.goodreads.com/book/show/40591677"
+    },
+    {
+      "id": "19180092",
+      "title": "Conquest of Mind",
+      "author": "Eknath Easwaran",
+      "rating": 5,
+      "read_at": "2021-06-21",
+      "added_at": "2021-06-21",
+      "url": "https://www.goodreads.com/book/show/19180092"
+    },
+    {
+      "id": "28579391",
+      "title": "The Power of your Subconscious Mind",
+      "author": "Joseph Murphy",
+      "rating": 5,
+      "read_at": "2021-06-20",
+      "added_at": "2021-06-20",
+      "url": "https://www.goodreads.com/book/show/28579391"
+    },
+    {
+      "id": "2856001",
+      "title": "Bounce Back!",
+      "author": "Karen Salmansohn",
+      "rating": 4,
+      "read_at": "2021-06-19",
+      "added_at": "2021-06-19",
+      "url": "https://www.goodreads.com/book/show/2856001"
+    },
+    {
+      "id": "45183808",
+      "title": "Big Little Book On Terraform",
+      "author": "U.V. Omos",
+      "rating": 3,
+      "read_at": "2021-06-18",
+      "added_at": "2021-07-07",
+      "url": "https://www.goodreads.com/book/show/45183808"
+    },
+    {
+      "id": "44981399",
+      "title": "Big Little Book on Ansible and Ansible Tower",
+      "author": "U.V. Omos",
+      "rating": 2,
+      "read_at": "2021-06-18",
+      "added_at": "2021-06-18",
+      "url": "https://www.goodreads.com/book/show/44981399"
+    },
+    {
+      "id": "81107",
+      "title": "The Energy Bus",
+      "author": "Jon Gordon",
+      "rating": 4,
+      "read_at": "2021-06-18",
+      "added_at": "2021-06-17",
+      "url": "https://www.goodreads.com/book/show/81107"
+    },
+    {
+      "id": "1428",
+      "title": "By the River Piedra I Sat Down and Wept",
+      "author": "Paulo Coelho",
+      "rating": null,
+      "read_at": "2021-06-16",
+      "added_at": "2021-06-16",
+      "url": "https://www.goodreads.com/book/show/1428"
+    },
+    {
+      "id": "34816959",
+      "title": "Learn Jenkins in 1 day and learn it well",
+      "author": "Tan Pham",
+      "rating": 4,
+      "read_at": "2021-06-14",
+      "added_at": "2021-06-14",
+      "url": "https://www.goodreads.com/book/show/34816959"
+    },
+    {
+      "id": "36574256",
+      "title": "The No-Spend Challenge Guide",
+      "author": "Jen Smith",
+      "rating": 2,
+      "read_at": "2021-06-14",
+      "added_at": "2021-06-14",
+      "url": "https://www.goodreads.com/book/show/36574256"
+    },
+    {
+      "id": "42961250",
+      "title": "IP Subnetting - From Zero to Guru",
+      "author": "Paul Browning",
+      "rating": 4,
+      "read_at": "2021-06-13",
+      "added_at": "2021-06-17",
+      "url": "https://www.goodreads.com/book/show/42961250"
+    },
+    {
+      "id": "55702348",
+      "title": "Big Little Book on Git - Gitlab Github GitOps DevOps & CICD",
+      "author": "U.V. Omos",
+      "rating": 4,
+      "read_at": "2021-06-13",
+      "added_at": "2021-06-13",
+      "url": "https://www.goodreads.com/book/show/55702348"
+    },
+    {
+      "id": "20752191",
+      "title": "Ping",
+      "author": "Jorgen Lanesskog",
+      "rating": 3,
+      "read_at": "2021-06-13",
+      "added_at": "2021-06-13",
+      "url": "https://www.goodreads.com/book/show/20752191"
+    },
+    {
+      "id": "1888570",
+      "title": "Teach Yourself to Think",
+      "author": "Edward de Bono",
+      "rating": 3,
+      "read_at": "2021-06-12",
+      "added_at": "2021-06-12",
+      "url": "https://www.goodreads.com/book/show/1888570"
+    },
+    {
+      "id": "38895506",
+      "title": "Tao Te Ching",
+      "author": "Lao Tzu",
+      "rating": 5,
+      "read_at": "2021-06-12",
+      "added_at": "2021-06-12",
+      "url": "https://www.goodreads.com/book/show/38895506"
+    },
+    {
+      "id": "3538130",
+      "title": "Plato and a Platypus Walk into a Bar... Understanding Philosophy Through Jokes",
+      "author": "Thomas Cathcart",
+      "rating": 3,
+      "read_at": "2021-06-11",
+      "added_at": "2021-06-11",
+      "url": "https://www.goodreads.com/book/show/3538130"
+    },
+    {
+      "id": "25699455",
+      "title": "Speed Reading",
+      "author": "Speedy Gonzales",
+      "rating": 1,
+      "read_at": "2021-06-08",
+      "added_at": "2021-06-17",
+      "url": "https://www.goodreads.com/book/show/25699455"
+    },
+    {
+      "id": "13099738",
+      "title": "Steal Like an Artist",
+      "author": "Austin Kleon",
+      "rating": 5,
+      "read_at": "2021-06-07",
+      "added_at": "2021-06-07",
+      "url": "https://www.goodreads.com/book/show/13099738"
+    },
+    {
+      "id": "40662488",
+      "title": "Art Matters",
+      "author": "Neil Gaiman",
+      "rating": 4,
+      "read_at": "2021-06-06",
+      "added_at": "2021-06-07",
+      "url": "https://www.goodreads.com/book/show/40662488"
+    },
+    {
+      "id": "49198602",
+      "title": "The Wim Hof Method",
+      "author": "Wim Hof",
+      "rating": 3,
+      "read_at": "2021-06-06",
+      "added_at": "2021-06-06",
+      "url": "https://www.goodreads.com/book/show/49198602"
+    },
+    {
+      "id": "58049869",
+      "title": "The Kubernetes Book",
+      "author": "Nigel Poulton",
+      "rating": 4,
+      "read_at": "2021-06-06",
+      "added_at": "2021-06-06",
+      "url": "https://www.goodreads.com/book/show/58049869"
+    },
+    {
+      "id": "22565525",
+      "title": "A Higher Branch",
+      "author": "Sam Makhoul",
+      "rating": 4,
+      "read_at": "2021-06-05",
+      "added_at": "2021-06-05",
+      "url": "https://www.goodreads.com/book/show/22565525"
+    },
+    {
+      "id": "56645181",
+      "title": "The Gopi Diaries",
+      "author": "Sudha Murty",
+      "rating": 5,
+      "read_at": "2021-06-04",
+      "added_at": "2025-06-27",
+      "url": "https://www.goodreads.com/book/show/56645181"
+    },
+    {
+      "id": "39752694",
+      "title": "AWS",
+      "author": "Adney Ainsley",
+      "rating": 3,
+      "read_at": "2021-06-01",
+      "added_at": "2021-06-01",
+      "url": "https://www.goodreads.com/book/show/39752694"
+    },
+    {
+      "id": "48574267",
+      "title": "AWS",
+      "author": "Cloud Gurus",
+      "rating": 4,
+      "read_at": "2021-06-01",
+      "added_at": "2021-06-01",
+      "url": "https://www.goodreads.com/book/show/48574267"
+    },
+    {
+      "id": "36158409",
+      "title": "AWS",
+      "author": "Dennis Hutten",
+      "rating": 3,
+      "read_at": "2021-05-31",
+      "added_at": "2021-05-31",
+      "url": "https://www.goodreads.com/book/show/36158409"
+    },
+    {
+      "id": "17668198",
+      "title": "200 Powerful Positive Affirmations and 6 Simple Tips to Put Them to Work (For YOU!)",
+      "author": "Andy Grant",
+      "rating": 5,
+      "read_at": "2021-05-30",
+      "added_at": "2021-05-30",
+      "url": "https://www.goodreads.com/book/show/17668198"
+    },
+    {
+      "id": "6162567",
+      "title": "Ignore Everybody",
+      "author": "Hugh MacLeod",
+      "rating": 3,
+      "read_at": "2021-05-30",
+      "added_at": "2021-05-30",
+      "url": "https://www.goodreads.com/book/show/6162567"
+    },
+    {
+      "id": "33131622",
+      "title": "An Introduction to APIs",
+      "author": "Brian Cooksey",
+      "rating": 3,
+      "read_at": "2021-05-29",
+      "added_at": "2021-05-29",
+      "url": "https://www.goodreads.com/book/show/33131622"
+    },
+    {
+      "id": "20873846",
+      "title": "What Is Karma? (Easwaran Inspirations Book 4)",
+      "author": "Eknath Easwaran",
+      "rating": 5,
+      "read_at": "2021-05-29",
+      "added_at": "2021-05-29",
+      "url": "https://www.goodreads.com/book/show/20873846"
+    },
+    {
+      "id": "39778514",
+      "title": "A Brief Introduction to Cloud Computing",
+      "author": "Todd Hoff",
+      "rating": 4,
+      "read_at": "2021-05-29",
+      "added_at": "2021-05-29",
+      "url": "https://www.goodreads.com/book/show/39778514"
+    },
+    {
+      "id": "36433824",
+      "title": "Explain the Cloud Like I'm 10",
+      "author": "Todd Hoff",
+      "rating": 5,
+      "read_at": "2021-05-29",
+      "added_at": "2021-05-29",
+      "url": "https://www.goodreads.com/book/show/36433824"
+    },
+    {
+      "id": "40550299",
+      "title": "Business Strategy [Jan 01, 2018] Tracy, Brian",
+      "author": "Brian Tracy",
+      "rating": 3,
+      "read_at": "2021-05-28",
+      "added_at": "2021-05-28",
+      "url": "https://www.goodreads.com/book/show/40550299"
+    },
+    {
+      "id": "50276423",
+      "title": "The Headspace Guide to Meditation & Mindfulness",
+      "author": "Andy Puddicombe",
+      "rating": 4,
+      "read_at": "2021-05-28",
+      "added_at": "2021-05-28",
+      "url": "https://www.goodreads.com/book/show/50276423"
+    },
+    {
+      "id": "37655631",
+      "title": "Warren Buffett",
+      "author": "Isaac Fox",
+      "rating": 4,
+      "read_at": "2021-05-23",
+      "added_at": "2021-05-23",
+      "url": "https://www.goodreads.com/book/show/37655631"
+    },
+    {
+      "id": "56080977",
+      "title": "grokking system design",
+      "author": "educative.io",
+      "rating": 4,
+      "read_at": "2021-05-23",
+      "added_at": "2021-05-23",
+      "url": "https://www.goodreads.com/book/show/56080977"
+    },
+    {
+      "id": "56184272",
+      "title": "Pause. Breathe. Choose.",
+      "author": "Naz Beheshti",
+      "rating": 4,
+      "read_at": "2021-05-22",
+      "added_at": "2021-05-22",
+      "url": "https://www.goodreads.com/book/show/56184272"
+    },
+    {
+      "id": "49057616",
+      "title": "The Rudest Book Ever",
+      "author": "Shwetabh Gangwar",
+      "rating": 4,
+      "read_at": "2021-05-22",
+      "added_at": "2021-05-22",
+      "url": "https://www.goodreads.com/book/show/49057616"
+    },
+    {
+      "id": "56877125",
+      "title": "When the World Went Dark (Penguin Petit)",
+      "author": "Jane De Suza",
+      "rating": null,
+      "read_at": "2021-05-21",
+      "added_at": "2021-05-21",
+      "url": "https://www.goodreads.com/book/show/56877125"
+    },
+    {
+      "id": "51236361",
+      "title": "ROWLEY JEFFERSON'S AWESOME FRIENDLY ADVENTURE",
+      "author": "Jeff Kinney",
+      "rating": 4,
+      "read_at": "2021-05-21",
+      "added_at": "2021-05-21",
+      "url": "https://www.goodreads.com/book/show/51236361"
+    },
+    {
+      "id": "49828194",
+      "title": "Learning Java",
+      "author": "Marc Loy",
+      "rating": 4,
+      "read_at": "2021-05-19",
+      "added_at": "2021-05-19",
+      "url": "https://www.goodreads.com/book/show/49828194"
+    },
+    {
+      "id": "58063548",
+      "title": "Understanding Kubernetes in a visual way",
+      "author": "Aurelie Vache",
+      "rating": null,
+      "read_at": "2021-05-17",
+      "added_at": "2021-05-17",
+      "url": "https://www.goodreads.com/book/show/58063548"
+    },
+    {
+      "id": "35614807",
+      "title": "Amazing Interview Answers",
+      "author": "Richard Blazevich",
+      "rating": 4,
+      "read_at": "2021-05-16",
+      "added_at": "2021-05-16",
+      "url": "https://www.goodreads.com/book/show/35614807"
+    },
+    {
+      "id": "45311657",
+      "title": "Easy Learning Design Patterns Java Practice",
+      "author": "Yang Hu",
+      "rating": 1,
+      "read_at": "2021-05-16",
+      "added_at": "2021-05-16",
+      "url": "https://www.goodreads.com/book/show/45311657"
+    },
+    {
+      "id": "56322964",
+      "title": "Rowley Jefferson's Awesome Friendly Spooky Stories (Rowley Jefferson’s Journal)",
+      "author": "Jeff Kinney",
+      "rating": 4,
+      "read_at": "2021-05-16",
+      "added_at": "2021-05-16",
+      "url": "https://www.goodreads.com/book/show/56322964"
+    },
+    {
+      "id": "38532432",
+      "title": "Mindfulness for Children",
+      "author": "Tracy Daniel",
+      "rating": 3,
+      "read_at": "2021-05-15",
+      "added_at": "2021-05-15",
+      "url": "https://www.goodreads.com/book/show/38532432"
+    },
+    {
+      "id": "9278897",
+      "title": "The 4-Hour Work Week",
+      "author": "Timothy Ferriss",
+      "rating": 3,
+      "read_at": "2021-05-14",
+      "added_at": "2021-05-14",
+      "url": "https://www.goodreads.com/book/show/9278897"
+    },
+    {
+      "id": "58028908",
+      "title": "The AWS Dictionary of Pain",
+      "author": "Cloud guru",
+      "rating": 4,
+      "read_at": "2021-05-13",
+      "added_at": "2021-05-12",
+      "url": "https://www.goodreads.com/book/show/58028908"
+    },
+    {
+      "id": "38204882",
+      "title": "Notes on a Nervous Planet",
+      "author": "Matt Haig",
+      "rating": 4,
+      "read_at": "2021-05-12",
+      "added_at": "2021-05-12",
+      "url": "https://www.goodreads.com/book/show/38204882"
+    },
+    {
+      "id": "22393576",
+      "title": "The Amazon Way",
+      "author": "John Rossman",
+      "rating": 3,
+      "read_at": "2021-05-12",
+      "added_at": "2021-05-12",
+      "url": "https://www.goodreads.com/book/show/22393576"
+    },
+    {
+      "id": "55662336",
+      "title": "A Guide to System Design Interviews",
+      "author": "Carl Jones",
+      "rating": 2,
+      "read_at": "2021-05-10",
+      "added_at": "2021-05-10",
+      "url": "https://www.goodreads.com/book/show/55662336"
+    },
+    {
+      "id": "45532987",
+      "title": "Easy Learning Data Structures & Algorithms Java Practice",
+      "author": "Yang Hu",
+      "rating": 2,
+      "read_at": "2021-05-10",
+      "added_at": "2021-05-10",
+      "url": "https://www.goodreads.com/book/show/45532987"
+    },
+    {
+      "id": "32874293",
+      "title": "The Promise of Death",
+      "author": "Eknath Easwaran",
+      "rating": 5,
+      "read_at": "2021-05-09",
+      "added_at": "2021-05-09",
+      "url": "https://www.goodreads.com/book/show/32874293"
+    },
+    {
+      "id": "11732892",
+      "title": "Crunch Point",
+      "author": "Brian Tracy",
+      "rating": null,
+      "read_at": "2021-05-08",
+      "added_at": "2021-05-08",
+      "url": "https://www.goodreads.com/book/show/11732892"
+    },
+    {
+      "id": "36628923",
+      "title": "System Design Interview",
+      "author": "Stanley Bellbrook",
+      "rating": 3,
+      "read_at": "2021-05-07",
+      "added_at": "2021-05-07",
+      "url": "https://www.goodreads.com/book/show/36628923"
+    },
+    {
+      "id": "25404962",
+      "title": "Miracles Of Your Mind",
+      "author": "Joseph Murphy",
+      "rating": 5,
+      "read_at": "2021-05-06",
+      "added_at": "2021-05-06",
+      "url": "https://www.goodreads.com/book/show/25404962"
+    },
+    {
+      "id": "42925063",
+      "title": "What's the Point of Math?",
+      "author": "Ben Ffrancon Davies",
+      "rating": 5,
+      "read_at": "2021-05-06",
+      "added_at": "2021-05-06",
+      "url": "https://www.goodreads.com/book/show/42925063"
+    },
+    {
+      "id": "31568547",
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "rating": 4,
+      "read_at": "2021-05-05",
+      "added_at": "2021-05-05",
+      "url": "https://www.goodreads.com/book/show/31568547"
+    },
+    {
+      "id": "57561029",
+      "title": "An HR’s Guide to System Design Interview Questions",
+      "author": "Eric McHugh",
+      "rating": 3,
+      "read_at": "2021-05-02",
+      "added_at": "2021-05-02",
+      "url": "https://www.goodreads.com/book/show/57561029"
+    },
+    {
+      "id": "71728",
+      "title": "Jonathan Livingston Seagull",
+      "author": "Richard Bach",
+      "rating": 4,
+      "read_at": "2021-05-02",
+      "added_at": "2021-05-02",
+      "url": "https://www.goodreads.com/book/show/71728"
+    },
+    {
+      "id": "53189921",
+      "title": "Kick Ass with Mel Robbins Life-Changing Advice from the Author of “The 5 Second Rule”",
+      "author": "NOT A BOOK",
+      "rating": null,
+      "read_at": "2021-05-01",
+      "added_at": "2021-05-01",
+      "url": "https://www.goodreads.com/book/show/53189921"
+    },
+    {
+      "id": "17219668",
+      "title": "Ace the Programming Interview",
+      "author": "Edward Guiness",
+      "rating": 4,
+      "read_at": "2021-05-01",
+      "added_at": "2021-05-01",
+      "url": "https://www.goodreads.com/book/show/17219668"
+    },
+    {
+      "id": "42410158",
+      "title": "Make Time",
+      "author": "Jake Knapp",
+      "rating": 5,
+      "read_at": "2021-04-26",
+      "added_at": "2021-04-26",
+      "url": "https://www.goodreads.com/book/show/42410158"
+    },
+    {
+      "id": "33295239",
+      "title": "Ikigai",
+      "author": "Héctor García",
+      "rating": 4,
+      "read_at": "2021-04-25",
+      "added_at": "2021-04-25",
+      "url": "https://www.goodreads.com/book/show/33295239"
+    },
+    {
+      "id": "27772517",
+      "title": "Mathemagic Puzzles and Brain Drainers",
+      "author": "Editorial Board",
+      "rating": 2,
+      "read_at": "2021-04-24",
+      "added_at": "2021-04-24",
+      "url": "https://www.goodreads.com/book/show/27772517"
+    },
+    {
+      "id": "50187076",
+      "title": "Yes To Life In Spite of Everything",
+      "author": "Viktor E. Frankl",
+      "rating": 4,
+      "read_at": "2021-04-24",
+      "added_at": "2021-04-24",
+      "url": "https://www.goodreads.com/book/show/50187076"
+    },
+    {
+      "id": "20426886",
+      "title": "The Mystery of the Mantram, Journal for Spiritual Living, Winter 2013 (The quarterly journal of the Blue Mountain Center of Meditation Book 4)",
+      "author": "Eknath Easwaran",
+      "rating": 4,
+      "read_at": "2021-04-22",
+      "added_at": "2021-04-22",
+      "url": "https://www.goodreads.com/book/show/20426886"
+    },
+    {
+      "id": "37858467",
+      "title": "The Miracle Morning",
+      "author": "Hal Elrod",
+      "rating": 4,
+      "read_at": "2021-04-22",
+      "added_at": "2021-04-22",
+      "url": "https://www.goodreads.com/book/show/37858467"
+    },
+    {
+      "id": "21161015",
+      "title": "The Power of the Mantram, Journal for Spiritual Living, Autumn 2013 (he quarterly journal of the Blue Mountain Center of Meditation Book 3)",
+      "author": "Eknath Easwaran",
+      "rating": 5,
+      "read_at": "2021-04-21",
+      "added_at": "2021-04-22",
+      "url": "https://www.goodreads.com/book/show/21161015"
+    },
+    {
+      "id": "4865",
+      "title": "How to Win Friends & Influence People",
+      "author": "Dale Carnegie",
+      "rating": 4,
+      "read_at": "2021-04-17",
+      "added_at": "2021-04-17",
+      "url": "https://www.goodreads.com/book/show/4865"
+    },
+    {
+      "id": "55583514",
+      "title": "An Insider’s Guide to Ace System Design Interviews",
+      "author": "Maurice Jayson",
+      "rating": 3,
+      "read_at": "2021-04-16",
+      "added_at": "2021-04-16",
+      "url": "https://www.goodreads.com/book/show/55583514"
+    },
+    {
+      "id": "21369183",
+      "title": "The Fruits of Meditation, Journal for Spiritual Living, Summer 2013 (The quarterly journal of the Blue Mountain Center of Meditation Book 2)",
+      "author": "Eknath Easwaran",
+      "rating": 5,
+      "read_at": "2021-04-14",
+      "added_at": "2021-04-14",
+      "url": "https://www.goodreads.com/book/show/21369183"
+    },
+    {
+      "id": "21393225",
+      "title": "The Path of Meditation, Journal for Spiritual Living, Spring 2013 (The quarterly journal of the Blue Mountain Center of Meditation Book 1)",
+      "author": "Eknath Easwaran",
+      "rating": 5,
+      "read_at": "2021-04-12",
+      "added_at": "2021-04-11",
+      "url": "https://www.goodreads.com/book/show/21393225"
+    },
+    {
+      "id": "2547",
+      "title": "The Prophet",
+      "author": "Kahlil Gibran",
+      "rating": 5,
+      "read_at": "2021-04-11",
+      "added_at": "2021-04-11",
+      "url": "https://www.goodreads.com/book/show/2547"
+    },
+    {
+      "id": "49822846",
+      "title": "The Gopi Diaries",
+      "author": "Sudha Murty",
+      "rating": 5,
+      "read_at": "2021-04-10",
+      "added_at": "2021-04-10",
+      "url": "https://www.goodreads.com/book/show/49822846"
+    },
+    {
+      "id": "56046929",
+      "title": "AN INSIDER’S GUIDE TO SYSTEMS DESIGN INTERVIEW",
+      "author": "Kenneth Collins",
+      "rating": 2,
+      "read_at": "2021-04-09",
+      "added_at": "2021-04-08",
+      "url": "https://www.goodreads.com/book/show/56046929"
+    },
+    {
+      "id": "55475576",
+      "title": "SYSTEM DESIGN INTERVIEW",
+      "author": "Richard Johnson",
+      "rating": 1,
+      "read_at": "2021-04-08",
+      "added_at": "2021-04-08",
+      "url": "https://www.goodreads.com/book/show/55475576"
+    },
+    {
+      "id": "57629714",
+      "title": "Hybrid Cloud Apps with OpenShift and Kubernetes",
+      "author": "Michael Elder",
+      "rating": 5,
+      "read_at": "2021-04-07",
+      "added_at": "2024-08-07",
+      "url": "https://www.goodreads.com/book/show/57629714"
+    },
+    {
+      "id": "19100656",
+      "title": "Learning to Love (Easwaran Inspirations, #4)",
+      "author": "Eknath Easwaran",
+      "rating": 5,
+      "read_at": "2021-04-04",
+      "added_at": "2021-04-04",
+      "url": "https://www.goodreads.com/book/show/19100656"
+    },
+    {
+      "id": "12969063",
+      "title": "Moonwalking with Einstein",
+      "author": "Joshua Foer",
+      "rating": 3,
+      "read_at": "2021-04-03",
+      "added_at": "2021-04-03",
+      "url": "https://www.goodreads.com/book/show/12969063"
+    },
+    {
+      "id": "20345854",
+      "title": "How to Find Happiness (Easwaran Inspirations, #3)",
+      "author": "Eknath Easwaran",
+      "rating": 5,
+      "read_at": "2021-04-02",
+      "added_at": "2021-04-02",
+      "url": "https://www.goodreads.com/book/show/20345854"
+    },
+    {
+      "id": "40815559",
+      "title": "Delegation And Supervision",
+      "author": "Brian Tracy",
+      "rating": 5,
+      "read_at": "2021-04-01",
+      "added_at": "2021-04-01",
+      "url": "https://www.goodreads.com/book/show/40815559"
+    },
+    {
+      "id": "20875096",
+      "title": "How to Understand Death (Easwaran Inspirations, #2)",
+      "author": "Eknath Easwaran",
+      "rating": 5,
+      "read_at": "2021-04-01",
+      "added_at": "2021-03-31",
+      "url": "https://www.goodreads.com/book/show/20875096"
+    },
+    {
+      "id": "19005358",
+      "title": "How to Meditate (Easwaran Inspirations, #1)",
+      "author": "Eknath Easwaran",
+      "rating": 5,
+      "read_at": "2021-03-31",
+      "added_at": "2021-03-31",
+      "url": "https://www.goodreads.com/book/show/19005358"
+    },
+    {
+      "id": "361396",
+      "title": "The Ultimate Gift (The Ultimate Series #1)",
+      "author": "Jim Stovall",
+      "rating": 4,
+      "read_at": "2021-03-30",
+      "added_at": "2021-03-30",
+      "url": "https://www.goodreads.com/book/show/361396"
+    },
+    {
+      "id": "55990957",
+      "title": "System Design Interviews",
+      "author": "Harvey Greenfield",
+      "rating": 1,
+      "read_at": "2021-03-30",
+      "added_at": "2021-03-30",
+      "url": "https://www.goodreads.com/book/show/55990957"
+    },
+    {
+      "id": "25143963",
+      "title": "Data Structures and Algorithms",
+      "author": "Knowledge Flow",
+      "rating": 1,
+      "read_at": "2021-03-29",
+      "added_at": "2021-03-30",
+      "url": "https://www.goodreads.com/book/show/25143963"
+    },
+    {
+      "id": "26147",
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "rating": 4,
+      "read_at": "2021-03-28",
+      "added_at": "2021-03-28",
+      "url": "https://www.goodreads.com/book/show/26147"
+    },
+    {
+      "id": "52201400",
+      "title": "Cloud Native DevOps with Kubernetes",
+      "author": "John Arundel",
+      "rating": 4,
+      "read_at": "2021-03-28",
+      "added_at": "2021-03-28",
+      "url": "https://www.goodreads.com/book/show/52201400"
+    },
+    {
+      "id": "54026405",
+      "title": "System Design Interview – An insider's guide",
+      "author": "Alex Xu",
+      "rating": 4,
+      "read_at": "2021-03-27",
+      "added_at": "2021-07-22",
+      "url": "https://www.goodreads.com/book/show/54026405"
+    },
+    {
+      "id": "6390812",
+      "title": "The Free Mind",
+      "author": "Edward de Bono",
+      "rating": 3,
+      "read_at": "2021-03-24",
+      "added_at": "2021-03-24",
+      "url": "https://www.goodreads.com/book/show/6390812"
+    },
+    {
+      "id": "34761416",
+      "title": "When Karma Goes Upside Down",
+      "author": "Dishant Huria",
+      "rating": 2,
+      "read_at": "2021-03-23",
+      "added_at": "2021-04-04",
+      "url": "https://www.goodreads.com/book/show/34761416"
+    },
+    {
+      "id": "51942313",
+      "title": "Principles for Success",
+      "author": "Ray Dalio",
+      "rating": 5,
+      "read_at": "2021-03-21",
+      "added_at": "2021-03-22",
+      "url": "https://www.goodreads.com/book/show/51942313"
+    },
+    {
+      "id": "40848376",
+      "title": "Negotiation",
+      "author": "Brian Tracy",
+      "rating": 5,
+      "read_at": "2021-03-21",
+      "added_at": "2021-03-22",
+      "url": "https://www.goodreads.com/book/show/40848376"
+    },
+    {
+      "id": "52945558",
+      "title": "Microservices Reference Architecture",
+      "author": "Chris Stetson",
+      "rating": 2,
+      "read_at": "2021-03-21",
+      "added_at": "2021-03-21",
+      "url": "https://www.goodreads.com/book/show/52945558"
+    },
+    {
+      "id": "301136",
+      "title": "Lost and Found",
+      "author": "Oliver Jeffers",
+      "rating": 5,
+      "read_at": "2021-03-20",
+      "added_at": "2021-03-20",
+      "url": "https://www.goodreads.com/book/show/301136"
+    },
+    {
+      "id": "55007177",
+      "title": "Parenting Absolute",
+      "author": "Mallika T R",
+      "rating": 3,
+      "read_at": "2021-03-20",
+      "added_at": "2021-03-20",
+      "url": "https://www.goodreads.com/book/show/55007177"
+    },
+    {
+      "id": "18888737",
+      "title": "The Bhagavad Gita (Easwaran's Classics of Indian Spirituality, 1)",
+      "author": "Krishna-Dwaipayana Vyasa",
+      "rating": 5,
+      "read_at": "2021-03-20",
+      "added_at": "2021-03-20",
+      "url": "https://www.goodreads.com/book/show/18888737"
+    },
+    {
+      "id": "32938155",
+      "title": "Option B",
+      "author": "Sheryl Sandberg",
+      "rating": 4,
+      "read_at": "2021-03-20",
+      "added_at": "2021-03-20",
+      "url": "https://www.goodreads.com/book/show/32938155"
+    },
+    {
+      "id": "57354444",
+      "title": "The Future Architect",
+      "author": "Rupesh Nellore Srinivasulu Kopparapo",
+      "rating": 2,
+      "read_at": "2021-03-15",
+      "added_at": "2021-03-15",
+      "url": "https://www.goodreads.com/book/show/57354444"
+    },
+    {
+      "id": "36584891",
+      "title": "Mindfulness for Beginners",
+      "author": "Jon Kabat-Zinn",
+      "rating": 4,
+      "read_at": "2021-03-14",
+      "added_at": "2021-03-14",
+      "url": "https://www.goodreads.com/book/show/36584891"
+    },
+    {
+      "id": "36896068",
+      "title": "George Washington's Rules of Civility & Decent Behavior in Company and Conversation (Chump Change Edition)",
+      "author": "George Washington",
+      "rating": 4,
+      "read_at": "2021-03-13",
+      "added_at": "2021-03-13",
+      "url": "https://www.goodreads.com/book/show/36896068"
+    },
+    {
+      "id": "56098150",
+      "title": "The Wheel Of Spirituality",
+      "author": "Vinay Bansal",
+      "rating": 5,
+      "read_at": "2021-03-13",
+      "added_at": "2021-03-13",
+      "url": "https://www.goodreads.com/book/show/56098150"
+    },
+    {
+      "id": "31444510",
+      "title": "Microservices From Design to Deployment",
+      "author": "Chris Richardson",
+      "rating": 4,
+      "read_at": "2021-03-11",
+      "added_at": "2021-03-12",
+      "url": "https://www.goodreads.com/book/show/31444510"
+    },
+    {
+      "id": "425818",
+      "title": "How to Catch a Star (The Boy, #1)",
+      "author": "Oliver Jeffers",
+      "rating": 5,
+      "read_at": "2021-03-11",
+      "added_at": "2021-03-11",
+      "url": "https://www.goodreads.com/book/show/425818"
+    },
+    {
+      "id": "35169327",
+      "title": "Here We Are",
+      "author": "Oliver Jeffers",
+      "rating": 5,
+      "read_at": "2021-03-11",
+      "added_at": "2021-03-11",
+      "url": "https://www.goodreads.com/book/show/35169327"
+    },
+    {
+      "id": "24453082",
+      "title": "Big Magic",
+      "author": "Elizabeth Gilbert",
+      "rating": 4,
+      "read_at": "2021-03-07",
+      "added_at": "2021-03-07",
+      "url": "https://www.goodreads.com/book/show/24453082"
+    },
+    {
+      "id": "20883530",
+      "title": "Leadership (The Brian Tracy Success Library)",
+      "author": "Brian Tracy",
+      "rating": 5,
+      "read_at": "2021-03-07",
+      "added_at": "2021-03-07",
+      "url": "https://www.goodreads.com/book/show/20883530"
+    },
+    {
+      "id": "33972569",
+      "title": "This is Not Your Story",
+      "author": "Savi Sharma",
+      "rating": 3,
+      "read_at": "2021-03-06",
+      "added_at": "2021-03-06",
+      "url": "https://www.goodreads.com/book/show/33972569"
+    },
+    {
+      "id": "54659854",
+      "title": "A Common-Sense Guide to Data Structures and Algorithms,",
+      "author": "Jay Wengrow",
+      "rating": 5,
+      "read_at": "2021-03-05",
+      "added_at": "2021-03-05",
+      "url": "https://www.goodreads.com/book/show/54659854"
+    },
+    {
+      "id": "50611515",
+      "title": "Codeless Data Structures and Algorithms",
+      "author": "Armstrong Subero",
+      "rating": 2,
+      "read_at": "2021-03-03",
+      "added_at": "2021-03-02",
+      "url": "https://www.goodreads.com/book/show/50611515"
+    },
+    {
+      "id": "9778945",
+      "title": "The Shallows",
+      "author": "Nicholas Carr",
+      "rating": 4,
+      "read_at": "2021-02-28",
+      "added_at": "2021-02-28",
+      "url": "https://www.goodreads.com/book/show/9778945"
+    },
+    {
+      "id": "486381",
+      "title": "Who Moved My Cheese?",
+      "author": "Spencer Johnson",
+      "rating": 4,
+      "read_at": "2021-02-26",
+      "added_at": "2021-02-26",
+      "url": "https://www.goodreads.com/book/show/486381"
+    },
+    {
+      "id": "55436279",
+      "title": "Cracking Microservices Interview",
+      "author": "Sameer S. Paradkar",
+      "rating": 3,
+      "read_at": "2021-02-25",
+      "added_at": "2021-02-25",
+      "url": "https://www.goodreads.com/book/show/55436279"
+    },
+    {
+      "id": "33584555",
+      "title": "Think Data Structures",
+      "author": "Allen B. Downey",
+      "rating": 3,
+      "read_at": "2021-02-23",
+      "added_at": "2021-02-23",
+      "url": "https://www.goodreads.com/book/show/33584555"
+    },
+    {
+      "id": "26489826",
+      "title": "Exercises for Programmers",
+      "author": "Brian P. Hogan",
+      "rating": 4,
+      "read_at": "2021-02-21",
+      "added_at": "2021-02-21",
+      "url": "https://www.goodreads.com/book/show/26489826"
+    },
+    {
+      "id": "28815391",
+      "title": "Draw to Win",
+      "author": "Dan Roam",
+      "rating": 3,
+      "read_at": "2021-02-21",
+      "added_at": "2021-02-21",
+      "url": "https://www.goodreads.com/book/show/28815391"
+    },
+    {
+      "id": "17999159",
+      "title": "Hyperbole & A Half",
+      "author": "Alexandra Brosh",
+      "rating": 4,
+      "read_at": "2021-02-20",
+      "added_at": "2021-02-20",
+      "url": "https://www.goodreads.com/book/show/17999159"
+    },
+    {
+      "id": "26188454",
+      "title": "One Minute Manager",
+      "author": "Spencer Johnson",
+      "rating": 4,
+      "read_at": "2021-02-14",
+      "added_at": "2024-08-07",
+      "url": "https://www.goodreads.com/book/show/26188454"
+    },
+    {
+      "id": "40527390",
+      "title": "Creativity & Problem Solving",
+      "author": "Brian Tracy",
+      "rating": 5,
+      "read_at": "2021-02-14",
+      "added_at": "2021-02-14",
+      "url": "https://www.goodreads.com/book/show/40527390"
+    },
+    {
+      "id": "44002828",
+      "title": "Strengthsfinder 2.0 from Gallup and Tom Rath",
+      "author": "Don Clifton",
+      "rating": 3,
+      "read_at": "2021-02-13",
+      "added_at": "2021-02-14",
+      "url": "https://www.goodreads.com/book/show/44002828"
+    },
+    {
+      "id": "55957742",
+      "title": "The Archer",
+      "author": "Paulo Coelho",
+      "rating": 3,
+      "read_at": "2021-02-12",
+      "added_at": "2021-04-01",
+      "url": "https://www.goodreads.com/book/show/55957742"
+    },
+    {
+      "id": "40767112",
+      "title": "The Spy",
+      "author": "Paulo Coelho",
+      "rating": 4,
+      "read_at": "2021-02-12",
+      "added_at": "2021-02-12",
+      "url": "https://www.goodreads.com/book/show/40767112"
+    },
+    {
+      "id": "22847284",
+      "title": "Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People",
+      "author": "Aditya Y. Bhargava",
+      "rating": 5,
+      "read_at": "2021-02-07",
+      "added_at": "2021-02-07",
+      "url": "https://www.goodreads.com/book/show/22847284"
+    },
+    {
+      "id": "32686766",
+      "title": "7 Mindsets of Success",
+      "author": "Sten Morgan",
+      "rating": 4,
+      "read_at": "2021-02-04",
+      "added_at": "2021-02-04",
+      "url": "https://www.goodreads.com/book/show/32686766"
+    },
+    {
+      "id": "56030974",
+      "title": "Your Way to Go",
+      "author": "Kripa Shankar Sharma",
+      "rating": 1,
+      "read_at": "2021-01-31",
+      "added_at": "2021-01-31",
+      "url": "https://www.goodreads.com/book/show/56030974"
+    },
+    {
+      "id": "39965258",
+      "title": "Attitude Is Everything",
+      "author": "Jeff Keller",
+      "rating": 5,
+      "read_at": "2021-01-30",
+      "added_at": "2021-01-30",
+      "url": "https://www.goodreads.com/book/show/39965258"
+    },
+    {
+      "id": "41124666",
+      "title": "Time Management",
+      "author": "Brian Tracy",
+      "rating": 5,
+      "read_at": "2021-01-29",
+      "added_at": "2021-02-14",
+      "url": "https://www.goodreads.com/book/show/41124666"
+    },
+    {
+      "id": "40527389",
+      "title": "Personal Success [Jan 01, 2018] Tracy, Brian",
+      "author": "Brian Tracy",
+      "rating": 5,
+      "read_at": "2021-01-29",
+      "added_at": "2021-02-14",
+      "url": "https://www.goodreads.com/book/show/40527389"
+    },
+    {
+      "id": "13236836",
+      "title": "Introducing Artificial Intelligence",
+      "author": "Henry Brighton",
+      "rating": 2,
+      "read_at": "2021-01-29",
+      "added_at": "2021-01-29",
+      "url": "https://www.goodreads.com/book/show/13236836"
+    },
+    {
+      "id": "48824433",
+      "title": "Docker Deep Dive",
+      "author": "Nigel Poulton",
+      "rating": 4,
+      "read_at": "2021-01-28",
+      "added_at": "2026-03-16",
+      "url": "https://www.goodreads.com/book/show/48824433"
+    },
+    {
+      "id": "40848630",
+      "title": "The Blue Umbrella",
+      "author": "Ruskin Bond",
+      "rating": 5,
+      "read_at": "2021-01-27",
+      "added_at": "2024-02-09",
+      "url": "https://www.goodreads.com/book/show/40848630"
+    },
+    {
+      "id": "22739039",
+      "title": "The Secret",
+      "author": "Rhonda Byrne",
+      "rating": 4,
+      "read_at": "2021-01-26",
+      "added_at": "2021-01-28",
+      "url": "https://www.goodreads.com/book/show/22739039"
+    },
+    {
+      "id": "27389156",
+      "title": "Power of Henry's Imagination [Oct 20, 2015] Byrne, Skye",
+      "author": "Skye Byrne",
+      "rating": 4,
+      "read_at": "2021-01-24",
+      "added_at": "2021-01-24",
+      "url": "https://www.goodreads.com/book/show/27389156"
+    },
+    {
+      "id": "56799021",
+      "title": "Elves and the Shormaker",
+      "author": "BPI",
+      "rating": 4,
+      "read_at": "2021-01-24",
+      "added_at": "2021-01-23",
+      "url": "https://www.goodreads.com/book/show/56799021"
+    },
+    {
+      "id": "51942513",
+      "title": "Think Like a Monk",
+      "author": "Jay Shetty",
+      "rating": 4,
+      "read_at": "2021-01-23",
+      "added_at": "2021-01-26",
+      "url": "https://www.goodreads.com/book/show/51942513"
+    },
+    {
+      "id": "56794510",
+      "title": "Snow White and Rose Red",
+      "author": "BPI",
+      "rating": 4,
+      "read_at": "2021-01-23",
+      "added_at": "2021-01-23",
+      "url": "https://www.goodreads.com/book/show/56794510"
+    },
+    {
+      "id": "34399420",
+      "title": "The Docker Book",
+      "author": "James Turnbull",
+      "rating": 4,
+      "read_at": "2021-01-21",
+      "added_at": "2021-01-21",
+      "url": "https://www.goodreads.com/book/show/34399420"
+    },
+    {
+      "id": "56764669",
+      "title": "Little Red Riding Hood",
+      "author": "BPI",
+      "rating": 4,
+      "read_at": "2021-01-20",
+      "added_at": "2021-01-21",
+      "url": "https://www.goodreads.com/book/show/56764669"
+    },
+    {
+      "id": "46227",
+      "title": "Ask the Dust (The Saga of Arturo Bandini, #3)",
+      "author": "John Fante",
+      "rating": 4,
+      "read_at": "2021-01-19",
+      "added_at": "2021-01-19",
+      "url": "https://www.goodreads.com/book/show/46227"
+    },
+    {
+      "id": "56764361",
+      "title": "Sleeping beauty",
+      "author": "BPI",
+      "rating": 4,
+      "read_at": "2021-01-18",
+      "added_at": "2021-01-20",
+      "url": "https://www.goodreads.com/book/show/56764361"
+    },
+    {
+      "id": "55106396",
+      "title": "The Illustrated Stories of Tenali Raman",
+      "author": "Wonder House Books",
+      "rating": 5,
+      "read_at": "2021-01-17",
+      "added_at": "2021-01-17",
+      "url": "https://www.goodreads.com/book/show/55106396"
+    },
+    {
+      "id": "56692758",
+      "title": "Ali baba and the Forty Thieves",
+      "author": "BPI",
+      "rating": 5,
+      "read_at": "2021-01-17",
+      "added_at": "2021-01-17",
+      "url": "https://www.goodreads.com/book/show/56692758"
+    },
+    {
+      "id": "55337928",
+      "title": "How to Be a Writer",
+      "author": "Ruskin Bond",
+      "rating": 4,
+      "read_at": "2021-01-15",
+      "added_at": "2021-01-15",
+      "url": "https://www.goodreads.com/book/show/55337928"
+    },
+    {
+      "id": "35606638",
+      "title": "Happiness Hacks",
+      "author": "Adams Media",
+      "rating": 1,
+      "read_at": "2021-01-15",
+      "added_at": "2021-01-15",
+      "url": "https://www.goodreads.com/book/show/35606638"
+    },
+    {
+      "id": "44286534",
+      "title": "You Look Like a Thing and I Love You",
+      "author": "Janelle Shane",
+      "rating": 3,
+      "read_at": "2021-01-10",
+      "added_at": "2021-01-10",
+      "url": "https://www.goodreads.com/book/show/44286534"
+    },
+    {
+      "id": "37424082",
+      "title": "Go Web Development Succinctly",
+      "author": "Mark Lewin",
+      "rating": 4,
+      "read_at": "2021-01-10",
+      "added_at": "2021-01-10",
+      "url": "https://www.goodreads.com/book/show/37424082"
+    },
+    {
+      "id": "28508620",
+      "title": "Ghosts",
+      "author": "Raina Telgemeier",
+      "rating": 5,
+      "read_at": "2021-01-10",
+      "added_at": "2021-01-10",
+      "url": "https://www.goodreads.com/book/show/28508620"
+    },
+    {
+      "id": "386482",
+      "title": "The Four Agreements",
+      "author": "Miguel Ruiz",
+      "rating": 5,
+      "read_at": "2021-01-09",
+      "added_at": "2021-01-09",
+      "url": "https://www.goodreads.com/book/show/386482"
+    },
+    {
+      "id": "1175481",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "rating": 4,
+      "read_at": "2021-01-09",
+      "added_at": "2021-01-09",
+      "url": "https://www.goodreads.com/book/show/1175481"
+    },
+    {
+      "id": "56574670",
+      "title": "Mystic Escape",
+      "author": "Rajmuralee Radhakrishnan",
+      "rating": 5,
+      "read_at": "2021-01-06",
+      "added_at": "2021-01-09",
+      "url": "https://www.goodreads.com/book/show/56574670"
+    },
+    {
+      "id": "7350956",
+      "title": "The Seven Spiritual Laws of Success",
+      "author": "Deepak Chopra",
+      "rating": 5,
+      "read_at": "2021-01-06",
+      "added_at": "2021-01-05",
+      "url": "https://www.goodreads.com/book/show/7350956"
+    },
+    {
+      "id": "44144503",
+      "title": "Cloud Native",
+      "author": "Boris Scholl",
+      "rating": 4,
+      "read_at": "2021-01-05",
+      "added_at": "2021-01-05",
+      "url": "https://www.goodreads.com/book/show/44144503"
+    },
+    {
+      "id": "29342515",
+      "title": "The Coaching Habit",
+      "author": "Michael Bungay Stanier",
+      "rating": 3,
+      "read_at": "2021-01-04",
+      "added_at": "2021-01-04",
+      "url": "https://www.goodreads.com/book/show/29342515"
+    },
+    {
+      "id": "56545028",
+      "title": "Driving impact at scale from automation and AI",
+      "author": "McKinsey",
+      "rating": 5,
+      "read_at": "2021-01-04",
+      "added_at": "2021-01-03",
+      "url": "https://www.goodreads.com/book/show/56545028"
+    },
+    {
+      "id": "227552",
+      "title": "10 Days to Faster Reading",
+      "author": "The Princeton Language Institute",
+      "rating": 4,
+      "read_at": "2021-01-03",
+      "added_at": "2021-01-03",
+      "url": "https://www.goodreads.com/book/show/227552"
+    },
+    {
+      "id": "52725536",
+      "title": "Take Control of Your Life",
+      "author": "NOT A BOOK",
+      "rating": 4,
+      "read_at": "2020-12-30",
+      "added_at": "2021-01-01",
+      "url": "https://www.goodreads.com/book/show/52725536"
+    },
+    {
+      "id": "16158493",
+      "title": "The First 20 Hours",
+      "author": "Josh Kaufman",
+      "rating": 1,
+      "read_at": "2020-12-27",
+      "added_at": "2020-12-27",
+      "url": "https://www.goodreads.com/book/show/16158493"
+    },
+    {
+      "id": "56062446",
+      "title": "Artificial Intelligence",
+      "author": "Madan Srinivas",
+      "rating": 1,
+      "read_at": "2020-12-26",
+      "added_at": "2021-01-01",
+      "url": "https://www.goodreads.com/book/show/56062446"
+    },
+    {
+      "id": "52027218",
+      "title": "Always Day One",
+      "author": "Alex Kantrowitz",
+      "rating": 5,
+      "read_at": "2020-12-25",
+      "added_at": "2021-01-01",
+      "url": "https://www.goodreads.com/book/show/52027218"
+    },
+    {
+      "id": "8706841",
+      "title": "The Compound Effect",
+      "author": "Darren Hardy",
+      "rating": 5,
+      "read_at": "2020-12-23",
+      "added_at": "2021-01-01",
+      "url": "https://www.goodreads.com/book/show/8706841"
+    },
+    {
+      "id": "36640169",
+      "title": "Think Straight",
+      "author": "Darius Foroux",
+      "rating": 3,
+      "read_at": "2020-12-22",
+      "added_at": "2021-01-01",
+      "url": "https://www.goodreads.com/book/show/36640169"
+    },
+    {
+      "id": "18909464",
+      "title": "Stay Hungry Stay Foolish",
+      "author": "Rashmi Bansal",
+      "rating": 3,
+      "read_at": "2020-12-18",
+      "added_at": "2021-01-01",
+      "url": "https://www.goodreads.com/book/show/18909464"
+    },
+    {
+      "id": "16256798",
+      "title": "The One Thing",
+      "author": "Gary Keller",
+      "rating": 5,
+      "read_at": "2020-12-14",
+      "added_at": "2020-12-14",
+      "url": "https://www.goodreads.com/book/show/16256798"
+    },
+    {
+      "id": "31423133",
+      "title": "Make Your Bed",
+      "author": "William H. McRaven",
+      "rating": 3,
+      "read_at": "2020-12-08",
+      "added_at": "2021-01-01",
+      "url": "https://www.goodreads.com/book/show/31423133"
+    },
+    {
+      "id": "40499078",
+      "title": "Let's Talk Money",
+      "author": "Monika Halan",
+      "rating": 4,
+      "read_at": "2020-12-06",
+      "added_at": "2021-01-01",
+      "url": "https://www.goodreads.com/book/show/40499078"
+    },
+    {
+      "id": "55709317",
+      "title": "Data Science Uncovering the Reality",
+      "author": "Pulkit Bansal",
+      "rating": 5,
+      "read_at": "2020-12-05",
+      "added_at": "2021-01-01",
+      "url": "https://www.goodreads.com/book/show/55709317"
+    },
+    {
+      "id": "28585300",
+      "title": "Five-Day Course in Thinking",
+      "author": "Edward de Bono",
+      "rating": 4,
+      "read_at": "2020-12-04",
+      "added_at": "2021-01-01",
+      "url": "https://www.goodreads.com/book/show/28585300"
+    },
+    {
+      "id": "55410253",
+      "title": "Start Here",
+      "author": "NOT A BOOK",
+      "rating": 5,
+      "read_at": "2020-11-30",
+      "added_at": "2021-01-01",
+      "url": "https://www.goodreads.com/book/show/55410253"
+    },
+    {
+      "id": "36072",
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "rating": 5,
+      "read_at": "2020-11-26",
+      "added_at": "2021-01-01",
+      "url": "https://www.goodreads.com/book/show/36072"
+    },
+    {
+      "id": "35685642",
+      "title": "The Text",
+      "author": "Claire Douglas",
+      "rating": 3,
+      "read_at": "2020-11-21",
+      "added_at": "2021-01-01",
+      "url": "https://www.goodreads.com/book/show/35685642"
+    },
+    {
+      "id": "8765080",
+      "title": "Waxed",
+      "author": "Robert Rave",
+      "rating": null,
+      "read_at": "2020-11-20",
+      "added_at": "2021-01-01",
+      "url": "https://www.goodreads.com/book/show/8765080"
+    },
+    {
+      "id": "25383645",
+      "title": "How to Mind Map",
+      "author": "Tony Buzan",
+      "rating": 4,
+      "read_at": "2020-11-12",
+      "added_at": "2024-02-25",
+      "url": "https://www.goodreads.com/book/show/25383645"
+    },
+    {
+      "id": "43079183",
+      "title": "As A Man Thinketh",
+      "author": "James Allen",
+      "rating": 5,
+      "read_at": "2020-11-11",
+      "added_at": "2020-11-12",
+      "url": "https://www.goodreads.com/book/show/43079183"
+    },
+    {
+      "id": "38145845",
+      "title": "ALICE IN THE WONDERLAND [Paperback] [Jan 01, 2017] BPI",
+      "author": "BPI India",
+      "rating": 1,
+      "read_at": "2020-11-10",
+      "added_at": "2021-01-01",
+      "url": "https://www.goodreads.com/book/show/38145845"
+    },
+    {
+      "id": "49498660",
+      "title": "Ruskin Bond- Stories of Wisdom",
+      "author": "Ruskin Bond",
+      "rating": 4,
+      "read_at": "2020-11-10",
+      "added_at": "2020-11-12",
+      "url": "https://www.goodreads.com/book/show/49498660"
+    },
+    {
+      "id": "50419706",
+      "title": "Limitless",
+      "author": "Jim Kwik",
+      "rating": 4,
+      "read_at": "2020-11-09",
+      "added_at": "2021-01-01",
+      "url": "https://www.goodreads.com/book/show/50419706"
+    },
+    {
+      "id": "12780586",
+      "title": "Ancient Tales of Wits and Wisdom",
+      "author": "S.P. Sharma",
+      "rating": 5,
+      "read_at": "2020-11-09",
+      "added_at": "2020-11-09",
+      "url": "https://www.goodreads.com/book/show/12780586"
+    },
+    {
+      "id": "53242278",
+      "title": "From the Cradle of Nature",
+      "author": "Ruskin Bond",
+      "rating": 4,
+      "read_at": "2020-11-03",
+      "added_at": "2020-12-01",
+      "url": "https://www.goodreads.com/book/show/53242278"
+    },
+    {
+      "id": "53407224",
+      "title": "The Richest Man in Babylon",
+      "author": "George S. Clason",
+      "rating": 1,
+      "read_at": "2020-11-02",
+      "added_at": "2021-01-01",
+      "url": "https://www.goodreads.com/book/show/53407224"
+    },
+    {
+      "id": "37423981",
+      "title": "Go Succinctly",
+      "author": "Mark Lewin",
+      "rating": 4,
+      "read_at": "2020-11-01",
+      "added_at": "2020-11-09",
+      "url": "https://www.goodreads.com/book/show/37423981"
+    },
+    {
+      "id": "30240076",
+      "title": "Designing Your Life",
+      "author": "Bill Burnett",
+      "rating": 3,
+      "read_at": "2020-10-31",
+      "added_at": "2020-11-01",
+      "url": "https://www.goodreads.com/book/show/30240076"
+    },
+    {
+      "id": "50641096",
+      "title": "Tales From The Childhood",
+      "author": "Ruskin Bond",
+      "rating": 4,
+      "read_at": "2020-10-28",
+      "added_at": "2020-11-01",
+      "url": "https://www.goodreads.com/book/show/50641096"
+    },
+    {
+      "id": "398913",
+      "title": "Unreliable Memoirs",
+      "author": "Clive James",
+      "rating": null,
+      "read_at": "2020-10-25",
+      "added_at": "2020-10-25",
+      "url": "https://www.goodreads.com/book/show/398913"
+    },
+    {
+      "id": "39924789",
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "rating": 4,
+      "read_at": "2020-10-04",
+      "added_at": "2021-01-01",
+      "url": "https://www.goodreads.com/book/show/39924789"
+    },
+    {
+      "id": "26102665",
+      "title": "The Break Up Manual For Men",
+      "author": "Andrew Ferebee",
+      "rating": 4,
+      "read_at": "2020-09-18",
+      "added_at": "2020-11-01",
+      "url": "https://www.goodreads.com/book/show/26102665"
+    },
+    {
+      "id": "33932358",
+      "title": "Recovery",
+      "author": "Russell Brand",
+      "rating": 4,
+      "read_at": "2020-09-17",
+      "added_at": "2020-11-01",
+      "url": "https://www.goodreads.com/book/show/33932358"
+    },
+    {
+      "id": "18482790",
+      "title": "The Pomodoro Technique",
+      "author": "Francesco Cirillo",
+      "rating": 4,
+      "read_at": "2020-09-09",
+      "added_at": "2020-11-01",
+      "url": "https://www.goodreads.com/book/show/18482790"
+    },
+    {
+      "id": "43998045",
+      "title": "Kubernetes Operators",
+      "author": "Jason Dobies",
+      "rating": 4,
+      "read_at": "2020-06-10",
+      "added_at": "2020-11-09",
+      "url": "https://www.goodreads.com/book/show/43998045"
+    }
+  ],
+  "updated": "2026-10-17"
+}

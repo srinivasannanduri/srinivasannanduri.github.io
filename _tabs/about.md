@@ -27,8 +27,9 @@ I'm a named inventor on granted US patents in cloud architecture and infrastruct
 ## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/srinivasannanduri)
+- [X](https://x.com/snanduri_)
+- [Goodreads](https://www.goodreads.com/user/show/36011711-srinivasan-nanduri)
 - [GitHub](https://github.com/srinivasannanduri)
-<!-- TODO: add X and Goodreads links -->
 
 > The views on this site are my own and don't represent IBM.
 {: .prompt-info }

@@ -1,8 +1,8 @@
-{% assign b = include.book %}
+{% assign b = include.book %}{% assign link = b.url | default: b.goodreads %}
 <article class="book-card">
-<div class="book-title">{% if b.goodreads %}<a href="{{ b.goodreads }}">{{ b.title }}</a>{% else %}{{ b.title }}{% endif %}</div>
+<div class="book-title">{% if link %}<a href="{{ link }}">{{ b.title }}</a>{% else %}{{ b.title }}{% endif %}</div>
 <div class="book-author">{{ b.author }}</div>
-{% if b.rating %}<div class="book-rating" aria-label="Rated {{ b.rating }} out of 5">{% for i in (1..5) %}{% if i <= b.rating %}★{% else %}☆{% endif %}{% endfor %}</div>{% endif %}
+{% if b.rating and b.rating > 0 %}<div class="book-rating" aria-label="Rated {{ b.rating }} out of 5">{% for i in (1..5) %}{% if i <= b.rating %}★{% else %}☆{% endif %}{% endfor %}</div>{% endif %}
 {% if b.note and b.note != "" %}<p class="book-note">{{ b.note }}</p>{% endif %}
 {% if b.post %}<a class="book-post" href="{{ b.post | relative_url }}">Read my notes →</a>{% endif %}
 </article>

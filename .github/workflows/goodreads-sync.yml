@@ -1,0 +1,38 @@
+name: "Sync Goodreads"
+
+# Pulls the public Goodreads shelves into _data/goodreads.json every night,
+# then redeploys the site if anything changed.
+on:
+  schedule:
+    - cron: "30 20 * * *" # 02:00 IST
+  workflow_dispatch:
+
+permissions:
+  contents: write # commit the updated data file
+  actions: write # start the deploy workflow
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Read Goodreads shelves
+        run: python3 tools/goodreads_sync.py
+
+      - name: Commit and redeploy if changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- _data/goodreads.json; then
+            echo "Nothing new on Goodreads."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data/goodreads.json
+          git commit -m "Sync Goodreads shelves"
+          git push
+          # Pushes made with the workflow token don't trigger other workflows, so start the deploy directly.
+          gh workflow run pages-deploy.yml --ref "${GITHUB_REF_NAME}"

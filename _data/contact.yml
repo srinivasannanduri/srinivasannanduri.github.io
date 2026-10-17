@@ -7,14 +7,12 @@
 - type: github
   icon: "fab fa-github"
 
-# TODO: uncomment once twitter.username is set in _config.yml
-# - type: twitter
-#   icon: "fa-brands fa-x-twitter"
+- type: twitter
+  icon: "fa-brands fa-x-twitter"
 
-# TODO: uncomment and paste your Goodreads profile URL
-# - type: goodreads
-#   icon: "fa-brands fa-goodreads"
-#   url: ""
+- type: goodreads
+  icon: "fa-brands fa-goodreads"
+  url: "https://www.goodreads.com/user/show/36011711-srinivasan-nanduri"
 
 - type: rss
   icon: "fas fa-rss"

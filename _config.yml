@@ -18,7 +18,7 @@ github:
   username: srinivasannanduri
 
 twitter:
-  username: # TODO: your X handle without the @, e.g. snanduri
+  username: snanduri_
 
 social:
   name: Srinivasan Nanduri
@@ -26,7 +26,8 @@ social:
   links:
     - https://www.linkedin.com/in/srinivasannanduri
     - https://github.com/srinivasannanduri
-    # TODO: add https://x.com/<handle> and your Goodreads profile URL
+    - https://x.com/snanduri_
+    - https://www.goodreads.com/user/show/36011711-srinivasan-nanduri
 
 webmaster_verifications:
   google:
@@ -44,10 +45,9 @@ theme_mode:
 
 cdn:
 
-# TODO: add a square photo at assets/img/avatar.jpg and set: avatar: /assets/img/avatar.jpg
-avatar:
+avatar: /assets/img/avatar.jpg
 
-social_preview_image:
+social_preview_image: /assets/img/avatar.jpg
 
 toc: true
 

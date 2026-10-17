@@ -1,0 +1,4 @@
+{% assign b = include.book %}<li>
+<span class="reading-book"><a href="{{ b.url }}">{{ b.title }}</a> <span class="reading-author">{{ b.author }}</span></span>
+<span class="reading-meta">{% if b.rating %}<span class="book-rating" aria-label="Rated {{ b.rating }} out of 5">{% for i in (1..5) %}{% if i <= b.rating %}★{% else %}☆{% endif %}{% endfor %}</span>{% endif %}{% if b.read_at %}<time datetime="{{ b.read_at }}">{{ b.read_at | date: "%b %Y" }}</time>{% endif %}</span>
+</li>

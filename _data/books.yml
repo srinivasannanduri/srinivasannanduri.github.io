@@ -1,9 +1,9 @@
-# Books shown on the /books/ page.
+# Hand-picked recommendations shown on the /books/ page, grouped by shelf.
+# "Currently reading", "Five-star reads" and "Recently read" come from Goodreads
+# automatically (tools/goodreads_sync.py), so only list books here that you want to recommend.
 #
 # Fields:
 #   title, author   required
-#   status          reading | read
-#   recommend       true to list it under its shelf on the Books page
 #   shelf           the group heading, e.g. Leadership, Systems thinking, Engineering, Reliability
 #   rating          1-5, optional
 #   note            one or two sentences in your own words: why read it, and who it's for
@@ -14,24 +14,21 @@
 
 - title: Staff Engineer
   author: Will Larson
-  status: read
-  recommend: true
   shelf: Leadership
-  rating:
+  rating: 5
+  goodreads: https://www.goodreads.com/book/show/56481725
   note:
 
 - title: An Elegant Puzzle
   author: Will Larson
-  status: read
-  recommend: true
   shelf: Leadership
-  rating:
+  rating: 5
+  goodreads: https://www.goodreads.com/book/show/45303387
   note:
 
 - title: Resilient Management
   author: Lara Hogan
-  status: read
-  recommend: true
   shelf: Leadership
-  rating:
+  rating: 5
+  goodreads: https://www.goodreads.com/book/show/45767533
   note:

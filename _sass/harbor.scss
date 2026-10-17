@@ -310,3 +310,50 @@ code, kbd, pre, .highlight, .code-header,
     font-size: 0.9rem;
   }
 }
+
+.reading-log {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 2rem;
+
+  li {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.25rem 1rem;
+    padding: 0.55rem 0;
+    border-bottom: 1px solid var(--main-border-color);
+  }
+
+  .reading-book {
+    min-width: 0;
+    font-weight: 600;
+  }
+
+  .reading-author {
+    margin-left: 0.35rem;
+    color: var(--text-muted-color);
+    font-weight: 400;
+  }
+
+  .reading-meta {
+    display: flex;
+    gap: 0.75rem;
+    align-items: baseline;
+    font-family: 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace;
+    font-size: 0.8rem;
+    color: var(--text-muted-color);
+    white-space: nowrap;
+  }
+
+  .book-rating {
+    color: var(--harbor-highlight);
+    letter-spacing: 0.1em;
+  }
+}
+
+.reading-updated {
+  font-size: 0.85rem;
+  color: var(--text-muted-color);
+}
