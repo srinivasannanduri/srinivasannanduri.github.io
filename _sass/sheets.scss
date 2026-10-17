@@ -617,6 +617,21 @@ main > article .preview-img + figcaption {
   }
 }
 
+/* Footer: half the header width, centred; wider on tablets, full width on phones */
+@media (min-width: 768px) {
+  #tail-wrapper > footer {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (min-width: 992px) {
+  #tail-wrapper > footer {
+    width: max(50%, 40rem); /* about half; never so narrow that the two lines wrap */
+  }
+}
+
 /* ---------- Images in posts ---------- */
 
 /* Portrait infographics: readable size in the page; click opens the full image. */
