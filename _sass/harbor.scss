@@ -1,0 +1,312 @@
+/*
+ * Harbor colour theme for Chirpy.
+ * Deep navy with sea-glass teal links and a sand highlight (dark),
+ * mist grey with deep teal links and a bronze highlight (light).
+ *
+ * Chirpy sets its colours as CSS variables under :root[data-bs-theme=...]
+ * and, when the reader has not used the toggle, under prefers-color-scheme.
+ * The same selectors are repeated here so these values win by source order.
+ */
+
+@mixin harbor-light {
+  --harbor-highlight: #9a5b12;
+
+  --main-bg: #f6f8f9;
+  --mask-bg: #c5d1d9;
+  --main-border-color: #d8e1e7;
+
+  --text-color: #2c3d4a;
+  --text-muted-color: #5b6f7f;
+  --text-muted-highlight-color: inherit;
+  --heading-color: #0f1f2b;
+  --label-color: #5b6f7f;
+  --blockquote-border-color: #d8e1e7;
+  --blockquote-text-color: #5b6f7f;
+  --link-color: #0f766e;
+  --link-underline-color: rgb(15 118 110 / 30%);
+  --button-bg: #ffffff;
+  --btn-border-color: #d8e1e7;
+  --btn-backtotop-color: #2c3d4a;
+  --btn-backtotop-border-color: #d8e1e7;
+  --card-header-bg: #e1ebef;
+  --checkbox-checked-color: #0f766e;
+  --img-bg: radial-gradient(circle, #ffffff 0%, #ebf1f4 100%);
+  --menu-bg: #ffffff;
+  --menu-border-color: #d8e1e7;
+  --menu-highlight-bg: #e1ebef;
+
+  --site-title-color: #0f1f2b;
+  --site-subtitle-color: #5b6f7f;
+  --sidebar-bg: #ebf1f4;
+  --sidebar-border-color: #d8e1e7;
+  --sidebar-muted-color: #5b6f7f;
+  --sidebar-active-color: #9a5b12;
+  --sidebar-hover-bg: #dde8ed;
+  --sidebar-btn-bg: #ffffff;
+  --sidebar-btn-color: #5b6f7f;
+  --avatar-border-color: #9a5b12;
+
+  --topbar-bg: rgb(246 248 249 / 78%);
+  --topbar-text-color: #2c3d4a;
+  --search-border-color: #d8e1e7;
+  --search-icon-color: #5b6f7f;
+  --input-focus-border-color: #0f766e;
+
+  --post-list-text-color: #2c3d4a;
+  --btn-paginator-hover-color: #e1ebef;
+
+  --toc-highlight: #0f766e;
+  --toc-popup-border-color: #d8e1e7;
+  --tag-hover: #e1ebef;
+  --tb-odd-bg: #ffffff;
+  --tb-even-bg: #f6f8f9;
+  --tb-border-color: #d8e1e7;
+  --card-bg: #ffffff;
+  --card-hover-bg: #f0f5f7;
+  --card-shadow: rgb(15 31 43 / 6%) 0 2px 8px 0, #d8e1e7 0 0 0 1px;
+
+  --tag-border: #d8e1e7;
+  --tag-shadow: #e1ebef;
+  --dash-color: #d8e1e7;
+  --search-tag-bg: #e1ebef;
+  --categories-border: #d8e1e7;
+  --categories-hover-bg: #e1ebef;
+  --timeline-node-bg: #5b6f7f;
+  --timeline-color: #d8e1e7;
+
+  --language-border-color: #d8e1e7;
+  --highlight-bg-color: #eef3f6;
+  --highlighter-rouge-color: #0f766e;
+  --inline-code-bg: rgb(15 118 110 / 7%);
+  --code-color: #2c3d4a;
+  --code-header-text-color: #5b6f7f;
+  --filepath-text-color: #2c3d4a;
+
+  #archives li:nth-child(odd) {
+    background-image: linear-gradient(to left, #f6f8f9, #ebf1f4, #ebf1f4, #ebf1f4, #f6f8f9);
+  }
+
+  .highlight,
+  .highlight .w {
+    color: #24323d;
+    background-color: #eef3f6;
+  }
+}
+
+@mixin harbor-dark {
+  --harbor-highlight: #e6b56e;
+
+  --main-bg: #0f1b26;
+  --mask-bg: #2a4054;
+  --main-border-color: #21364a;
+
+  --text-color: #c9d6e1;
+  --text-muted-color: #8399ab;
+  --text-muted-highlight-color: #a9bccb;
+  --heading-color: #eef4f8;
+  --label-color: #8399ab;
+  --blockquote-border-color: #21364a;
+  --blockquote-text-color: #8399ab;
+  --link-color: #5cc8b9;
+  --link-underline-color: rgb(92 200 185 / 35%);
+  --button-bg: #152635;
+  --btn-border-color: #21364a;
+  --btn-backtotop-color: #c9d6e1;
+  --btn-backtotop-border-color: #21364a;
+  --card-header-bg: #1a2e40;
+  --checkbox-color: #3d5568;
+  --checkbox-checked-color: #5cc8b9;
+  --img-bg: radial-gradient(circle, #0f1b26 0%, #152635 100%);
+  --menu-bg: #152635;
+  --menu-border-color: #21364a;
+  --menu-shadow-color: rgb(4 10 16 / 50%);
+  --menu-active-color: #eef4f8;
+  --menu-highlight-bg: #1a2e40;
+
+  --site-title-color: #eef4f8;
+  --site-subtitle-color: #8399ab;
+  --sidebar-bg: #0b151e;
+  --sidebar-border-color: #1a2b3a;
+  --sidebar-muted-color: #8399ab;
+  --sidebar-active-color: #e6b56e;
+  --sidebar-hover-bg: #1a2e40;
+  --sidebar-btn-bg: #152635;
+  --sidebar-btn-color: #8399ab;
+  --avatar-border-color: #e6b56e;
+
+  --topbar-bg: rgb(15 27 38 / 78%);
+  --topbar-text-color: #c9d6e1;
+  --search-border-color: #21364a;
+  --search-icon-color: #8399ab;
+  --input-focus-border-color: #5cc8b9;
+
+  --post-list-text-color: #c9d6e1;
+  --btn-paginator-hover-color: #1a2e40;
+
+  --toc-highlight: #5cc8b9;
+  --toc-popup-border-color: #21364a;
+  --tag-hover: #1a2e40;
+  --tb-odd-bg: #152635;
+  --tb-even-bg: #0f1b26;
+  --tb-border-color: #21364a;
+  --footnote-target-bg: #1d4e5a;
+  --btn-share-color: #8399ab;
+  --btn-share-hover-color: #eef4f8;
+  --card-bg: #152635;
+  --card-hover-bg: #1a2e40;
+  --card-shadow: rgb(4 10 16 / 55%) 0 6px 18px 0, #21364a 0 0 0 1px;
+  --kbd-wrap-color: #3d5568;
+  --kbd-text-color: #eef4f8;
+  --kbd-bg-color: #152635;
+
+  --tag-border: #21364a;
+  --tag-shadow: #0b151e;
+  --dash-color: #21364a;
+  --search-tag-bg: #1a2e40;
+  --categories-border: #21364a;
+  --categories-hover-bg: #1a2e40;
+  --categories-icon-hover-color: #eef4f8;
+  --timeline-node-bg: #8399ab;
+  --timeline-color: #21364a;
+
+  --language-border-color: #21364a;
+  --highlight-bg-color: #0b151e;
+  --highlighter-rouge-color: #e6b56e;
+  --highlight-lineno-color: #5f7587;
+  --inline-code-bg: rgb(92 200 185 / 9%);
+  --code-color: #c9d6e1;
+  --code-header-text-color: #8399ab;
+  --code-header-muted-color: #21364a;
+  --code-header-icon-color: #5f7587;
+  --filepath-text-color: #c9d6e1;
+
+  #archives li:nth-child(odd) {
+    background-image: linear-gradient(to left, #0f1b26, #152635, #152635, #152635, #0f1b26);
+  }
+
+  /* Syntax highlighting in Harbor tones */
+  .highlight,
+  .highlight .w {
+    color: #c9d6e1;
+    background-color: #0b151e;
+  }
+
+  .highlight .c, .highlight .ch, .highlight .cd, .highlight .cm,
+  .highlight .cpf, .highlight .c1, .highlight .cs {
+    color: #7189a0;
+  }
+
+  .highlight .k, .highlight .kn, .highlight .kp, .highlight .kr,
+  .highlight .kv, .highlight .sa {
+    color: #5cc8b9;
+  }
+
+  .highlight .kc, .highlight .kt, .highlight .kd {
+    color: #8fb8e0;
+  }
+
+  .highlight .s, .highlight .sb, .highlight .sc, .highlight .dl,
+  .highlight .sd, .highlight .s2, .highlight .sh, .highlight .sx,
+  .highlight .s1, .highlight .ss {
+    color: #e6b56e;
+  }
+
+  .highlight .m, .highlight .mb, .highlight .mf, .highlight .mh,
+  .highlight .mi, .highlight .il, .highlight .mo, .highlight .mx {
+    color: #f0c98f;
+  }
+
+  .highlight .na, .highlight .gh {
+    color: #8fb8e0;
+    background-color: transparent;
+  }
+
+  .highlight .nt, .highlight .nc, .highlight .nn, .highlight .no, .highlight .cp {
+    color: #9fd8cf;
+  }
+}
+
+:root[data-bs-theme='light'] {
+  @include harbor-light;
+}
+
+:root[data-bs-theme='dark'] {
+  @include harbor-dark;
+}
+
+:root:not([data-bs-theme]) {
+  @media (prefers-color-scheme: light) {
+    @include harbor-light;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    @include harbor-dark;
+  }
+}
+
+/* Typography: Source Sans 3 for text and headings, JetBrains Mono for code and metadata */
+
+body {
+  font-family: 'Source Sans 3', 'Source Sans Pro', -apple-system, 'Segoe UI', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6,
+.card-title {
+  font-family: 'Source Sans 3', 'Source Sans Pro', -apple-system, 'Segoe UI', sans-serif;
+  font-weight: 600;
+}
+
+code, kbd, pre, .highlight, .code-header,
+.post-meta, .post-tag {
+  font-family: 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace;
+}
+
+.post-meta {
+  font-size: 0.8rem;
+}
+
+/* Books page */
+
+.bookshelf {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+
+.book-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  padding: 1rem 1.1rem;
+  background: var(--card-bg);
+  border: 1px solid var(--main-border-color);
+  border-radius: 8px;
+
+  .book-title {
+    color: var(--heading-color);
+    font-weight: 600;
+    font-size: 1.05rem;
+    line-height: 1.3;
+  }
+
+  .book-author {
+    color: var(--text-muted-color);
+    font-size: 0.9rem;
+  }
+
+  .book-rating {
+    color: var(--harbor-highlight);
+    letter-spacing: 0.1em;
+  }
+
+  .book-note {
+    margin: 0.4rem 0 0;
+    font-size: 0.95rem;
+  }
+
+  .book-post {
+    margin-top: 0.3rem;
+    font-size: 0.9rem;
+  }
+}

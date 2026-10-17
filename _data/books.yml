@@ -1,0 +1,37 @@
+# Books shown on the /books/ page.
+#
+# Fields:
+#   title, author   required
+#   status          reading | read
+#   recommend       true to list it under its shelf on the Books page
+#   shelf           the group heading, e.g. Leadership, Systems thinking, Engineering, Reliability
+#   rating          1-5, optional
+#   note            one or two sentences in your own words: why read it, and who it's for
+#   goodreads       link to the book on Goodreads, optional
+#   post            URL of a post about the book, e.g. /posts/notes-on-staff-engineer/, optional
+#
+# The three entries below are starters taken from your BookZines. Add your rating and note.
+
+- title: Staff Engineer
+  author: Will Larson
+  status: read
+  recommend: true
+  shelf: Leadership
+  rating:
+  note:
+
+- title: An Elegant Puzzle
+  author: Will Larson
+  status: read
+  recommend: true
+  shelf: Leadership
+  rating:
+  note:
+
+- title: Resilient Management
+  author: Lara Hogan
+  status: read
+  recommend: true
+  shelf: Leadership
+  rating:
+  note:

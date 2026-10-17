@@ -1,0 +1,21 @@
+# Icons in the sidebar footer. Icons: https://fontawesome.com/
+
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/srinivasannanduri"
+
+- type: github
+  icon: "fab fa-github"
+
+# TODO: uncomment once twitter.username is set in _config.yml
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
+
+# TODO: uncomment and paste your Goodreads profile URL
+# - type: goodreads
+#   icon: "fa-brands fa-goodreads"
+#   url: ""
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
