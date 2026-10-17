@@ -4,7 +4,9 @@
 @use 'abstracts/variables' with (
   $theme: '{{ site.theme_mode }}',
   $sidebar-width: 0px, /* the site has no sidebar */
-  $sidebar-width-large: 0px
+  $sidebar-width-large: 0px,
+  $footer-height: 2.5rem, /* half of Chirpy's 5rem */
+  $footer-height-large: 3.5rem /* phones and tablets, where the two lines stack */
 );
 
 /* prettier-ignore */

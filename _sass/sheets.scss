@@ -617,18 +617,16 @@ main > article .preview-img + figcaption {
   }
 }
 
-/* Footer: half the header width, centred; wider on tablets, full width on phones */
-@media (min-width: 768px) {
+/* Shorter footer (heights are set in assets/css/jekyll-theme-chirpy.scss): trim padding to match */
+@media (min-width: 992px) {
   #tail-wrapper > footer {
-    width: 75%;
-    margin-left: auto;
-    margin-right: auto;
+    padding-bottom: 0 !important;
   }
 }
 
-@media (min-width: 992px) {
+@media (max-width: 991.98px) {
   #tail-wrapper > footer {
-    width: max(50%, 40rem); /* about half; never so narrow that the two lines wrap */
+    padding: 0.5rem 0;
   }
 }
 
