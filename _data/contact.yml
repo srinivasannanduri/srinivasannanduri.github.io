@@ -4,15 +4,8 @@
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/srinivasannanduri"
 
-- type: github
-  icon: "fab fa-github"
-
 - type: twitter
   icon: "fa-brands fa-x-twitter"
-
-- type: goodreads
-  icon: "fa-brands fa-goodreads"
-  url: "https://www.goodreads.com/user/show/36011711-srinivasan-nanduri"
 
 - type: rss
   icon: "fas fa-rss"

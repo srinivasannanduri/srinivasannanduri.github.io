@@ -13,7 +13,7 @@ Built with [Jekyll](https://jekyllrb.com) and the [Chirpy](https://github.com/co
 | Book picks | `_data/books.yml` |
 | Goodreads shelves (synced nightly) | `_data/goodreads.json`, `tools/goodreads_sync.py` |
 | Books hidden from the page | `_data/goodreads_hide.yml` |
-| Home intro text | `_includes/home-intro.html` |
+| Hidden sections and panels | top of `_sass/sheets.scss` |
 | About page | `_tabs/about.md` |
 | Colours, fonts and layout styling | `_sass/sheets.scss` |
 

@@ -327,6 +327,24 @@ main > article {
   margin-bottom: 1rem;
 }
 
+/* ---------- Sections kept off the site for now ----------
+ * The Books, Categories, Tags, Archives and About pages still build and keep their URLs,
+ * but the sidebar section links and the "Recently Updated" / "Trending Tags" panels are hidden.
+ * Delete a rule here to bring that part back.
+ */
+
+#sidebar nav {
+  display: none !important;
+}
+
+#panel-wrapper .access {
+  display: none;
+}
+
+#sidebar .sidebar-bottom {
+  margin-top: auto; /* keep the icons at the bottom now that the nav is gone */
+}
+
 /* ---------- Sidebar: numbered navigation ---------- */
 
 .site-title {
@@ -371,32 +389,9 @@ main > article {
 
 /* ---------- Home ---------- */
 
-.home-intro {
-  @extend %sheet;
-
-  display: grid;
-  gap: 0.6rem;
+.home-empty {
   margin-top: 1.5rem;
-  padding: 1.75rem 1.75rem 1.6rem;
-
-  .intro-title {
-    margin: 0;
-    font-size: clamp(1.75rem, 3.4vw, 2.5rem);
-    line-height: 1.05;
-    font-stretch: 116%;
-    text-wrap: balance;
-
-    em {
-      font-style: normal;
-      color: var(--link-color);
-    }
-  }
-
-  p {
-    margin: 0;
-    max-width: 62ch;
-    color: var(--label-color);
-  }
+  color: var(--text-muted-color);
 }
 
 #post-list {

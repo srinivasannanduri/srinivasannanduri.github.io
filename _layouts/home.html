@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!-- Copied from jekyll-theme-chirpy 7.6.0 _layouts/home.html; the only change is the intro include below. -->
+<!-- Copied from jekyll-theme-chirpy 7.6.0 _layouts/home.html; the only change is the empty-state note above #post-list. -->
 
 
 {% include lang.html %}
@@ -49,7 +49,7 @@ layout: default
   {% endfor %}
 {% endif %}
 
-{% if paginator.page == nil or paginator.page == 1 %}{% include home-intro.html %}{% endif %}
+{% if posts.size == 0 %}<p class="home-empty">No posts yet. The first one is on its way.</p>{% endif %}
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in posts %}
