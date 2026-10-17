@@ -1,6 +1,6 @@
 ---
 title: "Price the reversal: not all technical debt is equal"
-date: 2026-10-17 18:00:00 +0530
+date: 2026-10-12 09:00:00 +0530
 categories: [Architecture]
 tags: [technical-debt, api-design, architecture, design-review, engineering-judgment]
 description: "Before GA, the useful question is not whether a decision can be fixed later, but what it will cost to reverse once others depend on it."
