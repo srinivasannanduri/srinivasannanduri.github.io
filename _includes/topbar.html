@@ -1,0 +1,60 @@
+<!--
+  Copied from jekyll-theme-chirpy 7.6.0 _includes/topbar.html and changed: the breadcrumb is replaced by the
+  site name, and the About link, theme toggle and contact icons sit on the right. The site has no sidebar.
+-->
+
+<header id="topbar-wrapper" class="flex-shrink-0" aria-label="Top Bar">
+  <div id="topbar" class="d-flex align-items-center h-100 px-lg-3">
+    <a id="site-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+
+    <!-- Hidden; Chirpy's scripts expect these elements -->
+    <button type="button" id="sidebar-trigger" class="btn btn-link" aria-hidden="true" tabindex="-1">
+      <i class="fas fa-bars fa-fw"></i>
+    </button>
+    <div id="topbar-title" aria-hidden="true"></div>
+
+    <nav class="top-links" aria-label="Site">
+      <a class="top-about{% if page.url == '/about/' %} active{% endif %}" href="{{ '/about/' | relative_url }}">About</a>
+
+      {% unless site.theme_mode == 'light' or site.theme_mode == 'dark' %}
+        {%- capture icon_system -%}<i class="fa-solid fa-display fa-fw" data-theme-mode="system"></i>{%- endcapture -%}
+        {%- capture icon_light -%}<i class="fa-regular fa-sun fa-fw" data-theme-mode="light"></i>{%- endcapture -%}
+        {%- capture icon_dark -%}<i class="fa-regular fa-moon fa-fw" data-theme-mode="dark"></i>{%- endcapture -%}
+        <div class="btn-group dropdown">
+          <button type="button" class="btn btn-link" aria-label="Switch Mode" title="Light or dark" id="mode-toggle" data-bs-toggle="dropdown">
+            {{- icon_light -}}{{- icon_dark -}}{{- icon_system -}}
+          </button>
+          <ul class="dropdown-menu dropdown-menu-end rounded-3 mt-1 p-1">
+            <li><button class="dropdown-item d-flex align-items-center" type="button" data-theme-mode="light">{{- icon_light -}}{{- site.data.locales[include.lang].theme.light -}}</button></li>
+            <li><button class="dropdown-item d-flex align-items-center" type="button" data-theme-mode="dark">{{- icon_dark -}}{{- site.data.locales[include.lang].theme.dark -}}</button></li>
+            <li><button class="dropdown-item d-flex align-items-center" type="button" data-theme-mode="system">{{- icon_system -}}{{- site.data.locales[include.lang].theme.system -}}</button></li>
+          </ul>
+        </div>
+      {% endunless %}
+
+      <span class="top-icons">{% include contact-links.html %}</span>
+    </nav>
+
+    <button type="button" id="search-trigger" class="btn btn-link" aria-label="Search">
+      <i class="fas fa-search fa-fw"></i>
+    </button>
+
+    <search id="search" class="align-items-center ms-3">
+      <i class="fas fa-search fa-fw"></i>
+      <input
+        class="form-control"
+        id="search-input"
+        type="search"
+        aria-label="search"
+        autocomplete="off"
+        placeholder="{{ site.data.locales[include.lang].search.hint | capitalize }}..."
+      >
+    </search>
+    <button type="button" class="btn btn-link text-decoration-none" id="search-cancel">
+      {{- site.data.locales[include.lang].search.cancel -}}
+    </button>
+  </div>
+</header>
+
+<!-- On phones the contact icons sit in their own row under the top bar -->
+<nav class="phone-icons" aria-label="Elsewhere">{% include contact-links.html %}</nav>

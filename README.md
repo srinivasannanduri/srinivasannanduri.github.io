@@ -1,19 +1,17 @@
 # srinivasannanduri.github.io
 
-Personal site of Srinivasan Nanduri: profile, blog and book recommendations.
+Personal site of Srinivasan Nanduri: a rolling list of writing, with tags, and an About page.
 Built with [Jekyll](https://jekyllrb.com) and the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme, restyled after bloomcode.github.io (grid paper, sheets, Archivo and IBM Plex).
 
 ## Where things live
 
 | What | Where |
 |---|---|
-| Site title, links, avatar | `_config.yml`, `_data/contact.yml` |
+| Site title, avatar | `_config.yml` |
+| Top-bar icons (LinkedIn, X, Goodreads, RSS) | `_data/contact.yml` |
+| Top bar, no sidebar | `_includes/topbar.html`, `_includes/sidebar.html` |
 | Blog posts | `_posts/YYYY-MM-DD-title.md` |
 | Unpublished drafts | `_drafts/` |
-| Book picks | `_data/books.yml` |
-| Goodreads shelves (synced nightly) | `_data/goodreads.json`, `tools/goodreads_sync.py` |
-| Books hidden from the page | `_data/goodreads_hide.yml` |
-| Hidden sections and panels | top of `_sass/sheets.scss` |
 | About page | `_tabs/about.md` |
 | Colours, fonts and layout styling | `_sass/sheets.scss` |
 
@@ -22,11 +20,6 @@ Built with [Jekyll](https://jekyllrb.com) and the [Chirpy](https://github.com/co
 1. Copy `_drafts/example-book-notes.md` to `_posts/2026-10-20-my-title.md`.
 2. Fill in the front matter (`title`, `date`, `categories`, `tags`, `description`) and write in Markdown.
 3. Commit and push. The site rebuilds in a couple of minutes.
-
-## Add a book
-
-Add an entry to `_data/books.yml`. Set `recommend: true` and a `shelf` to show it on the Books page,
-or `status: reading` to show it under "Currently reading". Write the `note` in your own words.
 
 ## Content rules
 

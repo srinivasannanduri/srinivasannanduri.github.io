@@ -3,6 +3,8 @@ icon: fas fa-info-circle
 order: 5
 ---
 
+<img class="about-photo right" src="{{ '/assets/img/avatar.jpg' | relative_url }}" alt="Srinivasan Nanduri" width="120" height="120">
+
 I'm Srinivasan Nanduri, a Senior Technical Staff Member at IBM, based in Bengaluru. I lead the observability architecture for IBM Cloud's infrastructure: the platforms that service teams use to monitor their systems, get alerted when something breaks, and work out why.
 
 I've been building software for over two decades. Before observability, I architected IBM Cloud's managed privileged-access service, the platform foundation that IBM Cloud Paks run on, and cloud services for event notifications, feature flags and mobile. I started out in enterprise integration, at Software AG and then at IBM.
@@ -13,7 +15,7 @@ I've been building software for over two decades. Before observability, I archit
 - **Platform engineering.** Kubernetes, OpenShift, multi-tenancy, GitOps, and the build-versus-buy calls that come with them.
 - **AI for operations.** Where LLM agents and AIOps help engineers, and where they don't yet.
 - **Technical leadership.** Architecture reviews, RFCs and ADRs, and growing engineers.
-- **Books.** Notes on what I read, and the books I recommend. See the [Books](/books/) page.
+- **Books.** Notes on what I read, and the books I recommend.
 
 ## Talks and writing
 

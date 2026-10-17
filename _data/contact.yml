@@ -1,12 +1,21 @@
-# Icons in the sidebar footer. Icons: https://fontawesome.com/
+# Icons in the top bar, in this order. Icons: https://fontawesome.com/
+# `twitter` uses twitter.username from _config.yml; `rss` links to the site feed.
 
 - type: linkedin
+  label: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/srinivasannanduri"
 
 - type: twitter
+  label: X
   icon: "fa-brands fa-x-twitter"
 
+- type: goodreads
+  label: Goodreads
+  icon: "fa-brands fa-goodreads"
+  url: "https://www.goodreads.com/user/show/36011711-srinivasan-nanduri"
+
 - type: rss
+  label: RSS feed
   icon: "fas fa-rss"
   noblank: true

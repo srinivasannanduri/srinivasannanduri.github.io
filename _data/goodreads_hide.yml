@@ -1,5 +1,0 @@
-# Goodreads books to keep off the Books page, by Goodreads book id.
-# The id (in quotes) is the number in the book's Goodreads URL: goodreads.com/book/show/<id>
-# The books stay on Goodreads; this only hides them here.
-
-- "218272975" # Coding Interview Patterns (Alex Xu)

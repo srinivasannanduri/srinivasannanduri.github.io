@@ -1,0 +1,14 @@
+{%- for entry in site.data.contact -%}
+  {%- assign url = nil -%}
+  {%- case entry.type -%}
+    {%- when 'twitter' -%}
+      {%- if site.twitter.username -%}{%- capture url -%}https://x.com/{{ site.twitter.username }}{%- endcapture -%}{%- endif -%}
+    {%- when 'rss' -%}
+      {%- assign url = '/feed.xml' | relative_url -%}
+    {%- else -%}
+      {%- assign url = entry.url -%}
+  {%- endcase -%}
+  {%- if url -%}
+    <a href="{{ url }}" aria-label="{{ entry.label | default: entry.type }}" title="{{ entry.label | default: entry.type }}"{% unless entry.noblank %} target="_blank" rel="noopener noreferrer"{% endunless %}><i class="{{ entry.icon }} fa-fw" aria-hidden="true"></i></a>
+  {%- endif -%}
+{%- endfor -%}

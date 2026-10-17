@@ -2,7 +2,9 @@
 ---
 
 @use 'abstracts/variables' with (
-  $theme: '{{ site.theme_mode }}'
+  $theme: '{{ site.theme_mode }}',
+  $sidebar-width: 0px, /* the site has no sidebar */
+  $sidebar-width-large: 0px
 );
 
 /* prettier-ignore */
