@@ -59,10 +59,13 @@ assets:
     enabled:
     env:
 
+# Offline caching is off so readers always get the latest version after a deploy.
+# Keep pwa.enabled true: with caching off, Chirpy's app script unregisters the
+# service worker that earlier visitors still have, so they stop seeing stale pages.
 pwa:
   enabled: true
   cache:
-    enabled: true
+    enabled: false
     deny_paths:
 
 paginate: 10
