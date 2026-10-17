@@ -49,7 +49,7 @@ layout: default
   {% endfor %}
 {% endif %}
 
-{% if paginator.page == 1 %}{% include home-intro.html %}{% endif %}
+{% if paginator.page == nil or paginator.page == 1 %}{% include home-intro.html %}{% endif %}
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in posts %}
