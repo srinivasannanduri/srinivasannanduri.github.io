@@ -575,3 +575,11 @@ a.post-tag {
     transform: none;
   }
 }
+
+/* ---------- Posts ---------- */
+
+/* A post's `image:` is used for the home card and link previews; the post body carries its own graphic. */
+main > article .preview-img,
+main > article .preview-img + figcaption {
+  display: none;
+}
