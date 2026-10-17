@@ -1,7 +1,7 @@
 # srinivasannanduri.github.io
 
 Personal site of Srinivasan Nanduri: profile, blog and book recommendations.
-Built with [Jekyll](https://jekyllrb.com) and the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme, in the Harbor colour theme.
+Built with [Jekyll](https://jekyllrb.com) and the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme, restyled after bloomcode.github.io (grid paper, sheets, Archivo and IBM Plex).
 
 ## Where things live
 
@@ -10,9 +10,12 @@ Built with [Jekyll](https://jekyllrb.com) and the [Chirpy](https://github.com/co
 | Site title, links, avatar | `_config.yml`, `_data/contact.yml` |
 | Blog posts | `_posts/YYYY-MM-DD-title.md` |
 | Unpublished drafts | `_drafts/` |
-| Book list | `_data/books.yml` |
+| Book picks | `_data/books.yml` |
+| Goodreads shelves (synced nightly) | `_data/goodreads.json`, `tools/goodreads_sync.py` |
+| Books hidden from the page | `_data/goodreads_hide.yml` |
+| Home intro text | `_includes/home-intro.html` |
 | About page | `_tabs/about.md` |
-| Colours and fonts | `_sass/harbor.scss` |
+| Colours, fonts and layout styling | `_sass/sheets.scss` |
 
 ## Write a post
 

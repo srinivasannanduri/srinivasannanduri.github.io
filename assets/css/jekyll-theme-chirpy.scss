@@ -12,5 +12,5 @@
 {%- endif -%}
 ';
 
-/* Harbor colours and site-specific styles */
-@use 'harbor';
+/* Bloomcode-style look: palette, fonts, grid paper and sheets */
+@use 'sheets';
