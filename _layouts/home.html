@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!-- Copied from jekyll-theme-chirpy 7.6.0 _layouts/home.html; the changes are the empty-state note above #post-list, and tags instead of categories on each card. -->
+<!-- Copied from jekyll-theme-chirpy 7.6.0 _layouts/home.html; the changes are the empty-state note above #post-list, newest-highest post numbering, and tags instead of categories on each card. -->
 
 
 {% include lang.html %}
@@ -51,7 +51,11 @@ layout: default
 
 {% if posts.size == 0 %}<p class="home-empty">No posts yet. The first one is on its way.</p>{% endif %}
 
-<div id="post-list" class="flex-grow-1 px-xl-1">
+<!-- Number posts newest-highest: the first card on this page gets (total posts - posts on earlier pages) -->
+{% assign post_total = all_pinned.size | plus: all_normal.size %}
+{% assign post_offset = paginator.page | default: 1 | minus: 1 | times: paginator.per_page %}
+{% assign counter_start = post_total | minus: post_offset | plus: 1 %}
+<div id="post-list" class="flex-grow-1 px-xl-1" style="counter-reset: post {{ counter_start }}">
   {% for post in posts %}
     <article class="card-wrapper card">
       <a href="{{ post.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">

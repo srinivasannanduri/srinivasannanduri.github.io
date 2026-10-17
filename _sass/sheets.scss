@@ -481,7 +481,7 @@ main > article {
   margin-top: 1.5rem;
 
   .card-wrapper {
-    counter-increment: post;
+    counter-increment: post -1; /* counts down from the start value set in _layouts/home.html */
   }
 
   .card {
