@@ -13,7 +13,7 @@ image:
 
 We tend to keep technical debt in a single ledger. It belongs in two. Some debt sits behind an interface you own: you repay it on your own schedule, and nobody outside the team notices. Other debt leaks into a contract, such as an API shape, an identifier format, an error code, a default or a stored record. From GA onward, repaying that debt needs the time and cooperation of everyone who built on it.
 
-![Two kinds of technical debt on a scale: deferred optimization creates a performance cost, while deferred API or data model decisions create a compatibility cost. Make trade-offs explicit. Before GA, ask how expensive the decision will be to reverse.](/assets/img/posts/technical-debt-and-tradeoffs.webp){: width="1122" height="1402" }
+![Two kinds of technical debt on a scale: deferred optimization creates a performance cost, while deferred API or data model decisions create a compatibility cost. Make trade-offs explicit. Before GA, ask how expensive the decision will be to reverse.](/assets/img/posts/technical-debt-and-tradeoffs.webp){: .infographic width="1122" height="1402" }
 
 ## Two ledgers
 

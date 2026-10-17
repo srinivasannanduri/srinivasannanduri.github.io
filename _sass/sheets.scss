@@ -583,3 +583,47 @@ main > article .preview-img,
 main > article .preview-img + figcaption {
   display: none;
 }
+
+/* ---------- Page widths ----------
+ * The header and footer span the same width. The content sits just inside them:
+ * the post list on home fills the width, and on posts the article plus its
+ * table of contents fill it. The side panel only shows when it has a table of contents.
+ */
+
+/* From laptop width up; below that Chirpy already uses the full width. */
+@media (min-width: 992px) {
+  #main-wrapper > .container > .row > main {
+    flex: 1 1 0;
+    max-width: none;
+    width: auto;
+  }
+}
+
+#panel-wrapper:not(:has(#toc-wrapper)) {
+  display: none !important;
+}
+
+#tail-wrapper {
+  /* Chirpy narrows it to 96% at 992-1199px and to col-xl-9 above that */
+  flex: 0 0 100% !important;
+  max-width: 100% !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+
+  /* Previous/next links use negative side margins that assume the padding removed above */
+  .post-navigation {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+/* ---------- Images in posts ---------- */
+
+/* Portrait infographics: readable size in the page; click opens the full image. */
+.content img.infographic {
+  display: block;
+  width: 100%;
+  max-width: 520px;
+  height: auto;
+  margin-inline: auto;
+}
