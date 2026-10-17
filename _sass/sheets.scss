@@ -341,23 +341,36 @@ main > article {
   display: none !important;
 }
 
-/* ---------- Top bar: site name left; About, theme toggle and contact icons right ---------- */
+/* ---------- Top bar: photo and site name left; theme toggle and contact icons right ---------- */
 
 #topbar {
   gap: 0.25rem;
 }
 
 #site-name {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  min-width: 0;
   font: 800 1.15rem/1 $display;
   font-stretch: 112%;
   letter-spacing: -0.01em;
   color: var(--heading-color);
   white-space: nowrap;
-  padding-left: 0.5rem;
+  padding-left: 0.75rem;
   text-decoration: none;
 
   &:hover {
     color: var(--link-color);
+  }
+
+  .site-avatar {
+    flex: none;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 0 0 2px var(--card-bg), 0 0 0 3.5px var(--s-highlight);
   }
 }
 
@@ -366,20 +379,6 @@ main > article {
   align-items: center;
   gap: 0.15rem;
   margin-left: auto;
-
-  .top-about {
-    padding: 0.3rem 0.65rem;
-    border-radius: 999px;
-    font: 600 0.9rem $body;
-    color: var(--text-color);
-    text-decoration: none;
-
-    &:hover,
-    &.active {
-      background: var(--s-pen-soft);
-      color: var(--link-color);
-    }
-  }
 
   .top-icons {
     display: flex;
@@ -444,7 +443,7 @@ main > article {
   margin-left: 0.5rem !important;
 }
 
-/* Phones: icons get their own row under the top bar; the bar keeps name, About, theme and search */
+/* Phones: icons get their own row under the top bar; the bar keeps photo, name, theme and search */
 .phone-icons {
   display: none;
 }

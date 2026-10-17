@@ -1,11 +1,14 @@
 <!--
   Copied from jekyll-theme-chirpy 7.6.0 _includes/topbar.html and changed: the breadcrumb is replaced by the
-  site name, and the About link, theme toggle and contact icons sit on the right. The site has no sidebar.
+  photo and site name, and the theme toggle and contact icons sit on the right. The site has no sidebar.
 -->
 
 <header id="topbar-wrapper" class="flex-shrink-0" aria-label="Top Bar">
   <div id="topbar" class="d-flex align-items-center h-100 px-lg-3">
-    <a id="site-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <a id="site-name" href="{{ '/' | relative_url }}">
+      {%- if site.avatar -%}<img class="site-avatar" src="{{ site.avatar | relative_url }}" alt="" width="32" height="32">{%- endif -%}
+      <span>{{ site.title }}</span>
+    </a>
 
     <!-- Hidden; Chirpy's scripts expect these elements -->
     <button type="button" id="sidebar-trigger" class="btn btn-link" aria-hidden="true" tabindex="-1">
@@ -14,8 +17,6 @@
     <div id="topbar-title" aria-hidden="true"></div>
 
     <nav class="top-links" aria-label="Site">
-      <a class="top-about{% if page.url == '/about/' %} active{% endif %}" href="{{ '/about/' | relative_url }}">About</a>
-
       {% unless site.theme_mode == 'light' or site.theme_mode == 'dark' %}
         {%- capture icon_system -%}<i class="fa-solid fa-display fa-fw" data-theme-mode="system"></i>{%- endcapture -%}
         {%- capture icon_light -%}<i class="fa-regular fa-sun fa-fw" data-theme-mode="light"></i>{%- endcapture -%}

@@ -9,7 +9,7 @@ Built with [Jekyll](https://jekyllrb.com) and the [Chirpy](https://github.com/co
 |---|---|
 | Site title, avatar | `_config.yml` |
 | Top-bar icons (LinkedIn, X, Goodreads, RSS) | `_data/contact.yml` |
-| Top bar, no sidebar | `_includes/topbar.html`, `_includes/sidebar.html` |
+| Top bar (photo, name, icons), no sidebar | `_includes/topbar.html`, `_includes/sidebar.html` |
 | Blog posts | `_posts/YYYY-MM-DD-title.md` |
 | Unpublished drafts | `_drafts/` |
 | About page | `_tabs/about.md` |
