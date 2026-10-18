@@ -1,0 +1,49 @@
+<!-- Browse by category and by the most-used tags. Tag ranking follows Chirpy's trending-tags include. -->
+{% assign MAX = 12 %}
+{% assign size_list = '' | split: '' %}
+{% assign tag_list = '' | split: '' %}
+{% for tag in site.tags %}
+  {% assign size = tag | last | size %}
+  {% assign size_list = size_list | push: size %}
+  {% assign tag_str = tag | first | append: '::' | append: size %}
+  {% assign tag_list = tag_list | push: tag_str %}
+{% endfor %}
+{% assign size_list = size_list | sort | reverse %}
+{% assign tag_list = tag_list | sort_natural %}
+{% assign popular = '' | split: '' %}
+{% for size in size_list limit: MAX %}
+  {% for tag_str in tag_list %}
+    {% assign t = tag_str | split: '::' %}
+    {% assign t_name = t | first %}
+    {% assign t_size = t | last | plus: 0 %}
+    {% if t_size == size %}
+      {% unless popular contains tag_str %}
+        {% assign popular = popular | push: tag_str %}
+        {% break %}
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+<nav class="home-browse" aria-label="Browse posts">
+  <div class="browse-group">
+    <span class="eyebrow">Categories</span>
+    <div class="browse-chips">
+      {% assign cats = site.categories | sort %}
+      {% for c in cats %}
+        <a class="browse-chip" href="{{ c[0] | slugify | url_encode | prepend: '/categories/' | append: '/' | relative_url }}">{{ c[0] }}<span>{{ c[1].size }}</span></a>
+      {% endfor %}
+      <a class="browse-all" href="{{ '/categories/' | relative_url }}">All categories →</a>
+    </div>
+  </div>
+  <div class="browse-group">
+    <span class="eyebrow">Popular tags</span>
+    <div class="browse-chips">
+      {% for tag_str in popular %}
+        {% assign t = tag_str | split: '::' %}
+        <a class="card-tag" href="{{ t[0] | slugify | url_encode | prepend: '/tags/' | append: '/' | relative_url }}">{{ t[0] }}<span>{{ t[1] }}</span></a>
+      {% endfor %}
+      <a class="browse-all" href="{{ '/tags/' | relative_url }}">All tags →</a>
+    </div>
+  </div>
+</nav>

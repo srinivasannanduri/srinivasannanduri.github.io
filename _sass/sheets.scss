@@ -543,36 +543,133 @@ main > article {
   }
 }
 
+/* Home: posts as a plain list in one sheet, newest-highest numbering, no preview images */
 #post-list {
+  @extend %sheet;
+
   counter-reset: post;
-  margin-top: 1.5rem;
+  margin-top: 1rem;
+  padding: 0.25rem 1.4rem;
+}
 
-  .card-wrapper {
-    counter-increment: post -1; /* counts down from the start value set in _layouts/home.html */
+.post-row {
+  counter-increment: post -1; /* counts down from the start value set in _layouts/home.html */
+  display: grid;
+  gap: 0.3rem;
+  padding: 1rem 0;
+
+  & + & {
+    border-top: 1px solid var(--main-border-color);
   }
 
-  .card {
-    @extend %sheet;
-
-    transition: border-color 0.15s, transform 0.15s;
-
-    &:hover {
-      border-color: var(--link-color);
-      transform: translateY(-1px);
-    }
-  }
-
-  .card-title {
+  .post-row-title {
+    margin: 0;
+    font-size: 1.15rem;
     font-weight: 700;
     font-stretch: 104%;
+    line-height: 1.3;
 
     &::before {
       content: counter(post, decimal-leading-zero);
       margin-right: 0.6rem;
       font-weight: 800;
       font-stretch: 112%;
-      color: var(--main-border-color);
+      color: var(--text-muted-color);
+      opacity: 0.6;
     }
+
+    a {
+      color: var(--heading-color);
+      text-decoration: none;
+
+      &:hover {
+        color: var(--link-color);
+      }
+    }
+  }
+
+  .post-row-desc {
+    margin: 0;
+    color: var(--label-color);
+    font-size: 0.92rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .post-row-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.35rem 0.5rem;
+    font: 500 0.75rem $mono;
+    color: var(--text-muted-color);
+  }
+
+  .post-row-category {
+    font-weight: 600;
+    color: var(--s-highlight);
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+/* Home: browse by category and popular tags */
+.home-browse {
+  @extend %sheet;
+
+  display: grid;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+  padding: 1rem 1.4rem;
+
+  .browse-group {
+    display: grid;
+    grid-template-columns: 8.5rem minmax(0, 1fr);
+    align-items: baseline;
+    gap: 0.5rem 1rem;
+
+    @media (max-width: 575px) {
+      grid-template-columns: minmax(0, 1fr);
+    }
+  }
+
+  .browse-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+
+  .browse-chip {
+    padding: 0.15rem 0.7rem;
+    border-radius: 999px;
+    border: 1px solid var(--main-border-color);
+    background: var(--s-sheet-2);
+    color: var(--heading-color);
+    font: 600 0.82rem $body;
+    text-decoration: none;
+
+    &:hover {
+      border-color: var(--link-color);
+      color: var(--link-color);
+    }
+  }
+
+  .browse-chip span,
+  .card-tag span {
+    margin-left: 0.35rem;
+    color: var(--text-muted-color);
+    font-weight: 500;
+  }
+
+  .browse-all {
+    align-self: center;
+    font: 600 0.8rem $body;
+    text-decoration: none;
   }
 }
 
@@ -598,21 +695,15 @@ a.post-tag {
 
 /* ---------- Tags on home cards (plain labels: the whole card is a link) ---------- */
 
-/* Let the date, category and tags wrap instead of being cut off on narrow screens */
-#post-list .card .card-body .post-meta > div.me-auto:first-child {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 0.3rem 0.4rem;
-  white-space: normal;
-  overflow: visible;
-}
-
 .card-tags {
   display: inline-flex;
   flex-wrap: wrap;
   gap: 0.3rem;
   margin-left: 0.25rem;
+}
+
+a.card-tag {
+  text-decoration: none;
 }
 
 .card-tag {
@@ -644,12 +735,8 @@ h1.dynamic-title {
 }
 
 @media (prefers-reduced-motion: reduce) {
-  #post-list .card {
+  #post-list .post-row {
     transition: none;
-  }
-
-  #post-list .card:hover {
-    transform: none;
   }
 }
 
