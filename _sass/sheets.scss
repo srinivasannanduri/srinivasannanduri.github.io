@@ -789,6 +789,7 @@ main > article .preview-img + figcaption {
 @media (min-width: 992px) {
   #main-wrapper > .container > .row > main {
     flex: 1 1 0;
+    min-width: 0; /* a wide table or code block scrolls inside the post instead of pushing the contents panel below it */
     max-width: none;
     width: auto;
   }
@@ -824,6 +825,19 @@ main > article .preview-img + figcaption {
 @media (max-width: 991.98px) {
   #tail-wrapper > footer {
     padding: 0.5rem 0;
+  }
+}
+
+/* ---------- Tables in posts ---------- */
+
+/* Chirpy keeps every cell on one line; let prose cells wrap so tables fit the column (they still scroll when they can't) */
+.content .table-wrapper > table {
+  font-size: 0.85rem;
+
+  th,
+  td {
+    white-space: normal;
+    min-width: 5.5rem;
   }
 }
 
