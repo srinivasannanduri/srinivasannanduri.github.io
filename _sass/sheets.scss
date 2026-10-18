@@ -610,8 +610,10 @@ main > article .preview-img + figcaption {
   padding-left: 0 !important;
   padding-right: 0 !important;
 
-  /* Previous/next links use negative side margins that assume the padding removed above */
-  .post-navigation {
+  /* Previous/next links and the related-posts grid use negative side margins
+     that assume the padding removed above */
+  .post-navigation,
+  .row {
     margin-left: 0;
     margin-right: 0;
   }
