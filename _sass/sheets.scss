@@ -1,6 +1,6 @@
 /*
  * Bloomcode-style look for Chirpy: grid paper behind the content, raised sheets,
- * wide Archivo headings, IBM Plex text and mono labels, numbered navigation and chips.
+ * JetBrains Mono throughout (see Typography), numbered navigation and chips.
  * Palette follows bloomcode.github.io: green-grey paper and blue ink (light), deep navy (dark).
  *
  * Chirpy sets its colours as CSS variables under :root[data-bs-theme=...]
@@ -8,9 +8,11 @@
  * The same selectors are repeated here so these values win by source order.
  */
 
-$display: 'Archivo', 'Arial Narrow', 'Helvetica Neue', Arial, sans-serif;
-$body: 'IBM Plex Sans', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
-$mono: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace;
+/* One typeface, JetBrains Mono, for everything; weight, size and ligatures tell text, headings, labels and code apart */
+$jetbrains: 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace;
+$display: $jetbrains;
+$body: $jetbrains;
+$mono: $jetbrains;
 
 /* Syntax colours from bloomcode's code blocks (dark blocks in both modes) */
 @mixin code-colours($bg) {
@@ -256,22 +258,46 @@ $mono: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace;
 
 /* ---------- Typography ---------- */
 
+/* Text: regular weight, a little smaller and looser than a proportional face needs,
+   with programming ligatures off so prose reads as prose */
 body {
   font-family: $body;
+  font-weight: 400;
+  font-feature-settings: 'calt' 0;
 }
 
+.content {
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
+
+/* Headings: extra bold and slightly tightened */
 h1, h2, h3, h4, h5, h6,
 .site-title {
   font-family: $display;
   font-weight: 800;
-  font-stretch: 112%;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.02em;
 }
 
-h1.dynamic-title,
-.post header h1 {
-  font-stretch: 116%;
+/* Post subtitle: Chirpy sizes it for a proportional face; regular weight and a step smaller here */
+header .post-desc {
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.65;
+  color: var(--label-color);
 }
+
+/* Code: ligatures and the slashed zero on */
+code, kbd, pre, .highlight {
+  font-feature-settings: 'calt' 1, 'zero' 1;
+}
+
+/* Chirpy hard-codes Lato, Oswald or sans-serif on these */
+#topbar-title, .pagination, kbd, .post-tag span, #archives .day {
+  font-family: $body;
+}
+
 
 code, kbd, pre, .highlight, .code-header,
 .post-meta, .post-tag, #breadcrumb, .panel-heading, .eyebrow {
@@ -304,19 +330,27 @@ code, kbd, pre, .highlight, .code-header,
 }
 
 #topbar-wrapper {
+  /* The blur gives the bar its own layer; lift it so the theme menu opens above the home intro, which also blurs */
+  position: relative;
+  z-index: 3;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--main-border-color);
 }
 
-main > article {
+/* #main-wrapper outranks the px-1 utility class Chirpy puts on the article */
+#main-wrapper main > article {
   @extend %sheet;
 
   margin-top: 1.5rem;
   padding: 1.5rem 1.25rem 2rem !important;
 
   @media (min-width: 768px) {
-    padding: 2rem 2.25rem 2.5rem !important;
+    padding: 2.25rem 2.75rem 2.75rem !important;
+  }
+
+  @media (min-width: 1200px) {
+    padding: 2.5rem 3.5rem 3rem !important;
   }
 }
 
@@ -353,7 +387,6 @@ main > article {
   gap: 0.6rem;
   min-width: 0;
   font: 800 1.15rem/1 $display;
-  font-stretch: 112%;
   letter-spacing: -0.01em;
   color: var(--heading-color);
   white-space: nowrap;
@@ -566,14 +599,12 @@ main > article {
     margin: 0;
     font-size: 1.15rem;
     font-weight: 700;
-    font-stretch: 104%;
     line-height: 1.3;
 
     &::before {
       content: counter(post, decimal-leading-zero);
       margin-right: 0.6rem;
       font-weight: 800;
-      font-stretch: 112%;
       color: var(--text-muted-color);
       opacity: 0.6;
     }

@@ -3,6 +3,8 @@
 
 @use 'abstracts/variables' with (
   $theme: '{{ site.theme_mode }}',
+  $font-family-base: ('JetBrains Mono', ui-monospace, Menlo, Consolas, monospace), /* see _sass/sheets.scss */
+  $font-family-heading: ('JetBrains Mono', ui-monospace, Menlo, Consolas, monospace),
   $sidebar-width: 0px, /* the site has no sidebar */
   $sidebar-width-large: 0px,
   $footer-height: 2.5rem, /* half of Chirpy's 5rem */
