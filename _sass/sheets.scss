@@ -476,6 +476,73 @@ main > article {
   color: var(--text-muted-color);
 }
 
+/* ---------- Header description (home page): one block with the top bar ---------- */
+
+#topbar-wrapper:has(~ .header-intro) {
+  border-bottom: 0;
+}
+
+/* On the home page the photo moves from the top bar into the description below it */
+#topbar-wrapper:has(~ .header-intro) .site-avatar {
+  display: none;
+}
+
+.header-intro {
+  display: flex;
+  align-items: center;
+  gap: 1.1rem;
+  /* line the photo up under the name */
+  padding: 0.25rem 1rem 1rem 0.75rem;
+  background: var(--topbar-bg);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--main-border-color);
+
+  @media (min-width: 992px) {
+    padding-left: 1.75rem;
+    padding-right: 1.5rem;
+  }
+
+  .intro-photo {
+    flex: none;
+    width: 84px;
+    height: 84px;
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 0 0 3px var(--card-bg), 0 0 0 4.5px var(--s-highlight);
+  }
+
+  .intro-text {
+    display: grid;
+    gap: 0.4rem;
+    min-width: 0;
+  }
+
+  p {
+    margin: 0;
+    color: var(--text-color);
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+
+  .intro-links {
+    font: 600 0.85rem $body;
+    color: var(--text-muted-color);
+  }
+
+  @media (max-width: 575px) {
+    align-items: flex-start;
+    gap: 0.85rem;
+
+    .intro-photo {
+      width: 60px;
+      height: 60px;
+      margin-top: 0.2rem;
+    }
+  }
+}
+
 #post-list {
   counter-reset: post;
   margin-top: 1.5rem;
@@ -558,12 +625,22 @@ a.post-tag {
 
 /* ---------- About page photo (floated right by Chirpy's `right` image class) ---------- */
 
+/* Page titles: Chirpy hides them on small screens in favour of the top-bar title, which this site hides */
+h1.dynamic-title {
+  display: block !important;
+}
+
 .content img.about-photo {
   width: 120px;
   height: 120px;
   border-radius: 50%;
   object-fit: cover;
   box-shadow: 0 0 0 3px var(--card-bg), 0 0 0 5px var(--s-highlight);
+
+  @media (max-width: 575px) {
+    width: 88px;
+    height: 88px;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -641,4 +718,44 @@ main > article .preview-img + figcaption {
   max-width: 520px;
   height: auto;
   margin-inline: auto;
+}
+
+/* ---------- Resume page (Coming soon for now) ---------- */
+
+.coming-soon {
+  display: grid;
+  gap: 0.75rem;
+  padding: 1rem 0 0.5rem;
+
+  p {
+    margin: 0;
+  }
+}
+
+.resume-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 1rem;
+  margin-bottom: 1.5rem;
+
+  span {
+    font: 500 0.8rem $mono;
+    color: var(--text-muted-color);
+  }
+}
+
+.content a.resume-download {
+  display: inline-block;
+  padding: 0.45rem 1.1rem;
+  border-radius: 999px;
+  background: var(--link-color);
+  color: var(--card-bg);
+  font-weight: 600;
+  text-decoration: none;
+  border: 0;
+
+  &:hover {
+    filter: brightness(1.1);
+  }
 }

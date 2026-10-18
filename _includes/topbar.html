@@ -59,3 +59,5 @@
 
 <!-- On phones the contact icons sit in their own row under the top bar -->
 <nav class="phone-icons" aria-label="Elsewhere">{% include contact-links.html %}</nav>
+
+{% if page.layout == 'home' %}{% unless paginator.page > 1 %}{% include header-intro.html %}{% endunless %}{% endif %}

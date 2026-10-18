@@ -1,0 +1,9 @@
+<!-- Home page only: photo and description sit inside the header, under the name in the top bar.
+     The photo is a CSS background because Chirpy wraps every <img> on the home page in its thumbnail frame. -->
+<section class="header-intro" aria-label="About Srinivasan Nanduri">
+  <span class="intro-photo" role="img" aria-label="Photo of Srinivasan Nanduri" style="background-image: url('{{ site.avatar | relative_url }}')"></span>
+  <div class="intro-text">
+  <p>A seasoned Principal Engineer (Senior Technical Staff Member, STSM) at IBM Labs, India. For over two decades I have architected and built cloud systems, services and platforms, taking them from first design to global production alongside enterprise customers, with several US patents along the way. I focus on the technical strategy that turns complex infrastructure into simple, dependable platforms that teams build on.</p>
+  <p class="intro-links">Resume (<a href="{{ '/resume/' | relative_url }}" aria-label="Resume as a web page">HTML</a> | <a href="{{ '/resume/' | relative_url }}" aria-label="Resume as a PDF">PDF</a>)</p>
+  </div>
+</section>

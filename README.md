@@ -12,13 +12,27 @@ Built with [Jekyll](https://jekyllrb.com) and the [Chirpy](https://github.com/co
 | Top bar (photo, name, icons), no sidebar | `_includes/topbar.html`, `_includes/sidebar.html` |
 | Blog posts | `_posts/YYYY-MM-DD-title.md` |
 | Unpublished drafts | `_drafts/` |
-| About page | `_tabs/about.md` |
+| Header description (home page) | `_includes/header-intro.html` |
+| Resume page (Coming soon for now) | `_tabs/resume.md` |
 | Colours, fonts and layout styling | `_sass/sheets.scss` |
 
 ## Write a post
 
-1. Copy `_drafts/example-book-notes.md` to `_posts/2026-10-20-my-title.md`.
-2. Fill in the front matter (`title`, `date`, `categories`, `tags`, `description`) and write in Markdown.
+1. Create `_posts/YYYY-MM-DD-my-title.md`, dated by the post on X it grows from.
+2. Start it with front matter like this, then write in Markdown:
+
+   ```yaml
+   ---
+   title: "My title"
+   date: 2026-10-20 09:00:00 +0530
+   categories: [Architecture]
+   tags: [architecture, design-review]
+   description: "One sentence for search results and link previews."
+   image:
+     path: /assets/img/posts/my-title-cover.jpg
+     alt: "My title."
+   ---
+   ```
 3. Commit and push. The site rebuilds in a couple of minutes.
 
 ## Content rules
