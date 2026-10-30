@@ -852,17 +852,7 @@ main > article .preview-img + figcaption {
   margin-inline: auto;
 }
 
-/* ---------- Resume page (Coming soon for now) ---------- */
-
-.coming-soon {
-  display: grid;
-  gap: 0.75rem;
-  padding: 1rem 0 0.5rem;
-
-  p {
-    margin: 0;
-  }
-}
+/* ---------- Resume page ---------- */
 
 .resume-actions {
   display: flex;
