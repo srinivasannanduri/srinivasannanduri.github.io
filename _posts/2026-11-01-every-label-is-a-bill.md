@@ -54,7 +54,7 @@ A cardinality budget is a number of active series per team or service, owned by 
 
 **Make the spend visible.** Start with what each metric costs. These queries work on any Prometheus, and the TSDB status API (`/api/v1/status/tsdb`) gives you the same view without a heavy query:
 
-```promql
+```text
 # Top 10 metrics by series count
 topk(10, count by (__name__) ({__name__=~".+"}))
 
